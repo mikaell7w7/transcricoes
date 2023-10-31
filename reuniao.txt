@@ -1,174 +1,1833 @@
+﻿0:0:0.0 --> 0:0:2.710
 Abraão Dezidério da Silva
-0 minutes 4 seconds0:04
-Abraão Dezidério da Silva 0 minutes 4 seconds
 Passada, acho que foi.
-
-
-
-Abraão Dezidério da Silva started transcription
+0:0:2.720 --> 0:0:10.330
 Abraão Dezidério da Silva
-0 minutes 7 seconds0:07
-Abraão Dezidério da Silva 0 minutes 7 seconds
 Eu fui ontem, não lembro bem dia sobre um ajuste do carro de 1810 que você comentou que ele IA iria ficar mais simples, né?
-Abraão Dezidério da Silva 0 minutes 14 seconds
+0:0:10.340 --> 0:0:10.840
+Abraão Dezidério da Silva
 O desenvolvimento.
-Abraão Dezidério da Silva 0 minutes 17 seconds
+0:0:12.800 --> 0:0:14.330
+Abraão Dezidério da Silva
 Eu acho que é isso mesmo, não é Oo.
+0:0:12.960 --> 0:0:14.880
 Pablo Filetti Moreira
-0 minutes 17 seconds0:17
-Pablo Filetti Moreira 0 minutes 17 seconds
 Isso, isso.
-Pablo Filetti Moreira 0 minutes 23 seconds
+0:0:19.410 --> 0:0:20.360
+Pablo Filetti Moreira
 Só um seguro.
-Pablo Filetti Moreira 0 minutes 32 seconds
+0:0:28.100 --> 0:0:28.740
+Pablo Filetti Moreira
 Bloco.
-Pablo Filetti Moreira 0 minutes 36 seconds
+0:0:32.480 --> 0:0:33.440
+Pablo Filetti Moreira
 Estamos na Areia, não é?
-Pablo Filetti Moreira 0 minutes 37 seconds
+0:0:33.480 --> 0:0:36.10
+Pablo Filetti Moreira
 O Erick está na área deles, sol é.
+0:0:35.950 --> 0:0:36.130
 Abraão Dezidério da Silva
-0 minutes 40 seconds0:40
-Abraão Dezidério da Silva 0 minutes 40 seconds
 Está?
-Pablo Filetti Moreira 33 minutes 2 seconds
-A gente mapear como um, como um rótulo, é o assim da onde veio, entendeu?
-Pablo Filetti Moreira 33 minutes 9 seconds
-Mas é agora, tipo assim, quando eu dou o feedback, doutor João, a história de classe bui ção, aí eu preciso saber o que?
-Pablo Filetti Moreira 33 minutes 16 seconds
-Que falta aí?
-Pablo Filetti Moreira 33 minutes 17 seconds
-Essa visão do portfólio aqui é boa porque eu consigo ver ali é tipo uma Barrinha, né?
-Pablo Filetti Moreira 33 minutes 22 seconds
-Fala, não falta tanto, tá faltando tal coisa, consigo ver sair arkia, né?
-Pablo Filetti Moreira 33 minutes 30 seconds
-Como criou velho?
-Abraão Dezidério da Silva
-33 minutes 33 seconds33:33
-Abraão Dezidério da Silva 33 minutes 33 seconds
-Mas aí é.
-Abraão Dezidério da Silva 33 minutes 34 seconds
-É, se não criar, a gente faz outro outro modelo que vai ser foi.
+0:0:37.350 --> 0:0:42.670
 Pablo Filetti Moreira
-33 minutes 40 seconds33:40
-Pablo Filetti Moreira 33 minutes 40 seconds
-9, tá rodando?
-Pablo Filetti Moreira 33 minutes 43 seconds
-Sobre o?
-Abraão Dezidério da Silva
-33 minutes 43 seconds33:43
-Abraão Dezidério da Silva 33 minutes 43 seconds
-Abre, abre aquela aquela história que você cria aquela história que você criou.
+É o seguinte, esse card é a gente fez ela esse até a prioridade.
+0:0:44.320 --> 0:0:45.400
 Pablo Filetti Moreira
-33 minutes 49 seconds33:49
-Pablo Filetti Moreira 33 minutes 49 seconds
-Como é que eu abro só pelo por lá, né?
-Abraão Dezidério da Silva
-33 minutes 51 seconds33:51
-Abraão Dezidério da Silva 33 minutes 51 seconds
-É, eu não lembro o numero dela.
-Janaina Almeida de Deus
-33 minutes 56 seconds33:56
-Janaina Almeida de Deus 33 minutes 56 seconds
-Desculpa Brown.
-Janaina Almeida de Deus 33 minutes 57 seconds
-Será que não vai lá pro Pendências lá embaixo, não?
-Abraão Dezidério da Silva
-34 minutes34:00
-Abraão Dezidério da Silva 34 minutes
-Vai, mas ela não fica vinculada.
-Janaina Almeida de Deus
-34 minutes 3 seconds34:03
-Janaina Almeida de Deus 34 minutes 3 seconds
-Assim é essa aqui é a ideia, né?
-Abraão Dezidério da Silva
-34 minutes 4 seconds34:04
-Abraão Dezidério da Silva 34 minutes 4 seconds
-A gente criou a história.
-Abraão Dezidério da Silva 34 minutes 5 seconds
-Agora a gente não quer isso vincular as sub tarefas.
+Hoje em dia é a prioridade.
+0:0:45.410 --> 0:0:50.630
 Pablo Filetti Moreira
-34 minutes 11 seconds34:11
-Pablo Filetti Moreira 34 minutes 11 seconds
-Deixa eu ver aqui, sim?
-Pablo Filetti Moreira 34 minutes 17 seconds
-Eu salve cheiro da Nina. Eita.
-Pablo Filetti Moreira 34 minutes 29 seconds
-É pronto, vai se atrasar lá, deixa.
-Pablo Filetti Moreira 34 minutes 32 seconds
-Depois a gente vê.
+Mordo doutor João e aí a gente começou AA fazer isso e pegou.
+0:0:50.640 --> 0:0:53.500
+Pablo Filetti Moreira
+Reunião segunda passada, reunião data ajude.
+0:0:53.510 --> 0:0:57.150
+Pablo Filetti Moreira
+Ele passou em relação AA.
+0:0:57.160 --> 0:0:58.930
+Pablo Filetti Moreira
+Essa questão do módulo de atraso, né?
+0:0:58.940 --> 0:1:7.490
+Pablo Filetti Moreira
+Que é o pedido lá do eu estou lhe bonatti, e aí assim a gente começou a fazer os requisitos e tudo mais.
+0:1:7.500 --> 0:1:10.520
+Pablo Filetti Moreira
+Chegou numa implementação ali, que foi aquela inicial.
+0:1:12.150 --> 0:1:21.50
+Pablo Filetti Moreira
+Só que depois no final de semana, agora eu estava refletindo sobre o que que a gente tinha é planejado e tal e tudo mais.
+0:1:21.900 --> 0:1:23.670
+Pablo Filetti Moreira
+E a gente precisa rever isso.
+0:1:23.800 --> 0:1:31.120
+Pablo Filetti Moreira
+Está, infelizmente, mas assim, pelo que eu estava vendo aqui, é que tu pode até confirmar aí para a gente também tinha.
+0:1:31.130 --> 0:1:33.430
+Pablo Filetti Moreira
+Nem chegou a começar essa 1810, né?
+0:1:33.440 --> 0:1:34.260
+Pablo Filetti Moreira
+Tinha pego primeira?
+0:1:35.490 --> 0:1:38.360
+Pablo Filetti Moreira
+AAA outra isso lá, né?
+0:1:38.370 --> 0:1:40.760
+Pablo Filetti Moreira
+Que é a do que é?
+0:1:40.770 --> 0:1:42.240
+Pablo Filetti Moreira
+A do a do API, né?
+0:1:44.570 --> 0:1:44.870
+Erick Patrick Xavier Oliveira
+Isso.
+0:1:42.430 --> 0:1:46.250
+Pablo Filetti Moreira
+Que acho que é a do 0918 09, não beleza.
+0:1:46.260 --> 0:1:52.980
+Pablo Filetti Moreira
+Então assim, menos mal que a gente teve sol, perdeu tempo ali da reunião de alinhamento anterior.
+0:1:53.710 --> 0:1:58.630
+Pablo Filetti Moreira
+Então assim, vamos lá, vamos, vocês vão gravar uma coisa assim, tá tudo certo.
+0:2:0.180 --> 0:2:0.560
 Abraão Dezidério da Silva
-34 minutes 34 seconds34:34
-Abraão Dezidério da Silva 34 minutes 34 seconds
-Mas aí deixa eu te explicar, é você vai abrir a história?
-Abraão Dezidério da Silva 34 minutes 38 seconds
-OK?
-Pablo Filetti Moreira
-34 minutes 39 seconds34:39
-Pablo Filetti Moreira 34 minutes 39 seconds
-Aqui eu consigo fazer se abrir história, porque ele não deixa.
+Isso.
+0:2:0.570 --> 0:2:1.170
 Abraão Dezidério da Silva
-34 minutes 41 seconds34:41
-Abraão Dezidério da Silva 34 minutes 41 seconds
-Consegue.
-Abraão Dezidério da Silva 34 minutes 42 seconds
-Consegue se você lembrar o número dela, ela fica lá em baixo.
-Abraão Dezidério da Silva 34 minutes 45 seconds
-Geralmente, as últimas que você criou fica lá no último.
-Abraão Dezidério da Silva 34 minutes 57 seconds
-Apareceu aí?
-Pablo Filetti Moreira
-35 minutes 2 seconds35:02
-Pablo Filetti Moreira 35 minutes 2 seconds
-Eu acho que ele não criou, não é histórico de classe.
+Já estamos gravando.
+0:2:3.60 --> 0:2:3.420
 Abraão Dezidério da Silva
-35 minutes 12 seconds35:12
-Abraão Dezidério da Silva 35 minutes 12 seconds
-Acho que ele.
+Aham.
+0:2:1.870 --> 0:2:3.920
 Pablo Filetti Moreira
-35 minutes 16 seconds35:16
-Pablo Filetti Moreira 35 minutes 16 seconds
-Você está aqui?
-Pablo Filetti Moreira 35 minutes 16 seconds
-O review change.
-Pablo Filetti Moreira 35 minutes 18 seconds
-Não criou, não.
+Está gravando a me liga futebol.
+0:2:4.690 --> 0:2:10.320
+Pablo Filetti Moreira
+Eu já até alterei aqui, OOOA, descrição aqui do card do back end, tá?
+0:2:11.270 --> 0:2:14.260
+Pablo Filetti Moreira
+Na verdade, continua a mesma coisa.
+0:2:14.450 --> 0:2:19.300
+Pablo Filetti Moreira
+O que a gente fez foi tirar aquela parte da alteração da tabela, processa validação.
+0:2:20.190 --> 0:2:23.770
+Pablo Filetti Moreira
+A gente só vai, a gente vai receber as Datas que vem na PE.
+0:2:24.260 --> 0:2:26.100
+Pablo Filetti Moreira
+Todas as regras permanecem a mesma.
+0:2:27.40 --> 0:2:30.150
+Pablo Filetti Moreira
+A única coisa que a gente não vai mais fazer é gravar lá na.
+0:2:30.160 --> 0:2:34.550
+Pablo Filetti Moreira
+Na processo, validação a os totais calculados do atraso.
+0:2:34.740 --> 0:2:37.300
+Pablo Filetti Moreira
+Aquele nome vai ser necessário, é isso que mudou.
+0:2:37.980 --> 0:3:0.120
+Pablo Filetti Moreira
+E aí aquela etapa lá ela servia pra gente computar as estatísticas e aí pra isso cria um novo card para para que depois que a gente fizer o 1809-1810, alterado agora e o 1812, que é a parte do extrator, a gente vai entrar no 1826.
+0:3:1.410 --> 0:3:11.230
+Pablo Filetti Moreira
+Depois que tiver todo esses outros 3 prontos, a gente vai entrar nesse cara aqui pra gente ver como é que a gente vai fazer essa coleta de estatísticas é, eu já tive algumas.
+0:3:11.420 --> 0:3:14.280
+Pablo Filetti Moreira
+Até conversei aqui com sites com, com Michael.
+0:3:14.290 --> 0:3:27.650
+Pablo Filetti Moreira
+A gente teve algumas Ideas aqui, mas aí a gente, quando chegar nesse momento, a gente discute pessoalmente com Eric, né que tá vai estar por dentro aí da demanda pra gente ver qual vai ser a melhor abordagem para a gente ir atuar nesse.
+0:3:27.690 --> 0:3:30.360
+Pablo Filetti Moreira
+Nessa isso, essa.
+0:3:30.810 --> 0:3:33.300
+Pablo Filetti Moreira
+Esse caixa, na verdade, é isso.
+0:3:32.760 --> 0:3:40.390
+Erick Patrick Xavier Oliveira
+Oo Pablo só tem uma coisa, você fala, não dá importância do mais, o que acontece é semana que vem.
+0:3:40.400 --> 0:3:43.770
+Erick Patrick Xavier Oliveira
+Eu, indiferença, está eu fico 2 semanas sem atuação.
+0:3:45.120 --> 0:3:48.290
+Erick Patrick Xavier Oliveira
+É só que a parte do da p eu tô fechando, eu tô fechando já.
+0:3:48.620 --> 0:3:50.830
+Erick Patrick Xavier Oliveira
+Eu estava fechando ontem eu parei porque.
+0:3:50.840 --> 0:3:51.780
+Erick Patrick Xavier Oliveira
+IA ter essa reunião aqui.
+0:3:51.790 --> 0:4:7.80
+Erick Patrick Xavier Oliveira
+Eu fui mexer com outras coisas que os meninos do do do teste liberou do gerando MR fazendo RB, essas coisas ai que eu pensei essa semana eu consigo matar a parte da PNL deixar pronta é você acha que é nessa a gente passar para outro?
+0:4:7.90 --> 0:4:9.420
+Erick Patrick Xavier Oliveira
+Deve pra mexer com isso, visto a criticidade.
+0:4:13.370 --> 0:4:15.20
+Pablo Filetti Moreira
+De é um negócio, aqui tudo está crítico.
+0:4:15.30 --> 0:4:18.670
+Pablo Filetti Moreira
+Agora acho que vai ficar 2 semanas.
+0:4:18.740 --> 0:4:24.910
+Pablo Filetti Moreira
+Acho melhor como tu já está por dentro, porque essa semana aqui praticamente vai ser feriado amanhã e quinta, né?
+0:4:26.450 --> 0:4:28.710
+Pablo Filetti Moreira
+Aí tu voltaria dia 13, né?
+0:4:25.590 --> 0:4:31.720
+Erick Patrick Xavier Oliveira
+Aham, livro dia 20 eu minhas férias começa dia 6.
+0:4:30.390 --> 0:4:32.930
+Pablo Filetti Moreira
+Já vi a Tati.
+0:4:32.940 --> 0:4:35.430
+Pablo Filetti Moreira
+A 6, não me aí volta de 20.
+0:4:35.840 --> 0:4:37.420
+Erick Patrick Xavier Oliveira
+Em que cidade é fazer muita coisa, né?
+0:4:37.430 --> 0:4:39.260
+Erick Patrick Xavier Oliveira
+Mas eu acho que não daria pra gente fazer todo o fluxo, né?
+0:4:39.270 --> 0:4:42.970
+Erick Patrick Xavier Oliveira
+De teste de até o teste, a gente tem que ter, como é que a gente afasta desse cara, né?
+0:4:43.980 --> 0:4:45.270
+Erick Patrick Xavier Oliveira
+Se vai ter teste realmente, né?
+0:4:45.750 --> 0:4:46.440
+Pablo Filetti Moreira
+Não teste dele.
+0:4:46.450 --> 0:4:48.300
+Pablo Filetti Moreira
+Vai ser simples, é olhar no banco, né?
+0:4:49.160 --> 0:4:54.370
+Pablo Filetti Moreira
+Onde ele pode dar 11 outra ideia, mas praticamente é, é olhar no banco essa do back end.
+0:4:54.380 --> 0:4:58.550
+Pablo Filetti Moreira
+Não é olhar no banco, está gravando essas Datas certinho, tudo aqui.
+0:5:0.290 --> 0:5:0.550
+Erick Patrick Xavier Oliveira
+Oo.
+0:5:0.500 --> 0:5:20.180
+Pablo Filetti Moreira
+O problema é que essa é, na prática, quando a gente fizer o back end, a gente ainda não vai estar mandando a mensagem que a gente não vai ter um trator ainda mandando a mensagem no formato que a gente vai ter que, tipo assim, pegar uma mensagem lá e mandar uma mensagem fake para ele direto pela PM para inserir lá com a data que a gente vai testar.
+0:5:20.190 --> 0:5:30.650
+Pablo Filetti Moreira
+Se ele gravou a data corretamente, porque se se a gente pegar uma mensagem normal, lado no banco de de deve, ela vai vim sem essa data de de conhecimento, né?
+0:5:30.660 --> 0:5:33.310
+Pablo Filetti Moreira
+As Datas de conhecimento e vão ser enviadas, né?
+0:5:35.600 --> 0:5:35.940
+Erick Patrick Xavier Oliveira
+Então?
+0:5:33.320 --> 0:5:37.760
+Pablo Filetti Moreira
+Da das mensagens, que é que AAAPE?
+0:5:39.660 --> 0:5:39.970
+Pablo Filetti Moreira
+Oi.
+0:5:40.520 --> 0:5:42.740
+Pablo Filetti Moreira
+Sabe o negócio contida, estatística.
+0:5:44.740 --> 0:5:46.990
+Pablo Filetti Moreira
+Mudou aqui em, perdeu o negócio.
+0:5:50.10 --> 0:5:50.290
+Pablo Filetti Moreira
+É?
+0:5:51.870 --> 0:5:56.780
+Erick Patrick Xavier Oliveira
+Pegue o histórico aí pra pra ficar melhor e entra Na Na embaixo da atividade, lá no final.
+0:5:58.680 --> 0:5:59.440
+Erick Patrick Xavier Oliveira
+Pega o histórico dela.
+0:5:57.950 --> 0:6:1.290
+Pablo Filetti Moreira
+Tá, tá aqui essa parte aqui, ó, é essas Datas aqui.
+0:6:2.610 --> 0:6:5.820
+Pablo Filetti Moreira
+É, elas têm que ser incorporadas, né?
+0:6:8.690 --> 0:6:10.170
+Erick Patrick Xavier Oliveira
+Um Natal dos que surgiu?
+0:6:10.180 --> 0:6:11.720
+Erick Patrick Xavier Oliveira
+Paulo, que que eu fiz, é?
+0:6:6.30 --> 0:6:12.660
+Pablo Filetti Moreira
+Na nessas entidades a gente tem que ter mais, pois é, o pessoal está matando.
+0:6:12.670 --> 0:6:16.30
+Pablo Filetti Moreira
+Aí tem que ter um, ter um cuidado aí para não matar o que tem na lixo, né?
+0:6:16.240 --> 0:6:20.620
+Pablo Filetti Moreira
+Que acabou aqui tem nada a ver uma coisa com a outra aqui, tá?
+0:6:22.210 --> 0:6:22.710
+Pablo Filetti Moreira
+Direito?
+0:6:22.160 --> 0:6:24.130
+Erick Patrick Xavier Oliveira
+É uma dor sujo, tá?
+0:6:24.140 --> 0:6:30.960
+Erick Patrick Xavier Oliveira
+Surgiu que acontece, é, eu escrevi um novo, um novo construtor ou esses 2 caras, certo?
+0:6:31.650 --> 0:6:32.500
+Pablo Filetti Moreira
+Certo?
+0:6:32.740 --> 0:6:35.330
+Erick Patrick Xavier Oliveira
+É que a contempla esses 2.
+0:6:35.670 --> 0:6:38.630
+Erick Patrick Xavier Oliveira
+Mas se o cara mandar no nele, é ele.
+0:6:39.60 --> 0:6:41.470
+Erick Patrick Xavier Oliveira
+Ele está dando nenhum dos testes, né?
+0:6:41.490 --> 0:6:47.570
+Erick Patrick Xavier Oliveira
+Seu carro tocar como nulo, porque o que que você acha da gente se o cara acertar, anula ele?
+0:6:47.580 --> 0:6:49.470
+Erick Patrick Xavier Oliveira
+Ele acertar o optional input.
+0:6:49.660 --> 0:6:54.950
+Erick Patrick Xavier Oliveira
+Porque se o cara botar um consultor anterior, né, que não passa os 2, ele tá tá copiando a um empate p leza.
+0:6:55.420 --> 0:7:1.120
+Erick Patrick Xavier Oliveira
+Agora, se nesse novo construtor ele passa a esses 2 ele como o Lula está ficando no eu posso fazer sempre fica, são você acha melhor não.
+0:7:3.20 --> 0:7:6.860
+Pablo Filetti Moreira
+Olha, na prática, esse.
+0:7:6.900 --> 0:7:7.330
+Pablo Filetti Moreira
+Essa.
+0:7:7.340 --> 0:7:13.180
+Pablo Filetti Moreira
+Esse construtor, na verdade, vai ser chamado dentro dos trator que vai ser nosso domingo.
+0:7:13.190 --> 0:7:14.620
+Pablo Filetti Moreira
+Vai ser nosso, então assim.
+0:7:15.690 --> 0:7:18.620
+Pablo Filetti Moreira
+É, deixa eu ver como é que foi tratado aqui.
+0:7:18.630 --> 0:7:24.820
+Pablo Filetti Moreira
+Outros tem outras demandas a gente, o que geralmente é ótimo.
+0:7:27.560 --> 0:7:28.310
+Pablo Filetti Moreira
+Não estás a preocupar.
+0:7:27.410 --> 0:7:31.730
+Erick Patrick Xavier Oliveira
+Ildeu, olhado em outros em outros cenários, a gente colocou um construtor, sabe?
+0:7:31.860 --> 0:7:33.130
+Erick Patrick Xavier Oliveira
+Só deixa um construtor padrão.
+0:7:30.70 --> 0:7:35.710
+Pablo Filetti Moreira
+Sei lá, isso aí, esse aqui, por exemplo, processo, metadados, né?
+0:7:35.720 --> 0:7:39.920
+Pablo Filetti Moreira
+A gente tem assunto principal valor da causa são opcionais, correto?
+0:7:39.990 --> 0:7:43.900
+Pablo Filetti Moreira
+Aí tem esses outros caras que que são opcionais também essa entidade aqui.
+0:7:43.910 --> 0:7:45.900
+Pablo Filetti Moreira
+Ela não acho que ela nem tem construtor.
+0:7:46.30 --> 0:7:48.560
+Pablo Filetti Moreira
+Ele ainda o new construtor padrão.
+0:7:48.600 --> 0:7:51.140
+Pablo Filetti Moreira
+E depois sai preenchendo os Campos, né?
+0:7:52.300 --> 0:7:54.820
+Pablo Filetti Moreira
+Ouvir outra aqui, mas aqui não é um bom exemplo.
+0:7:56.80 --> 0:7:58.370
+Pablo Filetti Moreira
+Pronto, movimento, movimento.
+0:7:58.900 --> 0:8:0.220
+Pablo Filetti Moreira
+Ele tem data de exclusão.
+0:8:1.270 --> 0:8:4.530
+Pablo Filetti Moreira
+Aí que que ele faz aqui, ó ele, pá, ele força o cara, mandar o dado.
+0:8:4.540 --> 0:8:7.30
+Pablo Filetti Moreira
+Se o cara mandar nulo, ele vai fazer um ótimo do Lula.
+0:8:8.190 --> 0:8:10.770
+Pablo Filetti Moreira
+Então, se ele mandar preenchido, vai dar, vai preencher, né?
+0:8:11.440 --> 0:8:18.200
+Erick Patrick Xavier Oliveira
+Está aqui que eu pensei, porque tem os casos do que vai ter o vai ter na versão vai ter esse dado de outro?
+0:8:18.210 --> 0:8:18.640
+Erick Patrick Xavier Oliveira
+Não, né?
+0:8:19.930 --> 0:8:20.460
+Erick Patrick Xavier Oliveira
+Como é que vai ficar?
+0:8:21.930 --> 0:8:26.620
+Pablo Filetti Moreira
+Então, mas aí tu tem que ter o construtor padrão, porque eu construo padrão, vai ficar em TI aqui, ó.
+0:8:28.590 --> 0:8:29.10
+Pablo Filetti Moreira
+Por que tu tá?
+0:8:30.660 --> 0:8:31.10
+Pablo Filetti Moreira
+Manda aí.
+0:8:28.350 --> 0:8:31.370
+Erick Patrick Xavier Oliveira
+Ative mostrar um exemplo aqui rapidinho é você entender aqui.
+0:8:33.110 --> 0:8:33.840
+Erick Patrick Xavier Oliveira
+Baixar contigo.
+0:8:35.780 --> 0:8:36.40
+Pablo Filetti Moreira
+Abrir.
+0:8:38.510 --> 0:8:38.830
+Erick Patrick Xavier Oliveira
+Eu estou.
+0:8:41.160 --> 0:8:41.530
+Pablo Filetti Moreira
+É porque.
+0:8:40.970 --> 0:8:41.810
+Erick Patrick Xavier Oliveira
+A Deus, né?
+0:8:42.940 --> 0:8:45.140
+Pablo Filetti Moreira
+Porque assim, no código Java mesmo, Hein?
+0:8:45.150 --> 0:8:49.0
+Pablo Filetti Moreira
+Só vai dar new nesse cara no trator de novo para.
+0:8:48.390 --> 0:8:50.970
+Erick Patrick Xavier Oliveira
+Precisa ver, eu queria os 2 caras aqui, beleza?
+0:8:51.760 --> 0:8:53.310
+Pablo Filetti Moreira
+Aham.
+0:8:51.880 --> 0:8:54.20
+Erick Patrick Xavier Oliveira
+E tem esse esse, esses 2 carinhas aqui.
+0:8:56.770 --> 0:9:0.720
+Erick Patrick Xavier Oliveira
+O custo padrão dele, que estava no projeto é esse aqui, ó, fui Cristo aqui de armas.
+0:8:59.940 --> 0:9:2.20
+Pablo Filetti Moreira
+Vai ter ali, ele tem um público ali em cima.
+0:9:3.470 --> 0:9:3.610
+Erick Patrick Xavier Oliveira
+Tá?
+0:9:3.30 --> 0:9:7.690
+Pablo Filetti Moreira
+Ele precisa daquele público ali por causa do Jackson para para de ser realizar o Jason.
+0:9:9.200 --> 0:9:9.840
+Pablo Filetti Moreira
+Então quando.
+0:9:10.190 --> 0:9:14.560
+Pablo Filetti Moreira
+Quando os trator manda para o codex, ele vai mandar esse dado aí, né?
+0:9:14.640 --> 0:9:15.680
+Pablo Filetti Moreira
+Aí os trator pega.
+0:9:15.690 --> 0:9:25.600
+Pablo Filetti Moreira
+Esse dado vai se realizar em dizer quando chega do lado codex, ele tem que de ser realizar essa mensagem aí e aí ele usa esse construtor aqui, Oo mensagem de novo processo a imagina.
+0:9:24.820 --> 0:9:25.770
+Erick Patrick Xavier Oliveira
+Então isso aqui não existe.
+0:9:28.230 --> 0:9:28.770
+Erick Patrick Xavier Oliveira
+Seria assim?
+0:9:31.60 --> 0:9:31.770
+Pablo Filetti Moreira
+É eu.
+0:9:31.780 --> 0:9:35.130
+Pablo Filetti Moreira
+E como esse campo, ele é opcional, eu faria o seguinte, eu receberia ali.
+0:9:35.140 --> 0:9:39.430
+Pablo Filetti Moreira
+O é funciona dessa dessa forma não, senhora.
+0:9:39.980 --> 0:9:41.50
+Pablo Filetti Moreira
+É, e aí eu.
+0:9:41.900 --> 0:9:43.50
+Pablo Filetti Moreira
+É o nível, é o ruim.
+0:9:43.60 --> 0:9:45.0
+Pablo Filetti Moreira
+Dessa forma é que o cara pode mandar um Lula ali.
+0:9:45.10 --> 0:9:46.60
+Pablo Filetti Moreira
+É isso que está falando, né?
+0:9:46.40 --> 0:9:46.870
+Erick Patrick Xavier Oliveira
+E isso, isso.
+0:9:47.470 --> 0:9:47.880
+Pablo Filetti Moreira
+Mas.
+0:9:47.920 --> 0:9:51.590
+Pablo Filetti Moreira
+Mas isso vamos supor se quem é cometesse raiz seria a gente mesmo.
+0:9:51.600 --> 0:9:56.140
+Pablo Filetti Moreira
+Lá nos tratou de cometer esse erro, mas vamos supor que TI cometesse lá, o que vai acontecer?
+0:9:56.150 --> 0:10:0.180
+Pablo Filetti Moreira
+Na prática, ele vai setar o opcional Lula ali, em data de conhecimento.
+0:10:1.10 --> 0:10:10.420
+Pablo Filetti Moreira
+O máximo que pode acontecer, estouraram no pontes e eu em algum lugar lá dentro dos trator, ele dá o Goethe, data de conversou ali da de conhecimento do do conversor, uma coisa assim, ele pode trauma?
+0:10:10.430 --> 0:10:10.840
+Pablo Filetti Moreira
+Fontes.
+0:10:10.850 --> 0:10:12.200
+Pablo Filetti Moreira
+E porque não existe Washington?
+0:10:13.50 --> 0:10:17.100
+Pablo Filetti Moreira
+Mas na prática, não existe isso aí lá não, não vai ter lugar.
+0:10:17.110 --> 0:10:20.600
+Pablo Filetti Moreira
+Creio eu, que não vai ter lugar que vai fazer esse Getty aí do ópio. Ele.
+0:10:20.360 --> 0:10:20.980
+Erick Patrick Xavier Oliveira
+É porque eu fui.
+0:10:20.610 --> 0:10:21.360
+Pablo Filetti Moreira
+Ele vai ser ele.
+0:10:21.590 --> 0:10:24.360
+Pablo Filetti Moreira
+Ele vai ser realizado, falei.
+0:10:24.240 --> 0:10:26.370
+Erick Patrick Xavier Oliveira
+É que eu fiz o teste aqui, ó, aí ele quer ele.
+0:10:26.380 --> 0:10:27.30
+Erick Patrick Xavier Oliveira
+Ele quebra essa.
+0:10:31.990 --> 0:10:32.360
+Pablo Filetti Moreira
+Entendi.
+0:10:27.40 --> 0:10:32.440
+Erick Patrick Xavier Oliveira
+Pão que eu passo nos 2 ó, ele quebra, entendeu?
+0:10:32.400 --> 0:10:33.80
+Pablo Filetti Moreira
+Então é melhor.
+0:10:33.90 --> 0:10:39.230
+Pablo Filetti Moreira
+Tu é melhor para garantir, é eu faria igual, tá lá no movimento, eu não passaria o Office no dente.
+0:10:39.240 --> 0:10:45.320
+Pablo Filetti Moreira
+Aí, o construtor obrigaria a ter um campo, gente tira o OP.
+0:10:44.820 --> 0:10:45.460
+Erick Patrick Xavier Oliveira
+A que separa?
+0:10:46.170 --> 0:10:46.930
+Pablo Filetti Moreira
+Tio option.
+0:10:53.730 --> 0:10:54.200
+Pablo Filetti Moreira
+Exato.
+0:10:54.210 --> 0:10:56.660
+Pablo Filetti Moreira
+E ali embaixo já tá certo lá, ó fino é.
+0:11:3.980 --> 0:11:4.270
+Erick Patrick Xavier Oliveira
+Aí?
+0:10:57.290 --> 0:11:7.370
+Pablo Filetti Moreira
+Os 2 vão no lei do só que aí tem que pegar cada um ao seu respectivo aí, perfeita e aí tudo aí tu não tem erro de de no ponte aí agora.
+0:11:8.40 --> 0:11:9.910
+Erick Patrick Xavier Oliveira
+Tá aí, ele sai quebrando esses caras aqui.
+0:11:9.950 --> 0:11:12.740
+Erick Patrick Xavier Oliveira
+Bom, eu posso botar no nesses 2, então a gente saiu quebrando.
+0:11:12.500 --> 0:11:15.930
+Pablo Filetti Moreira
+Então esse cara aí que quebrou, porque assim?
+0:11:15.940 --> 0:11:17.700
+Pablo Filetti Moreira
+Na verdade, o teste não quebrou aí, né?
+0:11:17.710 --> 0:11:30.280
+Pablo Filetti Moreira
+A gente está, na verdade, assim fecha, vamos lá, deixa eu, deixa eu reformular que eu falei, fecha, quebrou de fato faz assim, o teste não quebrou porque tu fez uma alteração que perdeu a lógica e tal.
+0:11:30.340 --> 0:11:37.920
+Pablo Filetti Moreira
+Na verdade, o que quebrou aí foi o seguinte, a gente acrescentou 2 novos métodos e é normal teste quebrar, porque o teste não está se adequando.
+0:11:37.930 --> 0:11:38.550
+Pablo Filetti Moreira
+A nova versão.
+0:11:39.200 --> 0:11:39.730
+Erick Patrick Xavier Oliveira
+Aham.
+0:11:39.520 --> 0:11:39.900
+Pablo Filetti Moreira
+Que bom.
+0:11:39.910 --> 0:11:44.260
+Pablo Filetti Moreira
+É algo, não é porque a regra de negócio que não está funcionando direito, na verdade, não.
+0:11:44.270 --> 0:11:47.260
+Pablo Filetti Moreira
+A gente acrescentou 2 Campos e não está tratando isso no lado do teste.
+0:11:48.30 --> 0:12:0.250
+Pablo Filetti Moreira
+Aí tu tem, tu tem 2 possibilidades, como esse teste, aí ele vai testar se o se o atributo foi enviado é net, fonte de dados origem de metadados, a gente está falando uma mensagem novo, professor, novo processo.
+0:12:0.980 --> 0:12:12.630
+Pablo Filetti Moreira
+A gente a gente quer que agora o cara tem que dizer se vai mandar a data ou não, então tu pode uma possibilidade de criar esse construtor passando em ti para manter a compatibilidade com a versão antiga.
+0:12:13.250 --> 0:12:14.10
+Pablo Filetti Moreira
+Eu faria isso.
+0:12:15.130 --> 0:12:15.620
+Pablo Filetti Moreira
+Eu criei um.
+0:12:15.50 --> 0:12:16.960
+Erick Patrick Xavier Oliveira
+Está aqui, eu chegar aqui fazer sim.
+0:12:17.500 --> 0:12:20.480
+Pablo Filetti Moreira
+Não, essa é uma possibilidade, mas eu não.
+0:12:20.520 --> 0:12:21.840
+Pablo Filetti Moreira
+Eu não seguiria esse caminho aí, não.
+0:12:22.660 --> 0:12:27.670
+Pablo Filetti Moreira
+Não seguireis caminhando, eu criaria um novo construtor lá dentro de mensagem isso.
+0:12:33.720 --> 0:12:35.160
+Erick Patrick Xavier Oliveira
+A gente já tem isso aqui, né? Hã.
+0:12:36.70 --> 0:12:37.340
+Pablo Filetti Moreira
+Então aí que que.
+0:12:37.350 --> 0:12:42.50
+Pablo Filetti Moreira
+Que que eu faria é, eu colocaria ali, tira as Datas.
+0:12:42.890 --> 0:12:45.180
+Erick Patrick Xavier Oliveira
+Deixaria repetir, não é fazer isso.
+0:12:44.730 --> 0:12:49.420
+Pablo Filetti Moreira
+Isso aí eu chamo, diz ali em cima não, eu chamaria o diz.
+0:12:53.710 --> 0:12:55.340
+Pablo Filetti Moreira
+Apaga tudinho aí, super.
+0:12:55.350 --> 0:12:59.950
+Pablo Filetti Moreira
+Tudo que tá aí eu aponta, eu farei esse construtor apontar para o que é mais completo.
+0:13:2.290 --> 0:13:2.830
+Erick Patrick Xavier Oliveira
+Atende.
+0:13:5.250 --> 0:13:8.780
+Pablo Filetti Moreira
+E aí eu passaria input, mas ali é nula.
+0:13:8.790 --> 0:13:9.860
+Pablo Filetti Moreira
+Verdade, nesse caso aí.
+0:13:12.10 --> 0:13:12.230
+Erick Patrick Xavier Oliveira
+V.
+0:13:12.240 --> 0:13:14.450
+Erick Patrick Xavier Oliveira
+Te chamar super, você chamaria o novo ali.
+0:13:15.120 --> 0:13:15.470
+Pablo Filetti Moreira
+É?
+0:13:19.610 --> 0:13:20.130
+Pablo Filetti Moreira
+Não é tudo.
+0:13:20.140 --> 0:13:20.440
+Pablo Filetti Moreira
+Não, não.
+0:13:20.450 --> 0:13:21.420
+Pablo Filetti Moreira
+Aí tu faz, diz.
+0:13:22.290 --> 0:13:25.190
+Pablo Filetti Moreira
+Diz direto, como se fosse o super, diz.
+0:13:25.200 --> 0:13:26.860
+Pablo Filetti Moreira
+Aí passa os parâmetros, abre parênteses.
+0:13:28.940 --> 0:13:29.670
+Pablo Filetti Moreira
+Tira o ponto ali.
+0:13:32.40 --> 0:13:32.340
+Erick Patrick Xavier Oliveira
+Entendi.
+0:13:32.70 --> 0:13:33.880
+Pablo Filetti Moreira
+Isso aí, tu vai passar a fonte de dados.
+0:13:33.890 --> 0:13:35.810
+Pablo Filetti Moreira
+Origem de metadados, Lulu.
+0:13:39.260 --> 0:13:39.560
+Erick Patrick Xavier Oliveira
+Entendi.
+0:13:38.880 --> 0:13:47.560
+Pablo Filetti Moreira
+Essa é uma possibilidade, e assim se quisesse muito preciosismo, faria o terceiro construtor recebendo que deveria ser que você deveria.
+0:13:47.570 --> 0:13:48.780
+Pablo Filetti Moreira
+Ó, é impeachment.
+0:13:50.620 --> 0:13:52.150
+Erick Patrick Xavier Oliveira
+Entendi que você quer achar resolve, né?
+0:13:52.160 --> 0:13:53.470
+Erick Patrick Xavier Oliveira
+Porque ele já Mota esse aqui, ó.
+0:13:52.930 --> 0:13:55.60
+Pablo Filetti Moreira
+É, é, aí tu pode apagar ali.
+0:13:55.70 --> 0:14:3.560
+Pablo Filetti Moreira
+O naquele segundo consultor ali, fonte de dados, origem pode apagar tudo, não ali embaixo é pronto.
+0:14:3.670 --> 0:14:4.420
+Pablo Filetti Moreira
+Aí é o seguinte.
+0:14:4.670 --> 0:14:5.120
+Erick Patrick Xavier Oliveira
+Beleza.
+0:14:9.320 --> 0:14:9.600
+Pablo Filetti Moreira
+A?
+0:14:5.260 --> 0:14:12.740
+Erick Patrick Xavier Oliveira
+Vou passar implica para todos, então esse padrão que quer dentro do parecido eu replico eu fiz aqui as validações.
+0:14:14.140 --> 0:14:15.0
+Erick Patrick Xavier Oliveira
+Feliz, foxo.
+0:14:14.290 --> 0:14:17.360
+Pablo Filetti Moreira
+Aí não quebra, até bom, fica mais fácil ver o emr, né?
+0:14:17.370 --> 0:14:19.460
+Pablo Filetti Moreira
+Porque tipo assim, não vai mudar muita coisa, né?
+0:14:19.540 --> 0:14:28.690
+Pablo Filetti Moreira
+É onde estava funcionando, permanece funcionando com o comportamento antigo, que não quer avaliar, e aí tem que só fazer os testes novos lá, né?
+0:14:29.360 --> 0:14:29.950
+Erick Patrick Xavier Oliveira
+Sim, sim.
+0:14:28.700 --> 0:14:34.390
+Pablo Filetti Moreira
+Unitários do quando tem a data, porque aí tudo meio que está testando na versão antiga, né?
+0:14:36.560 --> 0:14:36.790
+Erick Patrick Xavier Oliveira
+Feliz?
+0:14:34.400 --> 0:14:42.410
+Pablo Filetti Moreira
+Quando não tem a data e aí tenha os outros testes é quando é tenha, tem a data, né?
+0:14:42.420 --> 0:14:47.310
+Pablo Filetti Moreira
+Que a gente tinha estipulado esses testes lá, salvo engano, deixa eu olhar.
+0:14:46.730 --> 0:14:47.470
+Erick Patrick Xavier Oliveira
+Não sei, tem sim.
+0:14:49.370 --> 0:14:49.520
+Pablo Filetti Moreira
+Tá?
+0:14:47.480 --> 0:14:50.970
+Erick Patrick Xavier Oliveira
+Eu estava mexendo nele, já é só um adulto.
+0:14:51.10 --> 0:14:51.340
+Erick Patrick Xavier Oliveira
+Eu.
+0:14:51.350 --> 0:14:55.290
+Erick Patrick Xavier Oliveira
+Eu botei esses caras aqui, os validadores, como ele vai ser reaproveitado em outros lugares?
+0:14:56.170 --> 0:15:1.80
+Erick Patrick Xavier Oliveira
+Eu posso trazer para dentro, validado aqui mesmo sendo um teste que vai, a gente vai usar só para essas coisas.
+0:15:1.900 --> 0:15:6.550
+Pablo Filetti Moreira
+Vamos lá, deixa eu tentar entender, aí volta lá, por favor, muito rápido que menstruou.
+0:15:7.430 --> 0:15:8.130
+Erick Patrick Xavier Oliveira
+Esses que você quer?
+0:15:8.660 --> 0:15:15.120
+Pablo Filetti Moreira
+Tá data de conhecimento, tá preso de conhecimento, estado está presente e data do conversor é vazia.
+0:15:16.280 --> 0:15:18.890
+Pablo Filetti Moreira
+Validador incluir inconsistência do tipo reequilíbrio?
+0:15:21.600 --> 0:15:21.780
+Pablo Filetti Moreira
+Não.
+0:15:21.790 --> 0:15:23.70
+Pablo Filetti Moreira
+Aí esse teste aí, tá?
+0:15:23.740 --> 0:15:26.20
+Pablo Filetti Moreira
+Não, aí eu entendi o que atende a pergunta.
+0:15:26.30 --> 0:15:28.510
+Pablo Filetti Moreira
+Agora não pode repetir não jogar lá.
+0:15:28.520 --> 0:15:29.220
+Pablo Filetti Moreira
+Para a herança, não.
+0:15:29.840 --> 0:15:30.730
+Erick Patrick Xavier Oliveira
+Saber isso, fechou?
+0:15:31.10 --> 0:15:31.770
+Pablo Filetti Moreira
+Tá, tá outra não.
+0:15:31.780 --> 0:15:35.800
+Pablo Filetti Moreira
+Só um detalhe, fábricas, as chaves, tá tudo isso.
+0:15:35.940 --> 0:15:36.850
+Erick Patrick Xavier Oliveira
+A tá tá, tá?
+0:15:36.860 --> 0:15:39.520
+Erick Patrick Xavier Oliveira
+Se ele vai dar aqui, né?
+0:15:38.870 --> 0:15:40.790
+Pablo Filetti Moreira
+Não sei se o sonar estava lidando, mas.
+0:15:43.70 --> 0:15:45.360
+Pablo Filetti Moreira
+Tá, e se está presente aí?
+0:15:45.370 --> 0:15:48.740
+Pablo Filetti Moreira
+Se os 2 estão presente, aí valida a data perfeita.
+0:15:48.750 --> 0:15:49.70
+Pablo Filetti Moreira
+É isso aí.
+0:15:51.160 --> 0:15:51.440
+Erick Patrick Xavier Oliveira
+Isso.
+0:15:51.210 --> 0:15:51.500
+Pablo Filetti Moreira
+É mesmo?
+0:15:51.510 --> 0:15:55.600
+Pablo Filetti Moreira
+Aí eu queria jogar isso dentro do do validador, né?
+0:15:55.610 --> 0:15:59.250
+Pablo Filetti Moreira
+É, mas não, não rola, não para.
+0:16:0.220 --> 0:16:0.850
+Pablo Filetti Moreira
+É porque não?
+0:15:58.640 --> 0:16:4.590
+Erick Patrick Xavier Oliveira
+É porque a gente vai aproveitar, é só se é, é porque assim o Angelo fez isso aqui, ó, para data, né?
+0:16:5.240 --> 0:16:6.160
+Erick Patrick Xavier Oliveira
+Nota fim.
+0:16:5.340 --> 0:16:8.580
+Pablo Filetti Moreira
+Não, mas aí ele fez algo genérico, teria que fazer algo genérico lá.
+0:16:8.880 --> 0:16:11.30
+Erick Patrick Xavier Oliveira
+Então eu pensei em passar 2 Datas.
+0:16:11.450 --> 0:16:15.820
+Erick Patrick Xavier Oliveira
+Ele verifica se as 2 estão preenchidas e faz essa validação lá dentro, entendeu?
+0:16:17.170 --> 0:16:22.200
+Erick Patrick Xavier Oliveira
+Verifica se uma tapete que da outra não ele valida, mas se bem que não sei se fica bom, não acho que assim fica mais organizado, né?
+0:16:22.910 --> 0:16:28.600
+Pablo Filetti Moreira
+Cara, dá certo, mas é assim, vai mais, tipo, é buscar.
+0:16:28.610 --> 0:16:30.610
+Pablo Filetti Moreira
+É, eu vou pela aquele caminho simples.
+0:16:31.400 --> 0:16:31.940
+Erick Patrick Xavier Oliveira
+Resolve?
+0:16:49.370 --> 0:16:49.710
+Erick Patrick Xavier Oliveira
+Quanto?
+0:16:32.640 --> 0:16:54.530
+Pablo Filetti Moreira
+É porque assim funciona, mas assim, para quem vai dar manutenção, é muito mais fácil entender isso aí do do termo, porque tu vai ter que imagina aí, você vai passar as 2 Datas, aí tu vai ter que passar uma string para dizer qual é, qual é a, sei lá o rótulo da primeira, uma outra string para então, vai ter 4 parâmetros, né?
+0:16:54.540 --> 0:16:56.890
+Pablo Filetti Moreira
+2 Datas, 2 strings.
+0:16:57.260 --> 0:16:58.370
+Pablo Filetti Moreira
+A primeira data, seg.
+0:16:58.380 --> 0:17:1.250
+Pablo Filetti Moreira
+Datas é o rótulo da primeira data e o rótulo da segunda.
+0:17:3.960 --> 0:17:4.880
+Erick Patrick Xavier Oliveira
+Que confuso, né, Fábio?
+0:17:5.890 --> 0:17:6.910
+Pablo Filetti Moreira
+É, eu prefiro assim.
+0:17:7.750 --> 0:17:8.350
+Erick Patrick Xavier Oliveira
+Então, beleza.
+0:17:12.910 --> 0:17:13.670
+Erick Patrick Xavier Oliveira
+Fechou, não fechou?
+0:17:8.40 --> 0:17:14.530
+Pablo Filetti Moreira
+Porque, tipo, pra dar manutenção pra ler, mas assim não tô dizendo que o 22 funciona?
+0:17:13.680 --> 0:17:14.750
+Erick Patrick Xavier Oliveira
+Sim, que vai dar o que você que vai fazer?
+0:17:14.760 --> 0:17:15.570
+Erick Patrick Xavier Oliveira
+O Claudia viu mesmo?
+0:17:14.540 --> 0:17:16.170
+Pablo Filetti Moreira
+Não, eu não IA criar confusão, não.
+0:17:16.180 --> 0:17:20.180
+Pablo Filetti Moreira
+Se tu fizesse tudo do jeito, mas tipo, eu prefiro assim, eu acho mais simples.
+0:17:20.680 --> 0:17:22.780
+Erick Patrick Xavier Oliveira
+Uma beleza, porque eu já tenho esse metro aqui que faz isso, né?
+0:17:22.790 --> 0:17:27.680
+Erick Patrick Xavier Oliveira
+Que eu fiz aqui, ó museu do Angelo, em cima, só que eu mexi nele para ele fazer um pouco diferente, entendeu?
+0:17:29.780 --> 0:17:33.670
+Pablo Filetti Moreira
+Ife data maior data, comparação, aí tu não usou aquele que ele tinha?
+0:17:33.940 --> 0:17:35.430
+Pablo Filetti Moreira
+Só usou como referência, né?
+0:17:34.310 --> 0:17:36.890
+Erick Patrick Xavier Oliveira
+Não só como referência isso.
+0:17:37.700 --> 0:17:40.200
+Pablo Filetti Moreira
+Está uma beleza que lá acho que era óbvio, né?
+0:17:40.740 --> 0:17:41.270
+Erick Patrick Xavier Oliveira
+É, não.
+0:17:40.960 --> 0:17:41.500
+Pablo Filetti Moreira
+No game.
+0:17:41.280 --> 0:17:44.350
+Erick Patrick Xavier Oliveira
+E aí ficou aí, ficou, ficou complexo, ficou meio estranho.
+0:17:44.360 --> 0:17:49.70
+Erick Patrick Xavier Oliveira
+De data início, data, ficou estranho metro, sabe, meu filho ficou estranho, eu botei a data.
+0:17:49.80 --> 0:17:49.910
+Erick Patrick Xavier Oliveira
+A data de coração, né?
+0:17:49.920 --> 0:17:52.550
+Erick Patrick Xavier Oliveira
+Que a data maior que a data de corporação entendeu?
+0:17:53.360 --> 0:17:53.670
+Erick Patrick Xavier Oliveira
+Aí?
+0:17:53.580 --> 0:17:56.620
+Pablo Filetti Moreira
+Data maior data, comparação nessa data.
+0:17:56.110 --> 0:17:59.240
+Erick Patrick Xavier Oliveira
+Esse é o ice data é maior que data comparação, entendeu?
+0:18:0.260 --> 0:18:0.800
+Erick Patrick Xavier Oliveira
+Acho que com.
+0:17:59.900 --> 0:18:1.690
+Pablo Filetti Moreira
+Se data maior, pirata de comparação.
+0:18:3.790 --> 0:18:4.750
+Erick Patrick Xavier Oliveira
+Como é só de entender.
+0:18:3.980 --> 0:18:6.850
+Pablo Filetti Moreira
+Me dá a filhinha anterior da pires, é?
+0:18:7.840 --> 0:18:8.750
+Erick Patrick Xavier Oliveira
+Ficou mais fácil, né?
+0:18:11.450 --> 0:18:15.970
+Erick Patrick Xavier Oliveira
+Mas é só isso mesmo, então vou replicar aqui para os outros e fechar os testes dentários aqui.
+0:18:17.200 --> 0:18:17.540
+Pablo Filetti Moreira
+Beleza.
+0:18:23.60 --> 0:18:23.980
+Pablo Filetti Moreira
+Do tal?
+0:18:17.310 --> 0:18:24.270
+Erick Patrick Xavier Oliveira
+Raí, lado do daí, gosta desse do do texto lá você já mexeu para o lado gira lá, o que você tirou?
+0:18:25.280 --> 0:18:30.220
+Pablo Filetti Moreira
+Já falar da PEO back end.
+0:18:30.780 --> 0:18:31.320
+Erick Patrick Xavier Oliveira
+Aqui, ó.
+0:18:34.370 --> 0:18:35.0
+Erick Patrick Xavier Oliveira
+Aqui no.
+0:18:35.40 --> 0:18:35.460
+Erick Patrick Xavier Oliveira
+No está.
+0:18:34.800 --> 0:18:35.810
+Pablo Filetti Moreira
+Não é? Esse é o.
+0:18:35.940 --> 0:18:37.30
+Pablo Filetti Moreira
+Esse é o da pia, né?
+0:18:38.150 --> 0:18:39.60
+Pablo Filetti Moreira
+É o da PE.
+0:18:38.100 --> 0:18:40.310
+Erick Patrick Xavier Oliveira
+A gente vai ter que, mas não dá pra ir não.
+0:18:39.370 --> 0:18:42.200
+Pablo Filetti Moreira
+É, é porque é o da PM que matou ali, né?
+0:18:42.210 --> 0:18:46.510
+Pablo Filetti Moreira
+Tá, tem que pegar o histórico, mas o que eu mexi foi No No back end.
+0:18:45.40 --> 0:18:48.610
+Erick Patrick Xavier Oliveira
+É, eu tinha falado para Janaina, já ela vai.
+0:18:48.620 --> 0:18:50.790
+Erick Patrick Xavier Oliveira
+Ela já tinha falado ontem que ela vai colocar de volta aqui.
+0:18:50.990 --> 0:18:52.910
+Erick Patrick Xavier Oliveira
+Falei que é até bom a gente deixar essa históricos.
+0:18:52.920 --> 0:18:54.110
+Erick Patrick Xavier Oliveira
+Eu aqui para abrir em cima, né?
+0:18:54.120 --> 0:18:55.420
+Erick Patrick Xavier Oliveira
+E fazer a documentação embaixo, talvez.
+0:18:56.700 --> 0:18:57.460
+Pablo Filetti Moreira
+É, pode sim.
+0:18:58.120 --> 0:18:58.230
+Erick Patrick Xavier Oliveira
+Né?
+0:18:58.240 --> 0:18:59.500
+Erick Patrick Xavier Oliveira
+Para manter o histórico seu aí.
+0:19:1.50 --> 0:19:5.120
+Pablo Filetti Moreira
+Ainda é o é bom que eu juro, eu matei, não é assim fica bom, né?
+0:19:5.690 --> 0:19:11.330
+Erick Patrick Xavier Oliveira
+Aqui, do do 1810, você, você, você tira os negócio aqui, eu tem que tirar.
+0:19:12.230 --> 0:19:13.90
+Pablo Filetti Moreira
+Já já tirei.
+0:19:16.770 --> 0:19:19.540
+Erick Patrick Xavier Oliveira
+Se sim, que tem que preencher os os valores, né?
+0:19:13.100 --> 0:19:19.720
+Pablo Filetti Moreira
+Aí era aquela parte da validação, não sei se tu se lembra lá tinha o Sol, tá?
+0:19:19.730 --> 0:19:21.570
+Pablo Filetti Moreira
+É, tinha lá os atrasos, né?
+0:19:21.580 --> 0:19:26.250
+Pablo Filetti Moreira
+Ele guardava os atrasos por por mim para o serviço itau olha que lá não vai funcionar, não.
+0:19:26.260 --> 0:19:27.740
+Pablo Filetti Moreira
+Aí a gente eu já até tirei.
+0:19:27.890 --> 0:19:28.210
+Pablo Filetti Moreira
+Então vai.
+0:19:40.580 --> 0:19:41.60
+Erick Patrick Xavier Oliveira
+Não show.
+0:19:28.220 --> 0:19:49.540
+Pablo Filetti Moreira
+Ficou bem mais simples lá, porque lá tinha ainda um desafio técnico, que era ver como é que a gente armazenar a questão do Java, porque o tipo de dado lá é no banco, tinha que ser um intervalo só, ficou bem mais simples porque ainda tinha que ver, ver aquela parte do do do banco que o tipo lá IA ser intervalo e no Java IA ter que ver aquela questão lá do do Java 8 do eixo.
+0:19:50.110 --> 0:19:50.490
+Erick Patrick Xavier Oliveira
+Sim.
+0:19:49.550 --> 0:19:53.560
+Pablo Filetti Moreira
+Eu não sei o que ainda tinha que estudar aquela parte técnica lá, então assim ficou mais.
+0:19:53.570 --> 0:19:54.640
+Pablo Filetti Moreira
+Sim, ficou mais simples.
+0:19:53.90 --> 0:19:57.900
+Erick Patrick Xavier Oliveira
+Toma lá na frente, se vai fazer em tempo de execução os cálculos.
+0:19:59.200 --> 0:19:59.700
+Pablo Filetti Moreira
+É, então.
+0:20:2.200 --> 0:20:3.960
+Pablo Filetti Moreira
+Não sei se tu tá afim de discutir.
+0:20:4.30 --> 0:20:4.930
+Pablo Filetti Moreira
+Coração por isso.
+0:20:4.980 --> 0:20:6.510
+Erick Patrick Xavier Oliveira
+Nossa, só uma pessoa dúvida só.
+0:20:7.310 --> 0:20:7.540
+Pablo Filetti Moreira
+É.
+0:20:7.550 --> 0:20:9.220
+Pablo Filetti Moreira
+É, acredito que sim, porque.
+0:20:9.350 --> 0:20:12.640
+Pablo Filetti Moreira
+Porque na prática a gente vai ter as 2 Datas, né?
+0:20:12.650 --> 0:20:17.490
+Pablo Filetti Moreira
+Então, assim, provavelmente na hora da gente contabilizar, a gente faça o cálculo.
+0:20:18.400 --> 0:20:18.620
+Erick Patrick Xavier Oliveira
+Sim.
+0:20:18.360 --> 0:20:19.500
+Pablo Filetti Moreira
+Tem um cálculo bem simples, né?
+0:20:19.510 --> 0:20:23.180
+Pablo Filetti Moreira
+Uma data menos é outra, então assim, tipo.
+0:20:23.300 --> 0:20:24.570
+Erick Patrick Xavier Oliveira
+Até a tua premissa que fala, né?
+0:20:24.580 --> 0:20:26.650
+Erick Patrick Xavier Oliveira
+Que levam botar campo calculado em tabela, né?
+0:20:27.520 --> 0:20:28.560
+Pablo Filetti Moreira
+É, não assim é.
+0:20:28.570 --> 0:20:29.640
+Pablo Filetti Moreira
+É normalização, né?
+0:20:29.650 --> 0:20:30.370
+Pablo Filetti Moreira
+Fala isso, né?
+0:20:30.410 --> 0:20:36.320
+Pablo Filetti Moreira
+A, só que aí a gente está de normalizar, ali tem alguns lugares, a gente de normaliza por performance, né?
+0:20:36.720 --> 0:20:37.100
+Erick Patrick Xavier Oliveira
+Me sinto.
+0:20:37.190 --> 0:20:45.830
+Pablo Filetti Moreira
+Só que na verdade, a gente meio que fez um plano de colocar naquela tabela onde fica os indicadores que a gente já tem uma rotina que totaliza os indicadores.
+0:20:47.310 --> 0:20:47.440
+Erick Patrick Xavier Oliveira
+De?
+0:20:46.830 --> 0:20:50.160
+Pablo Filetti Moreira
+Só que aí que que acontece esse indicador?
+0:20:50.550 --> 0:20:55.840
+Pablo Filetti Moreira
+Ele tem uma particularidade e que do jeito que estava não IA funcionar.
+0:20:56.150 --> 0:21:18.990
+Pablo Filetti Moreira
+Então assim é um é um pouco mais complexo que, por exemplo, lá a gente estava gravando lá é o atraso de inserção, atraso da última operação de metadados, a operação de documentos com movimentos, cada tipo de de fila, tinha o seu atraso e dentro de cada fila de atraso a gente tinha os 3 micros serviços, não é?
+0:21:19.400 --> 0:21:25.230
+Pablo Filetti Moreira
+É os 3 serviços conversou estatue, codex com atraso de cada um e o atraso total.
+0:21:25.270 --> 0:21:27.670
+Pablo Filetti Moreira
+Então, para a gente tinha 4 atraso, né?
+0:21:27.680 --> 0:21:34.490
+Pablo Filetti Moreira
+Conversou, estuda pelo codex e o total ali multiplicado pelos, pelas filas que eram 5.
+0:21:34.560 --> 0:21:38.470
+Pablo Filetti Moreira
+Então a gente tinha 20 Campos ali, só que beleza isso.
+0:21:38.480 --> 0:21:40.570
+Pablo Filetti Moreira
+IA calcular, já deixar calculado na hora.
+0:21:40.580 --> 0:21:45.280
+Pablo Filetti Moreira
+Lá, o banco não IA ter esses 3 na hora de fazer Oo geral total na totalização.
+0:21:46.160 --> 0:21:51.800
+Pablo Filetti Moreira
+Então a gente tava tirando a carga de processamento fazendo isso antes, deixando já pré calculado.
+0:21:54.120 --> 0:21:56.830
+Pablo Filetti Moreira
+No ponto de vista de normalização, não, isso não é problemático.
+0:21:56.840 --> 0:22:0.310
+Pablo Filetti Moreira
+A gente sabe o que está fazendo, a gente está fazendo de propósito para ganhar performance.
+0:22:0.930 --> 0:22:4.230
+Pablo Filetti Moreira
+Só que OOBO, na verdade, foi mais uma questão do requisito.
+0:22:4.660 --> 0:22:20.240
+Pablo Filetti Moreira
+É que na hora de eu totalizar o meio que a gente está planejando é totalizar via média, só que aí é o seguinte, eu tenho que totalizar média, então, por exemplo, lá na tabela, lá eu tenho, eu tenho os atrasos de um processo perfeito.
+0:22:20.810 --> 0:22:24.910
+Pablo Filetti Moreira
+A imagem seguinte esse processo, ele chegou dia primeiro de novembro.
+0:22:25.560 --> 0:22:25.670
+Pablo Filetti Moreira
+Tá?
+0:22:26.970 --> 0:22:30.630
+Pablo Filetti Moreira
+E aí ele gravou lá naquela tabela todos os atrasos, aí vamos pouquinho.
+0:22:30.640 --> 0:22:33.330
+Pablo Filetti Moreira
+Dia 2 de novembro, ele teve uma alteração de movimento.
+0:22:33.660 --> 0:22:37.520
+Pablo Filetti Moreira
+Aí ele vai lá e atualiza tabela, aí ele atualiza, vai lá os Campos, vai tudo mais.
+0:22:38.220 --> 0:22:42.350
+Pablo Filetti Moreira
+O problema é como que a gente vai gerar o que que a gente quer?
+0:22:42.360 --> 0:22:50.770
+Pablo Filetti Moreira
+No final, a gente quer saber o seguinte, quando de dados TJRO primeiro grau, a gente quer saber qual é o atraso dela para cada fila.
+0:22:51.60 --> 0:22:52.420
+Pablo Filetti Moreira
+Qual é o atraso dessa fonte?
+0:22:52.430 --> 0:22:59.330
+Pablo Filetti Moreira
+Dados em relação à exceção de processo, então, o atraso é uma coisa que não é um.
+0:22:59.520 --> 0:23:3.270
+Pablo Filetti Moreira
+Eu não tenho que levar em consideração todos os processos que já existe daquela fonte de dados.
+0:23:3.830 --> 0:23:7.970
+Pablo Filetti Moreira
+Quero saber o atraso agora, não quero saber passado, entendeu?
+0:23:8.970 --> 0:23:9.400
+Erick Patrick Xavier Oliveira
+Eu nem.
+0:23:8.700 --> 0:23:11.220
+Pablo Filetti Moreira
+Então, nesse ponto aí.
+0:23:11.230 --> 0:23:12.650
+Pablo Filetti Moreira
+Não, não, não funciona.
+0:23:15.840 --> 0:23:16.230
+Erick Patrick Xavier Oliveira
+Entendi.
+0:23:12.860 --> 0:23:19.550
+Pablo Filetti Moreira
+A gente vai precisar discutir como é que a gente vai implementar isso, porque o que a gente precisa é entrar no IC.
+0:23:19.560 --> 0:23:28.580
+Pablo Filetti Moreira
+Imaginar a visualização final a visualização de finais a gente vai ter um Painel, vai ter a fonte de dados e vai ter lá a médica essa fonte de dados.
+0:23:28.590 --> 0:23:31.180
+Pablo Filetti Moreira
+Aqui tem uma prazo perfeito.
+0:23:31.190 --> 0:23:37.960
+Pablo Filetti Moreira
+É, sei lá, está atrasada x Mili segundos x segundo x horas, é isso que a gente quer aí, tá?
+0:23:37.970 --> 0:23:41.340
+Pablo Filetti Moreira
+Esse é o atraso total daquela fonte de dados, mas por fila.
+0:23:41.630 --> 0:23:45.470
+Pablo Filetti Moreira
+Qual é o atraso desse fundo de data para inserção de processo assim?
+0:23:45.480 --> 0:23:49.830
+Pablo Filetti Moreira
+Atraso mas para alteração de movimentos, está atrasado, entendeu?
+0:23:50.160 --> 0:23:52.30
+Pablo Filetti Moreira
+Então a gente vai ter que quebrar isso.
+0:23:52.500 --> 0:23:54.740
+Pablo Filetti Moreira
+Essa é a visualização final, então qual é a ideia?
+0:23:54.750 --> 0:24:2.840
+Pablo Filetti Moreira
+A minha quando eu chegar lá no outro card eu vou fazer mais ou menos o desenho da da, da, da ideia, do que que a gente quer gerar.
+0:24:2.850 --> 0:24:12.720
+Pablo Filetti Moreira
+A gente vai fazer engenharia reversa, vai pegar o Painel do que se quer ler no Painel e a gente vai tentar desenvolver alguma coisa pra pra fazer aquela leitura no Painel.
+0:24:13.500 --> 0:24:13.890
+Erick Patrick Xavier Oliveira
+Entendi.
+0:24:13.950 --> 0:24:17.830
+Pablo Filetti Moreira
+Mas assim, essa parte aí que a gente está fazendo agora, por que que eu mantive?
+0:24:17.840 --> 0:24:18.740
+Pablo Filetti Moreira
+Porque ela.
+0:24:19.170 --> 0:24:21.20
+Pablo Filetti Moreira
+Ela precisa, ela é.
+0:24:21.270 --> 0:24:26.140
+Pablo Filetti Moreira
+Não, não tem como a gente fugir dela, a gente faz é necessária para que dê certo esse Painel.
+0:24:28.340 --> 0:24:29.420
+Erick Patrick Xavier Oliveira
+Entendi, não tranquilo.
+0:24:30.250 --> 0:24:39.120
+Pablo Filetti Moreira
+Tá com essa parte está consolidada, então a gente precisa fazer é ficar preocupada, que isso aí não vai mudar, vai ter que ter, não tem jeito, mas a outra parte lá não.
+0:24:39.130 --> 0:24:41.180
+Pablo Filetti Moreira
+Não IA dar certo, não IA resolver o problema.
+0:24:42.690 --> 0:24:43.260
+Erick Patrick Xavier Oliveira
+Não, tranquilo.
+0:24:46.130 --> 0:24:46.570
+Erick Patrick Xavier Oliveira
+Fechou?
+0:24:45.190 --> 0:24:53.980
+Pablo Filetti Moreira
+Beleza, é, eu vi aqui que o Rodrigo pato passou uns eu vi pelo gira, que passou umas lixos do do do Erick.
+0:24:55.70 --> 0:25:3.40
+Pablo Filetti Moreira
+Mas tipo assim, eu fiquei meio perdido do que se trata lá o negócio do tipo de usuário, o que tu já abriu OM Erick acho que era isso que estava falando, né?
+0:25:2.80 --> 0:25:4.930
+Erick Patrick Xavier Oliveira
+E então é o pessoal passou essas.
+0:25:4.940 --> 0:25:5.250
+Erick Patrick Xavier Oliveira
+Essas.
+0:25:5.260 --> 0:25:5.590
+Erick Patrick Xavier Oliveira
+Essas.
+0:25:5.600 --> 0:25:10.290
+Erick Patrick Xavier Oliveira
+Essas negócios colocou em homologação, aí eu vou que essas aqui, ó.
+0:25:13.20 --> 0:25:16.70
+Erick Patrick Xavier Oliveira
+Exterminando de TST weno, né?
+0:25:12.990 --> 0:25:16.200
+Rodrigo Gumiero Merlo
+Acho que o tipo de usuário foi até o que eu estava de férias, né?
+0:25:16.210 --> 0:25:16.900
+Rodrigo Gumiero Merlo
+Acho que foi até outro.
+0:25:16.910 --> 0:25:20.250
+Rodrigo Gumiero Merlo
+Outro que é aqui que passou ela tipo de usuário.
+0:25:22.250 --> 0:25:23.290
+Erick Patrick Xavier Oliveira
+Eu vou botar no seu nome, Pablo.
+0:25:23.300 --> 0:25:25.80
+Erick Patrick Xavier Oliveira
+Assim que tiver o MS lá, coloca no seu nome.
+0:25:25.960 --> 0:25:26.50
+Pablo Filetti Moreira
+Tá?
+0:25:27.0 --> 0:25:27.930
+Pablo Filetti Moreira
+É para essa daí.
+0:25:27.960 --> 0:25:28.730
+Pablo Filetti Moreira
+Aquelas espa.
+0:25:28.740 --> 0:25:31.860
+Pablo Filetti Moreira
+Incluir o tipo de usuário na tipo de perfil.
+0:25:31.70 --> 0:25:33.770
+Erick Patrick Xavier Oliveira
+Tipo de usar de serviço é de usar de serviço.
+0:25:34.760 --> 0:25:38.290
+Pablo Filetti Moreira
+A tá é aquele do do, do escopo, lados, gestão de usuários serviço, né?
+0:25:38.300 --> 0:25:41.840
+Pablo Filetti Moreira
+Que vai ter o usuário, sistema, extrator e usuários. Pessoa, né?
+0:25:39.470 --> 0:25:42.620
+Erick Patrick Xavier Oliveira
+Aí, isso, isso.
+0:25:43.280 --> 0:25:44.30
+Pablo Filetti Moreira
+Perfeito, beleza.
+0:25:44.780 --> 0:25:45.590
+Erick Patrick Xavier Oliveira
+É o gerente.
+0:25:45.600 --> 0:25:52.190
+Erick Patrick Xavier Oliveira
+Manda esse esse aqui do tipo complemento, que é bem bem, bem simplesinho eu já vou abrir agora à tarde, já já sou para você.
+0:25:54.690 --> 0:25:55.10
+Erick Patrick Xavier Oliveira
+Beleza.
+0:25:54.840 --> 0:25:56.400
+Pablo Filetti Moreira
+Esse é o qual é a outra?
+0:25:56.410 --> 0:25:57.240
+Pablo Filetti Moreira
+Falou, tipo de complemento.
+0:25:57.500 --> 0:26:2.90
+Erick Patrick Xavier Oliveira
+Tipo, é obrigatório lá no campo chamado obrigatório Campo Novo, tipo complemento.
+0:26:1.470 --> 0:26:4.510
+Pablo Filetti Moreira
+Radar já fez, já fez essa faixa a beleza, não, senhor.
+0:26:6.350 --> 0:26:6.640
+Pablo Filetti Moreira
+Fechou?
+0:26:4.340 --> 0:26:8.320
+Erick Patrick Xavier Oliveira
+Beleza, aí eu vou subir para para você no PC Dória, né?
+0:26:9.520 --> 0:26:12.290
+Pablo Filetti Moreira
+Ele, Abraão, acho que fechou.
+0:26:13.400 --> 0:26:13.820
 Abraão Dezidério da Silva
-35 minutes 19 seconds35:19
-Abraão Dezidério da Silva 35 minutes 19 seconds
-Então criou.
+Beleza.
+0:26:12.300 --> 0:26:15.760
 Pablo Filetti Moreira
-35 minutes 22 seconds35:22
-Pablo Filetti Moreira 35 minutes 22 seconds
-E como ela, Carlos cancela.
+Aí é, eu queria trocar uma ideia contigo sobre um negócio.
+0:26:15.770 --> 0:26:17.690
+Pablo Filetti Moreira
+Aqui não gira por si, tu pode me ajudar?
+0:26:18.720 --> 0:26:19.160
 Abraão Dezidério da Silva
-35 minutes 25 seconds35:25
-Abraão Dezidério da Silva 35 minutes 25 seconds
-Eu vejo aqui, Cancelo, excluo ela.
-Abraão Dezidério da Silva 35 minutes 29 seconds
-Eu vou, eu vou, vou ter que ir para outra reunião, mas aí terminando lá, se eu tiver um tempinho, eu te te dou apoio aí.
-Pablo Filetti Moreira
-35 minutes 36 seconds35:36
-Pablo Filetti Moreira 35 minutes 36 seconds
-Beleza, então obrigado.
+Posso.
+0:26:19.170 --> 0:26:20.670
 Abraão Dezidério da Silva
-35 minutes 38 seconds35:38
-Abraão Dezidério da Silva 35 minutes 38 seconds
-Por nada falou total, boa tarde.
+É rápido que eu tenho uma reunião agora.
+0:26:22.400 --> 0:26:23.160
+Abraão Dezidério da Silva
+Vamos, Bora lá.
+0:26:21.500 --> 0:26:24.580
 Pablo Filetti Moreira
-35 minutes 38 seconds35:38
-Pablo Filetti Moreira 35 minutes 38 seconds
-Vamos ver aí.
-Janaina Almeida de Deus
-35 minutes 39 seconds35:39
-Janaina Almeida de Deus 35 minutes 39 seconds
-Tchau, estou trabalhando, tá?
+Eu acho que é rápido, vai ser um negócio.
+0:26:24.590 --> 0:26:27.180
 Pablo Filetti Moreira
-35 minutes 39 seconds35:39
-Pablo Filetti Moreira 35 minutes 39 seconds
-Valeu.
-Pablo Filetti Moreira 35 minutes 40 seconds
+Dá certo, não dá só.
+0:26:27.190 --> 0:26:27.840
+Pablo Filetti Moreira
+Então acho que.
+0:26:28.880 --> 0:26:33.950
+Pablo Filetti Moreira
+Se não tiver alguma dúvida, alguma coisa não liberada aí é só trocar server rápido.
+0:26:34.250 --> 0:26:34.550
+Pablo Filetti Moreira
+Sobram.
+0:26:33.360 --> 0:26:35.600
+Erick Patrick Xavier Oliveira
+Eles, valeu para brigado aí, viu?
+0:26:36.100 --> 0:26:36.580
+Pablo Filetti Moreira
+Valeu, Érico.
+0:26:36.590 --> 0:26:37.440
+Pablo Filetti Moreira
+Obrigado, boa tarde.
+0:26:37.500 --> 0:26:38.200
+Erick Patrick Xavier Oliveira
+Ei, pessoal, obrigado.
+0:26:37.670 --> 0:26:38.270
+Rodrigo Gumiero Merlo
+Valeu, galera.
+0:26:37.450 --> 0:26:38.390
+Pablo Filetti Moreira
+Bom trabalho.
+0:26:38.560 --> 0:26:39.30
+Rodrigo Gumiero Merlo
 Até mais.
-Pablo Filetti Moreira 35 minutes 40 seconds
-Boa tarde.
-Pablo Filetti Moreira 35 minutes 41 seconds
+0:26:38.610 --> 0:26:39.190
+Abraão Dezidério da Silva
+Falou, pessoal.
+0:26:39.40 --> 0:26:39.380
+Rodrigo Gumiero Merlo
 Tchau, tchau.
+0:26:38.480 --> 0:26:39.510
+Pablo Filetti Moreira
+Valeu, Rodrigo Braz.
+0:26:39.730 --> 0:26:40.280
+Pablo Filetti Moreira
+Tchau, janeiro.
+0:26:40.930 --> 0:26:41.530
+Pablo Filetti Moreira
+Valeu, obrigado.
+0:26:47.950 --> 0:26:49.220
+Pablo Filetti Moreira
+Deixa eu compartilhar aqui a Bruno.
+0:26:53.720 --> 0:26:53.940
+Pablo Filetti Moreira
+Se.
+0:26:56.430 --> 0:27:1.200
+Pablo Filetti Moreira
+Eu estava vendo aqui essa parte de portfólio, eu estava tentando tentando.
+0:27:9.730 --> 0:27:10.250
+Abraão Dezidério da Silva
+Aham.
+0:27:2.740 --> 0:27:16.350
+Pablo Filetti Moreira
+Reformular esse negócio aqui pra ficar mais fácil na hora que eu criar os cards, entender o que está acontecendo é justamente esses casos que o coisa falou aí, tipo assim, eu meio que já vou te TI nos os que os últimos que eu criei, né?
+0:27:16.360 --> 0:27:21.750
+Pablo Filetti Moreira
+Eu botei meio que 11 dos favoritos aqui, que for aqueles que tu criou para mim, né?
+0:27:25.820 --> 0:27:26.280
+Abraão Dezidério da Silva
+Aham.
+0:27:21.760 --> 0:27:30.810
+Pablo Filetti Moreira
+Do do, da taxa de atraso que eu quero colocar, tudo que for vinculado lá nesse, nesse épico, né?
+0:27:30.870 --> 0:27:31.900
+Pablo Filetti Moreira
+Que a chama de épico, né?
+0:27:32.630 --> 0:27:33.50
+Abraão Dezidério da Silva
+Isso.
+0:27:33.90 --> 0:27:37.250
+Pablo Filetti Moreira
+E aí assim eu coloquei aqui itau taxa de atraso, aí eu até criei alguns.
+0:27:37.260 --> 0:27:45.870
+Pablo Filetti Moreira
+Alguns épicos depois, eu criei esse histórico de distribuição e o histórico de classe e aí eu estou colocando as ixos dentro dele.
+0:27:46.530 --> 0:27:49.940
+Pablo Filetti Moreira
+Só que esse histórico de classe, distribuição, ele meio que é um épico.
+0:27:51.150 --> 0:27:55.790
+Pablo Filetti Moreira
+Eu pretendo fechar junto, e aí assim eu até pensei em botar aqui.
+0:27:55.800 --> 0:27:58.10
+Pablo Filetti Moreira
+Histórico de classe, eles, distribuição.
+0:27:59.340 --> 0:27:59.780
+Abraão Dezidério da Silva
+Aham.
+0:28:0.650 --> 0:28:1.990
+Pablo Filetti Moreira
+Só que eu queria dividir aqui.
+0:28:2.0 --> 0:28:10.270
+Pablo Filetti Moreira
+Os cards no subnível, só que ele não deixa eu criar 11 sub, tu tem alguma solução para isso?
+0:28:11.650 --> 0:28:12.770
+Abraão Dezidério da Silva
+Tenho a gente.
+0:28:11.850 --> 0:28:14.300
+Pablo Filetti Moreira
+Pelo menos para ter essa visão é errar Kika, né?
+0:28:14.660 --> 0:28:20.400
+Abraão Dezidério da Silva
+A gente pode criar uma tarefa filha da dos nós histórias.
+0:28:22.580 --> 0:28:25.30
+Pablo Filetti Moreira
+Mas assim, por exemplo, já tem essas tarefas aqui, né?
+0:28:25.40 --> 0:28:26.620
+Pablo Filetti Moreira
+É tipo isso aqui que está falando, né?
+0:28:26.930 --> 0:28:29.640
+Abraão Dezidério da Silva
+Isso aí eu crio, eu vou debaixo dela.
+0:28:29.680 --> 0:28:31.20
+Abraão Dezidério da Silva
+Seria uma.
+0:28:31.60 --> 0:28:33.130
+Abraão Dezidério da Silva
+É igual a peça tarefa aí essa sub tarefa.
+0:28:34.790 --> 0:28:36.10
+Pablo Filetti Moreira
+Posso remover esse cara aqui?
+0:28:39.890 --> 0:28:49.800
+Pablo Filetti Moreira
+Mas hoje para de tipo, aqui eu consigo acrescentar aqui histórico de classes, colocar um aqui histórico de classe, outra história, destruição e arrastar esses caras pra dentro.
+0:28:50.840 --> 0:28:54.70
+Abraão Dezidério da Silva
+Consegue, ó, vamos lá hoje, você tem o épico, né?
+0:28:54.680 --> 0:28:56.420
+Abraão Dezidério da Silva
+Pode voltar lá naquela tela que você estava.
+0:28:56.720 --> 0:28:59.640
+Pablo Filetti Moreira
+Isso aparece aqui, então não vai mais, não faz mais sentido.
+0:29:0.910 --> 0:29:5.400
+Abraão Dezidério da Silva
+Ó, a gente pode, por exemplo, que criar a história.
+0:29:6.970 --> 0:29:10.880
+Abraão Dezidério da Silva
+É, aí você quer criar 2 histórias.
+0:29:11.10 --> 0:29:22.970
+Abraão Dezidério da Silva
+A gente pode criar tipo 2 histórias e debaixo das histórias a gente vai dividir o que for do histórico de distribuição, fica as tarefas vinculadas a ela.
+0:29:23.500 --> 0:29:25.170
+Abraão Dezidério da Silva
+E o que foi histórico de classe?
+0:29:25.220 --> 0:29:30.250
+Abraão Dezidério da Silva
+A gente ponha as tarefas debaixo dela, aí fica tudo debaixo do épico.
+0:29:28.790 --> 0:29:31.890
+Pablo Filetti Moreira
+Ela cria 11 história, né?
+0:29:32.70 --> 0:29:32.670
+Pablo Filetti Moreira
+É isso aqui, né?
+0:29:33.530 --> 0:29:34.190
+Pablo Filetti Moreira
+Tá bom assim?
+0:29:33.880 --> 0:29:34.190
+Abraão Dezidério da Silva
+Oo.
+0:29:37.230 --> 0:29:39.440
+Pablo Filetti Moreira
+História de classe AE eu consigo, por exemplo isso aqui.
+0:29:39.450 --> 0:29:40.900
+Pablo Filetti Moreira
+Eu acho que já é a história do de classe.
+0:29:41.790 --> 0:29:42.240
+Abraão Dezidério da Silva
+Você pode.
+0:29:42.250 --> 0:29:44.660
+Abraão Dezidério da Silva
+Você pode andar com ele pra debaixo do.
+0:29:45.240 --> 0:29:47.390
+Pablo Filetti Moreira
+A nova essa história de classe.
+0:29:47.600 --> 0:29:48.610
+Pablo Filetti Moreira
+Eu consigo arrastar aqui.
+0:29:50.510 --> 0:29:53.980
+Abraão Dezidério da Silva
+Ele vai ficar em cima, só que acho que vai ter que vincular ele, tá?
+0:29:54.20 --> 0:30:1.0
+Abraão Dezidério da Silva
+Você vai ter que abrir OOO esse que você criou o novo e abre isso que você criou histórico de classe.
+0:30:4.340 --> 0:30:5.600
+Pablo Filetti Moreira
+Aqui, esse aqui.
+0:30:5.690 --> 0:30:5.840
+Pablo Filetti Moreira
+E?
+0:30:6.20 --> 0:30:7.240
+Abraão Dezidério da Silva
+Isso tá tanto faz.
+0:30:7.250 --> 0:30:11.610
+Abraão Dezidério da Silva
+Qualquer um dos pode pode abrir esse aí você vai e edita.
+0:30:11.620 --> 0:30:12.780
+Abraão Dezidério da Silva
+E editá-la em cima.
+0:30:15.920 --> 0:30:17.650
+Abraão Dezidério da Silva
+Mas isso, editar.
+0:30:25.820 --> 0:30:29.610
+Abraão Dezidério da Silva
+E aí você coloca aqui no tarefa, filha, cadê?
+0:30:31.640 --> 0:30:32.270
+Abraão Dezidério da Silva
+Um.
+0:30:36.930 --> 0:30:37.780
+Pablo Filetti Moreira
+Printf top.
+0:30:39.470 --> 0:30:40.540
+Pablo Filetti Moreira
+Para que entre o histórico.
+0:30:36.900 --> 0:30:40.660
+Abraão Dezidério da Silva
+Não tem, é pequenininho que tá, não?
+0:30:41.250 --> 0:30:43.120
+Abraão Dezidério da Silva
+Isso aí se vincula ao.
+0:30:44.60 --> 0:30:44.970
+Pablo Filetti Moreira
+A já está a web.
+0:30:45.490 --> 0:30:49.540
+Abraão Dezidério da Silva
+Tal épico, então você vai ter que ir lá na outra, mesmo Na Na, na outra que você criou.
+0:30:52.410 --> 0:30:52.710
+Pablo Filetti Moreira
+Fechar.
+0:30:54.940 --> 0:30:55.490
+Pablo Filetti Moreira
+É isso, né?
+0:30:55.400 --> 0:30:56.230
+Abraão Dezidério da Silva
+Isso, RAM.
+0:30:55.530 --> 0:30:56.990
+Pablo Filetti Moreira
+Deixa eu salvar aqui, você de salvar.
+0:30:58.360 --> 0:30:59.840
+Pablo Filetti Moreira
+Acho que ele não se AO nosso.
+0:31:28.400 --> 0:31:28.620
+Pablo Filetti Moreira
+Oi.
+0:31:30.750 --> 0:31:31.620
+Pablo Filetti Moreira
+Tá, ta aqui, né?
+0:31:31.670 --> 0:31:32.510
+Pablo Filetti Moreira
+E se eu abro?
+0:31:31.910 --> 0:31:33.270
+Abraão Dezidério da Silva
+É a isso.
+0:31:37.220 --> 0:31:38.30
+Abraão Dezidério da Silva
+Mas ele não criou.
+0:31:39.90 --> 0:31:39.950
+Pablo Filetti Moreira
+Acho que nos salvou, não?
+0:31:42.180 --> 0:31:44.930
+Abraão Dezidério da Silva
+Ou se não faz o seguinte, acho que vai ficar melhor para você.
+0:31:45.320 --> 0:31:46.240
+Abraão Dezidério da Silva
+Acho que vai ficar melhor.
+0:31:46.250 --> 0:31:47.480
+Abraão Dezidério da Silva
+Vamos fazer o que vai ficar melhor.
+0:31:50.520 --> 0:31:52.650
+Pablo Filetti Moreira
+Aqui vai, está criando aqui.
+0:31:48.150 --> 0:31:53.460
+Abraão Dezidério da Silva
+É, agora se foi, vai criar agora não é boa tarde.
+0:31:55.150 --> 0:32:2.690
+Abraão Dezidério da Silva
+Porque se não, você abre a própria história que você criou e dentro da história, você vai criando a sub tarefas referente a ela.
+0:32:4.220 --> 0:32:6.880
+Pablo Filetti Moreira
+Mas já tá criada dessa parte.
+0:32:6.890 --> 0:32:8.760
+Pablo Filetti Moreira
+Distribuição Silva precisava sol.
+0:32:8.210 --> 0:32:11.400
+Abraão Dezidério da Silva
+AO desculpa dentro da história, você vai criando a sub tarefas.
+0:32:13.50 --> 0:32:14.460
+Pablo Filetti Moreira
+Só que é o histórico de classe, né?
+0:32:14.710 --> 0:32:15.100
+Abraão Dezidério da Silva
+O run?
+0:32:16.440 --> 0:32:18.840
+Pablo Filetti Moreira
+Criou, como falei criar, né?
+0:32:19.280 --> 0:32:19.750
+Abraão Dezidério da Silva
+Preço.
+0:32:24.930 --> 0:32:26.670
+Pablo Filetti Moreira
+Cara, esse giro é muito lento.
+0:32:26.740 --> 0:32:27.880
+Abraão Dezidério da Silva
+Metade do talento.
+0:32:54.470 --> 0:32:57.930
+Pablo Filetti Moreira
+Essa parte do data, Julia, vou ver se eu acho que é melhor.
+0:32:57.940 --> 0:33:4.440
+Pablo Filetti Moreira
+A gente mapear como um, como um rótulo, é o assim da onde veio, entendeu?
+0:33:5.250 --> 0:33:11.710
+Pablo Filetti Moreira
+Mas é agora, tipo assim, quando eu dou o feedback, doutor João, a história de classe bui ção, aí eu preciso saber o que?
+0:33:11.720 --> 0:33:12.490
+Pablo Filetti Moreira
+Que falta aí?
+0:33:12.600 --> 0:33:17.660
+Pablo Filetti Moreira
+Essa visão do portfólio aqui é boa porque eu consigo ver ali é tipo uma Barrinha, né?
+0:33:17.750 --> 0:33:22.650
+Pablo Filetti Moreira
+Fala, não falta tanto, tá faltando tal coisa, consigo ver sair arkia, né?
+0:33:25.740 --> 0:33:26.540
+Pablo Filetti Moreira
+Como criou velho?
+0:33:28.920 --> 0:33:30.120
+Abraão Dezidério da Silva
+Mas aí é.
+0:33:30.420 --> 0:33:34.100
+Abraão Dezidério da Silva
+É, se não criar, a gente faz outro outro modelo que vai ser foi.
+0:33:35.960 --> 0:33:36.700
+Pablo Filetti Moreira
+9, tá rodando?
+0:33:39.230 --> 0:33:39.620
+Pablo Filetti Moreira
+Sobre o?
+0:33:39.240 --> 0:33:43.130
+Abraão Dezidério da Silva
+Abre, abre aquela aquela história que você cria aquela história que você criou.
+0:33:45.40 --> 0:33:46.710
+Pablo Filetti Moreira
+Como é que eu abro só pelo por lá, né?
+0:33:47.290 --> 0:33:49.820
+Abraão Dezidério da Silva
+É, eu não lembro o numero dela.
+0:33:51.660 --> 0:33:52.870
+Janaina Almeida de Deus
+Desculpa Brown.
+0:33:52.880 --> 0:33:55.470
+Janaina Almeida de Deus
+Será que não vai lá pro Pendências lá embaixo, não?
+0:33:56.370 --> 0:33:57.800
+Abraão Dezidério da Silva
+Vai, mas ela não fica vinculada.
+0:33:59.790 --> 0:34:1.130
+Abraão Dezidério da Silva
+A gente criou a história.
+0:33:59.140 --> 0:34:2.280
+Janaina Almeida de Deus
+Assim é essa aqui é a ideia, né?
+0:34:1.140 --> 0:34:5.80
+Abraão Dezidério da Silva
+Agora a gente não quer isso vincular as sub tarefas.
+0:34:6.780 --> 0:34:7.680
+Pablo Filetti Moreira
+Deixa eu ver aqui, sim?
+0:34:12.530 --> 0:34:14.20
+Pablo Filetti Moreira
+Eu salve cheiro da Nina. Eita.
+0:34:25.80 --> 0:34:27.670
+Pablo Filetti Moreira
+É pronto, vai se atrasar lá, deixa.
+0:34:28.320 --> 0:34:29.60
+Pablo Filetti Moreira
+Depois a gente vê.
+0:34:29.920 --> 0:34:33.410
+Abraão Dezidério da Silva
+Mas aí deixa eu te explicar, é você vai abrir a história?
+0:34:33.600 --> 0:34:33.870
+Abraão Dezidério da Silva
+OK?
+0:34:34.670 --> 0:34:37.680
+Pablo Filetti Moreira
+Aqui eu consigo fazer se abrir história, porque ele não deixa.
+0:34:37.60 --> 0:34:37.920
+Abraão Dezidério da Silva
+Consegue.
+0:34:37.970 --> 0:34:40.580
+Abraão Dezidério da Silva
+Consegue se você lembrar o número dela, ela fica lá em baixo.
+0:34:40.590 --> 0:34:42.960
+Abraão Dezidério da Silva
+Geralmente, as últimas que você criou fica lá no último.
+0:34:53.220 --> 0:34:53.900
+Abraão Dezidério da Silva
+Apareceu aí?
+0:34:58.340 --> 0:35:1.730
+Pablo Filetti Moreira
+Eu acho que ele não criou, não é histórico de classe.
+0:35:7.640 --> 0:35:8.80
+Abraão Dezidério da Silva
+Acho que ele.
+0:35:11.820 --> 0:35:12.320
+Pablo Filetti Moreira
+Você está aqui?
+0:35:12.330 --> 0:35:13.230
+Pablo Filetti Moreira
+O review change.
+0:35:13.640 --> 0:35:14.420
+Pablo Filetti Moreira
+Não criou, não.
+0:35:15.300 --> 0:35:15.900
+Abraão Dezidério da Silva
+Então criou.
+0:35:17.860 --> 0:35:19.480
+Pablo Filetti Moreira
+E como ela, Carlos cancela.
+0:35:20.690 --> 0:35:22.640
+Abraão Dezidério da Silva
+Eu vejo aqui, Cancelo, excluo ela.
+0:35:25.340 --> 0:35:30.590
+Abraão Dezidério da Silva
+Eu vou, eu vou, vou ter que ir para outra reunião, mas aí terminando lá, se eu tiver um tempinho, eu te te dou apoio aí.
+0:35:31.490 --> 0:35:32.760
+Pablo Filetti Moreira
+Beleza, então obrigado.
+0:35:34.300 --> 0:35:34.930
+Pablo Filetti Moreira
+Vamos ver aí.
+0:35:35.320 --> 0:35:35.590
+Pablo Filetti Moreira
+Valeu.
+0:35:35.600 --> 0:35:36.10
+Pablo Filetti Moreira
+Até mais.
+0:35:36.120 --> 0:35:36.630
+Pablo Filetti Moreira
+Boa tarde.
+0:35:36.640 --> 0:35:36.880
+Pablo Filetti Moreira
+Tchau, tchau.
+0:35:34.840 --> 0:35:37.510
+Janaina Almeida de Deus
+Tchau, estou trabalhando, tá?
+0:35:33.610 --> 0:35:37.510
+Abraão Dezidério da Silva
+Por nada falou total, boa tarde.
