@@ -1,0 +1,1408 @@
+﻿[MODULO 01] - TREINAMENTO TRE-CE-20231017_083209-Gravação de Reunião
+
+0:02
+Em relação a esse treinamento, portanto, o modelo participou. Sei que alguns fizeram.
+
+0:08
+O treinamento, que acontece junto ao ao CNJ, que é disponibilizado no qual eu sou de uns tutores, a gente faz um processo de editoria, então ali é mais um incentivador, né? A gente atua num processo de incentivo e o material é alto, instrucional. Aqui a pegada é diferente. A gente vai trabalhar, né? Construindo de acordo com a didática, sim, o material que a gente vai utilizar, como é um curso com foco neste, nesse primeiro modo, voltado para Oo sinapse, o entendimento da de como ele funciona, então a gente vai utilizar ali o referencial, né, que seria a documentação.
+
+0:41
+Mas, com algumas, é incrementos. Eu creio que alguns de vocês talvez não tenham acesso ao kit, né? Quem, quem não tiver depois pode fazer o cadastro aqui No No ambiente eu vou passar o link pra vocês. A gente vai usar como referência algumas coisas, a questão desatualizadas. E aí, o que tiver nesse sentido, eu vou estar fazendo as considerações com vocês. Vou estar construindo esse material aqui dentro do ambiente, tá? Então aqui no ambiente onde a gente vai ter, por enquanto, acho que todos já estão lá, já foram liberados, tá aqui dentro do ambiente.
+
+1:15
+E a gente vai construir aqui dentro tanta documentação como referência materiais. De acordo com o termômetro, né? Que eu for sentindo ali de cada um de vocês, então a gente vai é caminhar de forma que quem está ali menos é, vamos dizer assim, é acelerado, né? No conhecimento ou ou no conteúdo, possa acompanhar também, mas também vai estar produzindo o material para quem estiver avançando, não precisar ficar parado ou ficar sem realizar alguma atividade, então.
+
+1:46
+A gente.
+
+1:48
+Acessar vocês podem acessar aquele ambiente. Já está ali de informações gerais.
+
+1:53
+A quem avisos que o que eu preciso de vocês aqui a gente tem ementa, tá? Então o mod(1) objetivo é avançar, tá no estudo da ferramenta necessário sinal de desenvolvimento do modelo de inteligência artificial junto à plataforma sinapse integrada ao Jonas e outros projetos futuros. O janus foi colocado como 11 case, então a gente não vai falar a respeito dele nesse primeiro módulo, tá? E lá no segundo, terceiro base, no conhecimento que vocês vão adquirir, a gente vai pegar a documentação do projeto e tentar fazer um adamento eu já usei isso, surgiu eu tenho um conhecimento.
+
+2:28
+Superficial a respeito do projeto, através de uma toma inclusive, né? Uns colegas que trabalharam lá no TRE da baía fizeram um treinamento lá, junto com o sinapse. Eles fizeram 11 conexão de automação que eles tinham à época, né? Com um consumo do modelo do modelo de ar.
+
+2:44
+Então a gente vai pegar esse case que é o case que tem dentro do da da justiça eleitoral. Eu sei que tem alguns colegas que estão aqui, que são do TRE, né, do TSE, perdão do TJ Ceará. Então como convidados é isso, não é, doutor Tiago?
+
+3:00
+Isso exatamente, é. Estamos aqui também com com nossos colegas do j Ceará. Isso não é impeditivo, que a gente estude outros casos que a gente faça alguma alguma.
+
+3:14
+Avanço em outros casos, mas o nosso foco vai ser dentro desse de case, né? Com com foco na área eleitoral.
+
+3:21
+E inclusive, algumas considerações em relação ao ambiente. Então, todos que estão aqui, alguns já tem acesso ao ambiente de produção, né? Vou até abrir aqui, mostrar pra vocês também.
+
+3:33
+Então?
+
+3:34
+Estou aqui como um representante, né, do.
+
+3:39
+OCNIJ, mas vou estar aqui como um instrutor de fato, uma equipe de vocês, então o que eu fizer vai ser dentro do conteúdo, dentro do ambiente de vocês. Então nós temos lá a parte de domínios no qual.
+
+3:53
+Que é que OTJ Ceará e também tem OTRECR? Deixa eu pesquisar aqui?
+
+4:00
+Miguel Micael, bom dia coisas é você falou que autorizou aí a todo mundo a acessar o ambiente. Eu, eu não estou conseguindo, ele diz lá que enviou um e-mail para minha conta, mas esse e-mail não chegou nunca. Chega tu falas aqui no mudo forma isso.
+
+4:18
+Tá, deixa eu ver aqui.
+
+4:22
+É daqui a pouquinho, eu, eu, eu, eu libero, vamos avançar aí no finalzinho eu libero pra gente poder verificar essas questões de Pendências aqui, pode ser?
+
+4:31
+OK?
+
+4:32
+Tá joia? Então vamos lá, mas pode ficar tranquilo que a gente resolve tudo isso hoje. Hoje o objetivo é justamente a gente alinhar todos esses pontos, tá? A gente vai alimentar aí algumas algumas questões em relação.
+
+4:44
+Parte de ambiente e a questão da ementa do curso que ela estava a comentando agora há pouco.
+
+4:51
+Então a gente vai ter um ambiente no qual vocês já estão cadastrados aqui, então aqui eu tenho ASTIE tenho TSE, que é o é? O contêiner é superior, né? Que seria o guarda-chuva, eu vou depois, posteriormente, estar explicando é como que isso vai se dar, tá? Esse tipo, esse processo aqui dentro, aqui a gente vai criar um ambiente dentro da produção mesmo para as atividades do treinamento e depois vocês vão poder movimentar inclusive a equipe do TRE do Ceará. Tá perdão do TJ do Ceará.
+
+5:21
+É eu aconselho que a gente utilize também dentro desse ambiente aqui, porque não sei se todos que estão participando têm acesso ao que o ambiente de vocês tá. Então a gente não vai estar fazendo uma incursão dentro desse ambiente. A gente vai criar uma área aqui como se fosse um sandbox e aí vai utilizar ela e vai utilizar esse ambiente para poder fazer as atividades para poder fazer os modelos e estar fazendo, escalando.
+
+5:46
+E finalizou, o que não for, é algo que possa ser reutilizado em produção. A gente limpa faz a liberação, então a gente vai atuar tal qual é? A gente estaria trabalhando dentro do ambiente, com uma equipe ali no qual você monta com um desenvolvedor, com um cientista de dados, com o analista de o engenheiro de de dados, com a equipe de de negócio trabalhando. Tá? Seria mais ou menos essa rotina. Mas aí a gente avança depois só deixando essa essa consideração em relação aos colegas que estão convidados, tá? A gente não vai fazer interação, até porque eu não tenho permissão, como o curso ele está sendo dentro.
+
+6:24
+Ambiente do TRE. Então a gente vai fazer a interação toda dentro desse domínio aqui do TRE, tá do Ceará, que é onde a gente tem autorização para poder trabalhar, não é peditivo para quem esteja, né? Já com acesso dentro do seu domínio. Fazer isso, até porque é uma, é liberalidade que cada um tem dentro do próprio tribunal para poder usar o domínio, né? Do tribunal, se tiver essa Liberdade, não tem nenhum problema, mas para esse momento aqui do curso a gente vai estar trabalhando dentro desse ambiente, equipe, mas voltando aqui à questão da nossa ementa.
+
+6:55
+
+
+6:59
+Vocês vão ter acesso aqui. Quem quiser dar uma olhadinha depois tá, tem aqui o objetivo. A gente vai estar. Então é específico aprendendo como criar, gerenciar, disponibilizar um modelo de Arsenal. Esse é o foco. Só que a gente vai avançar mais do que a gente tem ali naquele treinamento é autoestrutivo que é ofertado, né? Ali, dentro da plataforma da seajude, a gente vai destrinchar as APIs, até porque ali foi feito num outro momento, a gente vai ter uma revisão aí posteriormente para o próximo ano em relação àquele curso.
+
+7:31
+Mas esse aqui, ele vai ser mais focado, vai ser mais abrangente.
+
+7:35
+Dói compreender o sinapse, o seu propósito, né? Bem como os principais funcionalidades voltadas para facilitar o processo de orquestração do modelo de arte. Então, a gente vai fazer desde a concepção, né? Nesse primeiro módulo, mais genérico, a gente não vai adentrar tanto na estrutura.
+
+7:49
+Segundo módulo, não, a gente vai trabalhar com a equipe, então vai ter 111. Parte que a equipe de negócio vai atuar em conjunto com vocês. A gente vai fazer uma extração no data. Set é direto ali do do codex, que seria, na verdade, do extrator, que até o momento da gente preparar, inclusive, é em relação às credenciais necessárias. Tá com esse segundo modo, vocês vão entender porque é que isso necessário? Como que isso é feito?
+
+8:12
+E lá no segundo módulo a gente vai avançar. Eu vou entrar dentro do módulo básico e explicar o modelo avançar aí em algumas questões do Python também, então é interessante que quem não tem essa visão é de desenvolvimento em Python. Eu vou fazer indicação de algumas, é documentações e referências para poder fazer esse nivelamento e vou explicar, não, Ah, eu consigo avançar sem ter conhecimento, vai conseguir? Eu não sei se vai entender Na Na plenitude.
+
+8:42
+Mas AA vantagem que a gente tem quando a gente trabalha com sinapses e é modelos já orquestrados nele, é que você pode replicar. É certas funcionalidades, certos modelos sem ter um conhecimento tão profundo, mas é necessário. É interessante que você tenha, né? A partir do segundo módulo, já um conhecimento mais mediano, né? Ali em desenvolvimento compyton que que é, no caso, a linguagem que a gente utiliza.
+
+9:08
+Para é desenvolver, né? Modelos dentro do sinapses fazer essa orquestração a metodologia vão ser aulas teóricas que iguais estas, né, que nós estamos fazendo aqui hoje, né? Demonstração prática na interface, né? Atividades práticas também e o fórum pessoal, o fórum, ele vai funcionar como um repositório de dúvidas. Eu acho interessante a gente utilizar ali a plataforma do do do WhatsApp, né? Como meio de comunicação mais célere, mas sempre que possível, postem lá. Eu falei, carro, postei a dúvida, tal coisa, aí você referencia, pega o link ali do do fórum, faz referência Na Na postagem que você fez e coloca lá, se não tiver.
+
+9:47
+Se tiver muito gente, coloca ali. Eu vou pegar, vou fazer a resposta, vou postar eu mesmo vou pegar aquela pergunta, vou postar lá no fórum e link lá no nosso grupo. A referência. Olha em relação àquela dúvida que você teve, tá que o passo a passo? Até porque aqui dentro da estrutura do fórum a gente consegue estruturar em forma de roteiro, né? Dar 111 abordagem melhor e a gente, como eu comentei no início, não vai ter prédios conflitantes, porque dentro do WhatsApp, quando a gente não consegue fazer essa segmentação de conteúdo, acaba que.
+
+10:18
+Conflita, então não tenho uma dúvida que eu tenho outra e aí sobrepõe.
+
+10:21
+Pode ser que alguém acabe prejudicado nesse sentido, tá? Exercícios é, vou passar também para vocês exercícios, tá? Então necessariamente os nossos encontros não vão ocorrer. É full de 8 e meia, até 11 e meia ou de 8 até 11. Eu vou estar passando para vocês uma atividade para que no próximo momento a gente possa validar e essas atividades elas vão estar sendo inseridas aqui dentro do ambiente, podem ser atividades objetivas ou podem ser cases, né, ou atividades práticas que vocês não vão precisar realizar. Eu vou explicar como é que tudo vai ser feito. Vão.
+
+10:55
+Tirar prints ou vão fazer 11 ex Sport ali do Júpiter notebook vão colocar lá e eu vou fazer essa avaliação, né?
+
+11:02
+Com base no que a gente apresentou na proposta e aí faz aquela parte prática para poder consolidar o conhecimento. Tá? Material de apoio são essas referências que a gente tem. Inicialmente, a gente vai ter essa aqui, que é a parte da documentação do projeto, mas a gente vai construindo e eu vou disponibilizar para vocês também outras documentações.
+
+11:24
+Vídeos e também alguns mapas mentais que eu gosto de fazer para poder fazer esse auxílio, né? Durante o processo de de instrução, só liberar o colega que pediu para entrar aqui.
+
+11:40
+A última, programar, certo? Seguindo aqui, plantão de pronto deve deve entrar 2 pessoas do Rio Grande do Sul, tá?
+
+11:53
+Tá beleza? Aí depois tu coloca, é justiça ou eleitoral?
+
+12:01
+Eleitoral isso TRE do Rio Grande do Sul.
+
+12:05
+Não joia tranquilo aí depois tu tu só passa pra eles lá e a gente faz aqui AA inclusão deles dentro da tá bom, já mandei o link. Espera aí.
+
+12:15
+Beleza, obrigadão Leo, então plantão de dúvidas a gente vai ter durante 2 momentos da semana, qual que é a intenção? O curso vai ocorrer do dia 16 ao dia primeiro. Então aqui eu refatorei, tá e a gente começou no dia 16, mas hoje está em 117, seria dia 30, então a gente vai do dia 16 ao dia um, tá?
+
+12:35
+Para poder a gente não ter essa perda do primeiro dia até o dia primeiro de de novembro, no qual teremos um a 3 encontros semanais. Então obrigatoriamente a gente vai ter pelo menos um e dependendo do andamento, do temor de eu ver como é que vocês estão, a gente pode é estar tendo até 23, tá? E com uma disposição de conteúdo e um a 2 tratamento de dúvidas a gente vai fazer isso aqui dentro desse desse ambiente para esta semana. Hoje a nossa reunião de alinhamento, amanhã nós teremos um encontro de conteúdo e dia 19 vai ser tratamento de dúvidas.
+
+13:09
+Então, aqui já vai estar a programação com base, tá? No que eu senti de vocês? Nesta semana eu já vou fazer a agenda da próxima também com AA segmentação do conteúdo e com os Oo as dúvidas, né?
+
+13:24
+O espaçamento, então, provavelmente hoje é dia 1719, vai ser quinta-feira, na sexta-feira, eu já devo estar publicando aqui a agenda da próxima semana, tá? E aí a mesma coisa acontece para a próxima semana, então vão ser 3 semanas basicamente, né? Seriam, a gente começa agora, dia 23, é vão ser quase 3 semanas, né? São são 15 dias, mas a gente consegue avançar nesse conteúdo. Qual que é a tendência nesse primeiro, como vocês estão nivelando.
+
+13:55
+É que a gente caminha um pouco mais devagar. No segundo módulo, a gente começa a avançar um pouco mais, tá? A gente começa a passar mais atividades, avançar em em em outras é explorações e talvez ter até encontros mais mais longos. Mas esse primeiro momento e eu até vejo esta modalidade de treinamento como mais proveitosa, porque além de vocês terem o conteúdo para a revisão, depois a gente consegue ter interação, consegue ter um feedback, vocês conseguem ter um tempo de prática e execução. Eu sei que além da.
+
+14:31
+Do curso, hoje vocês têm a rotina interna do tribunal. Eu não sei como é que está a equipe toda aí do TRE, todo o mundo.
+
+14:40
+Leo.
+
+14:44
+É o da da TI. Quem é que está, Léo?
+
+14:46
+Está Oo. Os chefes, todos de desenvolvimento, mais o pessoal da de desenvolvimento Java e alguns do desenvolvimento web, né? O chefe de projetos também está aqui, que é o Ezio. Mas o Jonas, que é da governança, mas.
+
+15:10
+Ah, tá? Então, tranquilo, então não está, não dá, não dá de negócio. Vamos ver. Estamos eu e o Marcelo envolve e as pessoas da FCJU.
+
+15:19
+E também tem o Felipe, o Leandro e mais uma pessoa da SJU, viu, doutor Tiago, Ah também, né? Ótimo também.
+
+15:28
+Perfeito, não é bom que tem joia de saudade até 11 anedota.
+
+15:34
+Importantes que não tem. Tem alguém cuidando, né? Que o Salim estava no enterro dele, lá, falecendo pessoal, só dá um momentozinho de contração, né? E aí ele pergunta, quem tá aqui aí, Sara tá aqui, papai, né? É muhama, tá aqui, papai. Mas e quem tá cuidando? Conta do Lajinha, né? Todo mundo foi lá, então assim a gente tem que tá preocupado também com a sustentação ainda da da equipe, então tá todo mundo aqui, mas tem.
+
+15:59
+Parte da equipe ainda continua mantendo, então, por conta disso, a gente não vai é ser tão massivo, tá? Para que vocês tenham tempo de realizar as atividades e manter também OOO período de vocês? Atividades no tribunal? O que que eu preciso também nesse primeiro momento, quem já está com acesso aí? Tá acessal ambiente e fazer Apresentações aqui que é o quê? Tribunal de origem a formação, a experiência que você tem em programação.
+
+16:26
+Projeto de ar que o tribunal já tem. O que você já trabalhou aqui, que você pode entender dessa forma? Expectativas e projetos futuros que me motivaram a fazer esse treinamento tá? Se houver mais algum tópico ao seu respeito, não se limite. Hoje, abranger o intuito disso aqui é de saber, né? Qual que é o nível de vocês? Como é que vocês estão, qual que é o momento? Vou colocar aqui o meu também já começo fazendo a minha apresentação, que acabei não fazendo, então eu sou, né? Micael Araújo eu sou formado em ciência da computação pela universidade federal de rondónia, né? Eu tenho formação, eu tenho especialização em engenharia de software.
+
+17:02
+É pós-graduação.
+
+17:05
+É, apesar de estar nesse projeto, a gente está aqui já 5, quase 6 anos trabalhando com com inteligência artificial, né? Atuando, eu sou junto com Pablo e Alcides co, né? Cocriador da das plataformas do seu naps e do e do codex que a gente iniciou ainda lá em Rondônia, né? À época, no tribunal de justiça.
+
+17:24
+Nesse intervalo eu saí. Eu era analista do tribunal, analista de de de a, né, de inteligência artificial, do terminal de Rondônia. Atualmente, assustou como técnico.
+
+17:34
+Do TRT 14, né? Migrei um concurso que eu assumi recentemente.
+
+17:41
+Estou aí atualmente também fazendo mestrado em computação aplicada pela Universidade de Brasília pela UnB, né? Estou com uma aluna especial e também estou fazendo graduação, estou no segundo ano de estatística de então. O pessoal perguntou, Ah, você trabalha com o iaf e eu me costumo me classificar como 11 interessado, um curioso tá e estudante, não sou especialista, não me considero especialista, me considero.
+
+18:09
+Eterno estudante, então é a intenção aqui, além de passar o conhecimento que eu tenho, não por ser especialista, mas porque eu faço isso todos os dias, então aquilo que você faz todos os dias, você acaba que tem ali um conhecimento amplo, né? Não necessariamente porque você especializou, mas é porque faz parte da sua rotina, então é passar-se da rotina. É desse conhecimento, é para vocês e aprender com vocês também, né? De forma que a gente possa aprender e trocar experiências, aí então o intuito é que esse pode tá ser que a pergunta total, coisa, Ah, cara, não sei se eu não souber, pode ter certeza que eu iria pesquisar e vou tentar trazer.
+
+18:48
+Ou alinhar baseado no conhecimento que eu já tenho, então, quem já tiver aí e puder acessar aqui o ambiente, fazer essa apresentação, eu agradeço. Tá pessoal, pra poder ter esse nivelamento aí de vocês.
+
+19:03
+Então treinamento. Ele é focado nos sinapses. Nesse primeiro modo, a gente vai ter que trabalhar com a parte de configuração, tá do ambiente. Então hoje eu vou deixar para vocês é como tarefa de casa. Vou passar aqui, fazer essa. Essa tentativa de instalação, eu vou passar referência, vou postar aqui dentro do.
+
+19:29
+Do ambiente um pré-passo tá? Quais são as 3 formas que a gente tem de trabalhar com os sinais, a gente pode trabalhar com o docker, tá, então.
+
+19:42
+Eu vou pular para cá e até fazendo uma referência também. Alguém poderia me dizer aí, o que é que é o sennaps? Qual que é o entendimento que vocês têm a respeito?
+
+19:57
+Leo, acho que sinapse Na Na biologia é onde ocorre a comunicação entre os neurônios, né?
+
+20:05
+E aí, no caso daqui, seria talvez um jogo com a troca de informações assim das.
+
+20:12
+De aprendizagem assim de máquinas, isso é o sinapse. É, é isso mesmo, é conexões, né? Como a gente escolheu esse nome, né? Ele foi delegado para batizar o projeto. Foi, foi basicamente nisso, então é algumas confusões que as pessoas acabam fazendo em relação aos sinapses.
+
+20:31
+Janos Victor, sinapses temos agora também Oo Berna OTJ Elis são. Eu costumo fazer até uma comparação com queijo e pão de queijo, pão de queijo e pão com queijo.
+
+20:44
+É um modelo de a é queijo.
+
+20:48
+O Berna, o janos é a Elis. É pão, é pão com queijo, tá por quê? Pão é automação, queijo é modelo de ar.
+
+20:58
+Tá, e o sennapse? Ele na verdade é ali uma fábrica, né? Seria um forno para disponibilização do do queijo. Ele não conflita ele não é 111 modelo, ele não é um sistema de inteligência artificial, ele é mais próximo ali a uma ideia e uma plataforma de governança, na qual vocês podem pegar os modelos, fazer a parte de treinamento supervisionado, implantação, versionamento tá disponibilizar fazer o deploy este?
+
+21:29
+Ali dentro, e esses sistemas que são, no caso ali, sistemas experientes, né? Automações com a inteligência artificial, elas passam a ter a possibilidade de consumir, né? Os modelos a partir dos sinapses. Então você acaba desacoplando, né? Porque a metodologia que antes até dessas plataformas mais modernas que a gente tem hoje, a gente tem o metaflow, a gente tem ali o Sage maker da da própria AWS, que é muito parecido com os sinapses. A gente até comentou certo dia, conversando com o pessoal da WS que.
+
+22:01
+Como o sonaps lhe surgiu bem antes, até falei, parece até que vocês copiaram a arquitetura do projeto.
+
+22:07
+Porque tem vários requisitos daquilo que os sinapses oferta tem. Só que sinapses vai um pouco mais além que a gente trabalha com a parte de governança também, então você possibilita que as equipes de IA, as equipes de negócio e a pessoal que trabalha com desenvolvimento ali na parte de automação possam trabalhar de formas unificadas e ao mesmo tempo individualizadas. E a atividade de um não atrapalha o desenvolvimento da outra, então você acaba possibilitando que esse desacoplento ele favorece, né? Que o projeto consiga ser escalado.
+
+22:41
+Se os anos hoje, por exemplo, trazer que a realidade dos TRES ele não tivesse essa portabilidade de ter um modelo apartado, o que é que teria que ser feito? Para cada instalação, teria que ser feito um novo retreinamento, uma nova instalação, e isso talvez impossibilitaria, né? Num disse que impossibilitaria, mas dificultaria o processo de você disponibilizar para outros TRS aquele projeto, porque ele taria acoplado né? Fortemente acoplado ali, a estrutura e ao contexto do TRE lá da Bahia. Mas quando você tira?
+
+23:13
+Aquilo que é a parte ali, que é conceitual e alinhada ao negócio da parte de programação, você possibilita que cada TRE possa é recriar aquele modelo, né? E implantar a parte de automação sem precisar se preocupar com alguns adendos inerentes à à aplicação anterior. Tá? Então entendam os sinapses dessa forma, é uma plataforma, é uma ideia, né?
+
+23:43
+De governança e de orquestração de modelos de interesse artificial.
+
+23:48
+Michael, pois pode falar Leo, pronto, né? A visão que eu tinha era mais ou menos essa que é um repositório de modelos de inteligência artificial. Mas aproveitar que você entrou no exemplo dos janos.
+
+24:03
+Cada modelo que cada tribunal adota acaba indo pro domínio dele, né? Fica apartado dos treinamentos e do conhecimento gerado pelos outros, por isso a necessidade do retreinamento pra adaptar pra nossa realidade. Procede?
+
+24:21
+Exatamente, você vai adaptar de acordo com o seu contexto. É no caso do janes, ele, ele, ele utiliza um modelo de classificação, então, dentro do pipeline da da da da automação, você pode definir como que você quer fazer utilização da do retorno da IA. Então, quando você faz uma classificação, você está dizendo que você inseria o input e você vai ter um output. É no caso da classificação com modelos supervisionados, você já define ali, né? Um uns ótimos que seriam os outros.
+
+24:56
+Então, não necessariamente você precisa utilizar os mesmos outputs que a equipe do TRE do Rio Grande do Norte, que a equipe do TRE do Rio Grande do Sul utiliza. Vocês podem criar outputs diferenciados.
+
+25:07
+É só que aí você vai ter que retreinar o teu modelo de acordo com o teu output. Aí você vai ter que pegar os inputs que são ali os o data 7, né? Seria a tua base que foi feito o treinamento supervisionado e você vai treinar de acordo com os seus outros, com seus rótulos para atender a tua realidade. É, até porque você pode ter um fluxo. Eu sei que Na Na, na justiça comum, no caso de justiça estaduais, cada PJE tem um fluxo na eleitoral.
+
+25:36
+Isso não já já, já está, está Unido, né? No o fluxo é um só hoje porque o sistema ele somente em primeiro grau, por utilizar um sistema único, né?
+
+25:45
+Já no segundo grau, não. Segundo grau eu, se eu não me engano, cada um tem um fluxo também. É isso mesmo, doutor Tiago?
+
+25:52
+Exatamente na no primeiro grau, né? Nós temos AA base, ela não está, é não, não está segmentada, é tudo.
+
+26:00
+Um PJE, né? É OTSE que estabelecem, tem uma facilidade nesse ponto aí, né? No eleitoral, né? Sim, é. É uma vantagem, mas é uma desvantagem, porque você, por outro lado, tem a desvantagem exato. É, você tem que ter um contexto, mas pelo que eu que eu eu tive de conhecimento da equipe, junto do PSEA tendência é que a partir de 2002 1024 vai acontecer aí, né, vai ser apartada.
+
+26:26
+Mas deve haver uma segmentação, então aí começa a ter fluxo distintos. Você começa a ter uma peculiaridade dentro do processo, diferente, não do ponto de vista do do, do, da, da, da matriz, mas do fluxo. E o fluxo conforme você ajusta, pode ser que isso, sim, tenha viés diferentes, né? Que precisam ser adequados. Então quando a gente fala de utilizar o modelo treinado para a realidade é quando você não consegue generalizar é se você for usar os mesmos rótulos que a equipe do janos lá do Terra da Bahia, utiliza, não tem problema, tá? Só que o que é que precisa é validar.
+
+27:01
+Se aquele modelo ele generaliza tão bem dentro da sua base, quanto?
+
+27:06
+Generaliza dentro da base do TRE da Bahia, né? Então a gente tem modelos que são bem genéricos, eles conseguem fazer essa essa generalização e conseguem responder tanto pra justiça eleitoral, por exemplo, modelos de de identificação de petição, porque ela tem ali 111 identidade bem peculiar em tudo. O advogado, quando ele faz uma petição inicial, ele segue ali, mais ou menos o parâmetro do que está ditado lá No No, na, no, no código, né, no CPC, No No, no código de processo civil, né, 2015.
+
+27:39
+É é fácil, no caso, quando você vai trabalhar com triagens que eu acho que é a questão do já na aprovação de de de contas, tudo mais você acaba tendo ali 111 visão muito peculiar da equipe que faz aquele processo.
+
+27:54
+Então, quando a gente fala em fazer um modelo, o modelo nada mais é do que uma abstração das pessoas que fizeram aquele processo ali. Então, se as pessoas que realizaram aquele processo num determinado local, elas têm um procedimento, é distinto do que é acontece no local. BO modelo, ele não vai generalizar tão bem, porque ele vai trazer uma abstração do conhecimento da realidade daquele contexto. Daquela equipe. Tá, então quando a gente trabalha com classificação, a gente tem que ter essa visão ou você.
+
+28:26
+Vai para um foco mais abstrato, mais macro.
+
+28:30
+Ou se você quiser descer mais camadas, aí sim, você precisa adequar aquele retreinamento em acordo. Tá com o que o teu intuito ali de repente você tem um rótulo que você chama de prestação de contas, é o modelo de prestação de é é identificação, prestação de contas, aí vão ter os óbitos ali validado com ressalvas, validado com vistas para o Ministério público é validado com visto para o Ministério público, porém contém indício.
+
+29:01
+A equipe do TRE da Bahia não usa esse rótulo, então o modelo lá não vai conseguir. A gente não tem como colocar esse rótulo dentro do do do é depois alterar e querer que o que o que o modelo consiga fazer essa classificação, porque ele não foi treinado com essa facilidade, com essa identificação, quais são outras formas da gente? Criar rótulos dentro de um de uma base a gente pode fazer claroização quando a gente usa a classe, a gente consegue.
+
+29:30
+É criar, né? Clusters que vão trazer ali 11 similaridade entre esses clusters. E aí eu, com base nessa similaridade, eu dito dentro daquele cluster, quem que é o meu paradigma ali? Vou chamar de paradigma e com base nesse paradigma, eu crio um rótulo.
+
+29:48
+Só que aí novamente, pode ser que eu não encontre dentro desses clusters as mesmas abstrações que a equipe quer.
+
+29:57
+
+
+29:58
+Trazer, né? Dentro daquele contexto do da Cesp, para poder gerar o modelo. Então assim, são várias abordagens que a gente pode realizar. É fazendo modelos de entidades de reconhecimento da entidade nomeada, é modelos de de classificação, são enes modelos, tá? E closerização também para cada uma dessas abordagens existe uma possibilidade de a gente utilizar a plataforma para poder fazer esse processo. E é dentro desse foco que a gente vai avançar.
+
+30:26
+Aí, ao longo desses 3 módulos, para que vocês possam ter essa visibilidade.
+
+30:30
+Para que vocês possam buscar referências também. Eu não sei aqui quantos é. Tem prática cunhar, a gente não tem um foco em ensinar, mas a gente vai falar a respeito de AE sempre que tiver alguma dúvida, algum incentivo, eu vou trazer ali 111 escopo mais geral. A gente vai discutir e vou colocar uma referência para que vocês possam é estar pesquisando e avançando nesse assunto, mas é muito importante, tá que dentro de um de um grupo desse grupo que está se formando crise também ali um núcleo para trabalhar especificamente, né? E aprender.
+
+31:03
+A desenvolver modelos AA. Ter essa essa, essa expertises, né?
+
+31:07
+Que na nossa área hoje, no caso que como a gente não trabalha com visão computacional, seria na parte de de linguagem natural, né? É PNL.
+
+31:17
+Ou PLN depende de como você for colocar, né? Processamento de linguagem natural?
+
+31:23
+Então, pessoal, para isso, o inicial que que a gente precisa eu deixa eu pegar aqui. Com base nas respostas do grupo.
+
+31:34
+Eu verifiquei que a gente tem ali o Windows Linux. A gente está cerca de 60%, utiliza, é Windows, né? Isso aí é o é o, é o normal realmente e tem ali um grupo que tem Linux. Quem está dentro desse grupo de Linux está mais tranquilo. Qual que é a única restrição que a gente tem em relação a utilizar os sinapses? A gente tem todas as as APIs, no caso as Lips, que a gente desenvolveu, elas operam dentro de ambiente Linux, tá, porque é o mais comum a ser utilizado.
+
+32:04
+Ah, isso é impeditivo para que utilize o Windows não, você pode utilizar, só que você vai precisar fazer uma abstração utilizando um doce que é o mais aconselhado, né? Eu até mesmo dentro do meu ambiente Windows, dependendo de da situação, eu utilizo ali um contêiner docer, mas geralmente eu utilizo nativo, então a gente vai ter 3 formas de trabalhar o ambiente. A gente vai fazer essa instalação do ambiente inativo dentro de um.
+
+32:27
+De uma instalação é Linux. Seria o ideal? Tá fazendo ali uma virtualização com painfe, então a gente consegue criar ambientes virtuais dentro do Linux dessa forma.
+
+32:38
+A segunda maneira é a gente utilizar o DOC, tá? Então a gente vai é fazer a instalação do doce tanto no Linux para quem já utiliza isso é comum quanto no Windows também no Windows é mais tranquilo a instalação do DOC, mas pode ser que ocorra algumas peculiaridades em relação AA permissões. Como eu não tenho aqui Oo uma máquina Windows, mas eu vou tentar simular para poder auxiliar esse grupo.
+
+33:03
+E a gente vai fazer se a gente conseguir instalar o DOC com todas as permissões, vai funcionar também perfeitamente. Por que que eu digo que o que o melhor é o DOC, porque você não ocupa tanto? O recurso da máquina quanto a gente utilizaria que aqui vai a segunda pergunta que eu coloquei lá no grupo, que foi DOC, aquele virtualbox de meme e vambore, né? Se você utilizar a virtualbox, quando a gente utiliza o virtualbox, a gente está utilizando ali é seria um hospedeiro, né? Dentro do ambiente e vai precisar de recursos tanto de processamento quanto de memória.
+
+33:32
+E, dependendo do tipo de modelo que você trabalhe do tamanho do seu data, set, você vai precisar, né? É que esse teu ambiente ele tem uma comunicação tanto com AGPU. Ele vai precisar de mais memória, vai precisar de mais processamento.
+
+33:49
+E a gente fazer essa abstração pode ser que atrapalhe um pouco.
+
+33:53
+Mas, para o entendimento, com o avanço do curso e os modelos que a gente vai trabalhar, não vai ser repetitivo, mas para poder avançar em modelos é mais especialistas que necessitem de mais recursos. O ideal é que se utilize, né? Uma máquina ali, com foco em sem, sem virtualização ou que já tenha isso naturalmente orquestrado dentro do ambiente de nuvem ou algo nesse sentido, no qual você não precisa se preocupar, né? Com essas camadas aí de de configuração.
+
+34:26
+Então, o DOC, eu vou deixar como tarefa de casa para vocês hoje a instalação desse DOC no caso. Quem utiliza Oo ambiente Windows? Quem utiliza Linux tá é? Segundo, a tarefa é fazer o download no caso no quem quiser, vou deixar a escolha. Ah, eu vou querer utilizar.
+
+34:43
+É, no caso, virtualbox. Eu tenho uma imagem já précompilada para virtualbox, né? Seria uma ova. A gente chama de OVA, né? É a ova. E aí eu vou passar para vocês o link para fazer o download. Essa imagem ela já está pré-configurada, mas ela vai precisar ser atualizada, então quem pegar essa imagem eu vou auxiliar nesse processo de atualização.
+
+35:05
+Quem já trabalha com ambiente Windows é vou passar o roteiro aqui dentro da documentação.
+
+35:12
+
+
+35:15
+Começa justamente aqui, tá? É bem simples, tá? Tem só um pulinho do gato aqui em relação ao que acontece muitas vezes que dá erro. Mas hoje para você instalar um ambiente virtual dentro de 1/01/1 de uma máquina Linux é tranquilo. Então a gente utiliza o painhenff para que a gente não surge. Vou chamar de sujar ali no nosso ambiente, então a gente consegue criar uma habitualização do Python dentro do nossa, da nossa máquina Linux.
+
+35:40
+Para que a gente possa trabalhar com várias versões, porque o que é que acontece? Eu costumo trabalhar de que, de que maneira? Eu crio um ambiente para cada modelo.
+
+35:48
+Que eu vou, que eu vou, que eu vou desenvolver, porque se eu precisar fazer um teste depois, se eu precisar fazer uma validação em relação à versão daquele modelo, eu sei que aquele meio ambiente ele está pré configurado e eu vai, vai ficar mais fácil esse processo de validação, tá?
+
+36:03
+Então, aqui eu vou passar essa referência para vocês e vou colocar também pessoal aqui, tá dentro do nosso está fechado aqui. Documentação eu ainda estou decidindo onde é que eu vou colocar esse, se eu vou colocar dentro do módulo, se eu vou colocar externo, mas assim que eu liberar vocês vão ter trechos, tá? De acordo com a aula, então como a gente está fazendo esse processo hoje? Eu preciso entender qual que é o entendimento de vocês para liberar isso aqui, não criar confusão, eu preciso saber justamente.
+
+36:33
+Desse prepasso, né? Como é que vocês vão avançar nessa atividade?
+
+36:38
+E aí eu vou liberar isso aqui em acordo, né? Com o avanço do curso.
+
+36:45
+Documentação é get e vou colocar aqui.
+
+36:51
+Todos possam fazer ali o.
+
+36:56
+Cadastrem aqui, tá? O cadastro tem que ser feito com o e-mail do tribunal, tá? É a única restrição a que você precisa cadastrar com o e-mail do tribunal.
+
+37:05
+Não se orientem de forma total por aqui, tá? Aguarde, a gente vai avançando. Passo a passo. Como eu falei essa documentação, ela está um pouco é defasada. E aí, o que que a gente vai estar fazendo? Eu vou estar atualizando ela ao longo do curso e vou estar colocando também aqui da nossa plataforma. Está dentro do ambiente, ela de forma mais didática, para que vocês possam fazer passo a passo que ali tem uma parte histórica, tem uma parte teórica que não convém muito a nossa realidade.
+
+37:35
+Então por isso é que eu peço que vocês façam dessa maneira para hoje, né? Seria justamente nesse sentido a gente avançar na instalação do ambiente. E aí eu vou acompanhar com vocês é, vou ficar disponível para poder tirar dúvidas até as as as 11 horas para quem tiver alguma dúvida no sentido em relação ao ambiente, mas amanhã a gente avança no conteúdo, eu vou pegar essa atividade que eu passei para vocês hoje. Em primeiro momento, a gente vai fazer de ponta a ponta ali a instalação, deixar um ambiente configurado.
+
+38:05
+E depois avança no conteúdo, que é justamente o processo de inclusão de usuários, tá e criação do nosso primeiro squelfold ali do do nosso classificador.
+
+38:18
+TRE, que deixa eu ver no ambiente Leo.
+
+38:23
+A equipe aqui tem 368, mas eu sei que tem mais pessoas.
+
+38:31
+É?
+
+38:33
+Tranquilo. Se a gente criar aqui dentro um contêiner e incluir para não fazer dentro desse escopo, aqui o restante da equipa doutor Tiago Leo pode ser, pode ser?
+
+38:44
+
+
+38:47
+Então acho que aqui dentro desta i mesmo.
+
+39:12
+O que acontece? Criei aqui esse domínio, tá?
+
+39:21
+Deixa eu visualizar aqui, Hein?
+
+39:26
+Dentro do STI, então aqui dentro é que a gente vai colocar esse grupo, inclusive o pessoal que está como visitante também.
+
+39:34
+Nesse primeiro momento, não se preocupem com esse acesso. Eu vou verificar aqui, mas o processo aqui vocês podem fazer de 2 maneiras, quem já tem o cadastro?
+
+39:44
+Dentro aqui do do SSOA gente vai só chamar para cá, inclusive o pessoal do e quem não tiver pode também efetuar o cadastro aqui com o Gov BR vai validar esse cadastro. Você consegue se cadastrar, então faz o teu CPF.
+
+39:59
+Ah, Michael, como é que é feito isso? Você vai ter que criar as 2 formas de cadastro hoje, porque o tribunal solicita a equipe lá do CNJ, faz o cadastro. A segunda maneira de você ter acesso aqui é você se cadastrando como Gov BR. Aí só que é a tua conta, ela vai ficar uma conta inerte, você vai ter acesso ali à à plataforma, mas não vai ter acesso a recursos, uma vez que está cadastrado, falou-me. Consegui me cadastrar utilizando o Gov BR, aí, o que que eu faço agora? Aí você passa o teu CPF.
+
+40:31
+A gente ali, o Leo, né? O pessoal do tribunal vai chamar o teu perfil ali pra dentro e vai conseguir te dar acesso dentro daquele conteminer, tá? Então, quem não conseguir nesse momento, acessar aqui o sinapse?
+
+40:42
+Através de uma conta, já préexistente, pode criar aqui utilizando o Gov BR, tá pessoal?
+
+40:50
+O processo é normal.
+
+40:52
+E é basicamente isso. Eu vou abrir para dúvidas agora, tá? Eu falei, a gente precisa fechar essa questão do cadastro de vocês. A gente precisa que vocês é, tenham esse cadastro inicial aqui, OK?
+
+41:05
+É, faça essa atividade de tentar instalar ali Oo ambiente, OK? Faça um cadastro lá no geet e vou validar também aqui com vocês. A partir de agora. Quem é que não tem ainda aqui Oo acesso?
+
+41:23
+AA plataforma todo mundo está conseguindo acessar. Pessoal, consegue visualizar aqui o.
+
+41:29
+
+
+41:36
+Participantes?
+
+41:39
+É o Filipe Luís.
+
+41:43
+É todo mundo aqui já conseguiu acessar nos últimos minutos, OK, realmente eu não. Eu não estou conseguindo, perdi o usuário Luís Aires.
+
+41:51
+Luís Ayres, né, doutor Tiago?
+
+41:54
+Peço também, depois o meu estava ficou bloqueado. Francisco Anderson, né?
+
+42:00
+Francisco Alves.
+
+42:02
+Anderson.
+
+42:09
+Eu visualizo o fórum, mas não consigo respondêlo.
+
+42:13
+Felipe Ayres.
+
+42:18
+Mais alguém tem problema de responder no fórum?
+
+42:24
+Eu, Carlos Leandro, estou aqui no na caixa de Apresentações para poder responder, mas não aparece a opção.
+
+42:34
+Está feita seu voo.
+
+42:38
+Vou verificar essa questão de permissão, dou um feedback para vocês daqui a pouco.
+
+42:45
+A tua apoia aqui também, mas eu já já já resolvo.
+
+42:50
+Tá, não tranquilo. A questão do fórum, eu acho que é questão de permissão. Vou verificar como o pessoal configura lá, como é que libera isso aqui já libera para vocês. Eu aviso lá no grupo do WhatsApp, nesse momento, só quem não conseguiu logar realmente é o é o Felipe, né?
+
+43:08
+Não o Filipe tá logado, Filipe.
+
+43:11
+Eu estou logado. A questão do fórum para poder responder é que só aparece OA opção, link direto não aparece as opções para resposta.
+
+43:22
+Não beleza em relação ao fórum, vocês dão um tempinho aí que eu eu dou um feedback para vocês. Lá no grupo está?
+
+43:30
+Eu parece que está nem na lista aí, né, Luís Ayres?
+
+43:38
+Luiz Aires.
+
+43:44
+Felipe.
+
+43:48
+Não deve estar na segunda página, aquilo. Isso.
+
+43:56
+Portanto, tu te cadastrou.
+
+44:00
+Sim, eu. Quando eu. Quando eu cadastro o banco, quando eu vou tentar logar? Ele disse que enviou 111 código aí pro meu e-mail, mas ele se engano nunca chega, não.
+
+44:10
+
+
+44:17
+Noite com s ou com z?
+
+44:20
+É com z.
+
+44:23
+No meu, só não está liberado o conteúdo mesmo, tá pessoal do conteúdo, pode ficar com a pessoa assim que resolver. Eu mando para vocês a informação lá No No chat Luís, eu vou aproveitar, vou te mandar os e-mails também do pessoal do Rio Grande do Sul, viu Michael tá não tranquilo, pode mandar que eu libero ele, só peço para eles cadastrarem lá, deixa eu ver esse teu.
+
+44:54
+Pessoal, fora isso, alguma dúvida?
+
+45:07
+Não.
+
+45:08
+É ver agora o passo a passo aí, ver se a gente vai se se enrolar, né? Mas o fórum de apresentação, ele não está permitindo resposta, viu? Está está eu já vou pedir para o pessoal que dá suporte aqui já verificar isso aí, eu já.
+
+45:24
+Dou 11 feedback para vocês lá No No nosso chat.
+
+45:31
+Okay?
+
+45:35
+Micael, oi, pode falar.
+
+45:39
+Em relação àquele link que foi lançado para o cadastro no kit, eu já fiz. Por enquanto, é o que é necessário, não é isso? Esse material que você estava apresentando vai ser liberado para a gente para poder instalar o docs não é doce?
+
+45:59
+Isso, exato, eu vou passar um perfeito, uma prévia. Isso eu vou passar um roteiro. No caso do Windows, esse aqui, no caso do Linux, esse aí você sentam, tá? Eu vou deixar de forma é autoinstrutiva vocês realizarem que aí surgindo as dúvidas, eu vou fazer o passo a passo amanhã. Desde o início, em cada uma dessas plataformas tá e vou avançar. E aí, já tiro as dúvidas de vocês e a gente prossegue.
+
+46:25
+Tá bom? Muito obrigado.
+
+46:26
+Por nada.
+
+46:30
+Eu ainda estou sem conseguir acessar Oo moodle.
+
+46:36
+Pode falar, é o Marcelinho, né? Marcel tá Luiz, eu já encontrei o seu aqui, tá liberado.
+
+46:48
+Deixa eu pegar aqui o.
+
+46:59
+Agora deu certo aqui, Luiz, raios, obrigado, viu por nada. Maciel, né Maceió?
+
+47:07
+Também mesma coisa, Marcelo, já vou te acessar o teu aqui também.
+
+47:12
+
+
+47:17
+Deu certo?
+
+47:19
+Beleza.
+
+47:21
+Eu, mais lento.
+
+47:24
+Mas alguém talvez dê, Hum, posso falar?
+
+47:29
+Vai ficar, o que é é o Wendel ficar, é o, é o Wendel. O cadastro No No guincho CNJ. Eu já tinha feito há algum tempo, só que nunca funcionou de fato. Aí ele. Ele simplesmente diz aqui que eu preciso entrar com o meu código do do dupla. Falta de autenticação, mas de fato, eu nunca.
+
+47:51
+Desprocessar aqui pelo celular, mas desde que eu fiz esse cadastro até hoje, nunca foi configurado isso daí. Nunca me deram acesso de fato aqui abri chamado lá pro CNJ tal.
+
+48:05
+Aí simplesmente fecha um chamado e eu nunca consigo acessar.
+
+48:10
+Tá, eu não consigo fazer, porque, como, como disse, não, não pensei por essa interface. Eu posso depois acessar contigo. Aí a gente vê como é que faria, porque provavelmente ele deve encaminhar alguma coisa pro e-mail, né? Pra cadastrar e aí pode só que não manda, não manda pro celular, até porque nunca nem pediu meu celular nem pediu pra instalar o aplicativo. Nenhum pra pra autenticação do fator nem usa aquele do Google nem nada, ele simplesmente diz, mas.
+
+48:37
+Esse código do duplo fator, mas um diz exatamente a partir de onde.
+
+48:42
+Está Oo, Edu, que está mesmo? Está do mesmo jeito, certo? Ele pede esse do fator de autenticação, mas ele nunca cadastrei nem nem pronto.
+
+48:53
+Daniel também. Ele pede a ele, pede a autenticação de 2 fatores.
+
+48:58
+Fator o único fator de autenticação você tem que instalar o aplicativo do Google, que é o Google authentication. Tá bloqueado? Agora eu já estou cadastrado, eu vou logar e ele vai pedir esse setor, você consegue chegar nessa fase sim que apareceu, chega até aqui. Estou exatamente nesse ponto, tá? Então tu está cadastrado, você chegou nessa fase, está tudo certinho, sim, eu vou ver se eu consigo compartilhar, vou pegar alguma documentação a respeito, isto é falho, realmente eu tive que procurar por conta própria.
+
+49:29
+É procura. Os Android é o autentiquei, é goodbye, é o OTAN. Eu até tenho esse Google authentickey. Tenho instalado que a gente usa, inclusive.
+
+49:43
+Aqui No No terrier, para algumas é, mas só um instante, eu acho que foi uma falha minha, só um instante.
+
+49:51
+E aí, tu vai quebrar.
+
+49:54
+Estou constante.
+
+49:57
+Desculpa, falha a minha mica, tá tudo OK aqui, passou já, já tinha tudo instalado aqui.
+
+50:04
+Tudo OK, mas o diz aí, o que é que é para eu fazer aqui também? Não? Agora estou te vida, Luís.
+
+50:13
+Ei, Luís AAO Google, tem escrito cara que eu não lembrava que eu já tinha conferido a tanto aqui para OTRE assim, ó, tu abre o teu Google authensca, aí vai ter os vários sites onde você está usando o duplo fator de autenticação. No meu caso, tem Oo passe no TRSE, tem o passe da sesic e tem o do guicho e do CNJ que realmente eu não me recordava que eu já tinha cadastrado esse duplo fator para o guic CNJ. Mas tu abre o Google authenticate. Se tu estiver cadastrado, ele já vai mostrar o código do guet.
+
+50:45
+Abrir o Kik pelo celular.
+
+50:48
+Vai dar certo, viu? Obrigado, tá.
+
+50:53
+Valeu, Luizinho.
+
+50:56
+Obrigado, Michael, fale a minha cara. Não, não.
+
+51:00
+Tenho, porque a gente é.
+
+51:03
+Considera commodities até brinco com o pessoal fala, Ah, mas não, mas o que é commodity? Pra mim, de repente pra outra pessoa não é e vice-versa. E aí a muitas vezes a gente acaba replicando isso em documentações, então a gente tem que ter esse cuidado em relação à documentação. Aqui não fala nada, realmente eu, quando eu precisei fazer, eu tinha que fazer também igual você do zero eu já faço essa autenticação pelo teins, então a gente tem 2 ambientes, o Teams utiliza essa essa autenticação de duplo fator também, que é uma forma totalmente diferenciada.
+
+51:31
+E o Google tem de 14, então é bem tranquilo.
+
+51:38
+Michael, oi, pode falar, Luís. O terreno do Rio Grande do Sul. Tudo bem. OPA, Luís, tudo. Estou aqui de convidado. Olha só, eu fui fazer ali o tentar fazer o cadastro no moodle, ponto done. Ali como está, só que ele só permite.
+
+51:55
+E-mail do TRED é verdade, ele só me passa, me passa aí OOO domínio de vocês é TRE traço RF é a mesma coisa, TRE traço res.jus.br no cara.
+
+52:09
+Às vezes, CEPERS.
+
+52:12
+Cadastro omeutambemedanielpilarcom2ls@trfrs.jus.br, por favor, não, não, eu, eu. Eu vou liberar o domínio e aí vocês conseguem fazer?
+
+52:27
+Vocês estão no Google do WhatsApp?
+
+52:30
+Não, eu. Eu não estou, pelo menos.
+
+52:33
+Se Oo leal estiver ainda e puder inserir os 2, não.
+
+52:37
+
+
+52:43
+Eu. Eu também não estou, por favor, cadastre-me, por favor.
+
+52:47
+
+
+52:50
+
+
+52:52
+
+
+52:59
+
+
+53:02
+
+
+53:14
+
+
+53:22
+
+
+53:24
+Vou pegar. Precisava a gente só planeta para saber. Eu vou para a gravação que quero mais, mas a gente não tem.
+
+53:32
+
+
+53:35
+Apagar.
+
+53:41
+O que é canetas aqui para você?
+
+53:45
+
+
+53:51
+Eu estava pensando em voltar.
+
+53:59
+A gente guarda ali na sala da da da, da Flávia Flávio, porque tem bastante espaço.
+
+54:09
+O que está direto assim, né?
+
+54:27
+Com os interesses, aposentou. A gente vai conseguir acessar a plataforma do sinapse pelo PDPJ ainda hoje?
+
+54:36
+Devo tentar, depois vocês precisam fazer o cadastro de vocês aqui, ó.
+
+54:41
+Mas pelo povo BR, quem tiver aqui a gente não. Eu não consigo, tá? Como é um treinamento fora, não tem correlação com CNJ? É, mas pode acontecer.
+
+54:53
+Dar um apoio para vocês, uma solicitação lá dentro para ver onde é que está parado, mas você pode se cadastrar aqui pelo Gov. BR, tá? Deixa eu ver, eu já tenho conta no Gov BR já. Só que eu não estou conseguindo acessar é essa página. Se você puder botar.
+
+55:09
+O link dessa página.
+
+55:11
+A sinapse, vou colocar, está no grupo do WhatsApp.
+
+55:16
+Eu botei, não apareceu para mim.
+
+55:21
+No WhatsApp fica bom também.
+
+55:26
+Se não tiver logado e tentar acessar o sinapse, ele vai te jogar direto para cá, ela já vem automaticamente aqui para essa página.
+
+55:46
+No meu caso aqui, ele já entrou automaticamente porque eu estou com um certificado digital. Eu acho que ele já reconheceu.
+
+55:52
+E já entrou?
+
+55:54
+Logo, logo, automaticamente.
+
+55:58
+Só que aí você não tem perfil, não tem nada, né?
+
+56:02
+É melhor eu sair entrar pelo governa, então.
+
+56:05
+Não o que, mas o que que apareceu com a time? Conseguiu logar na plataforma, acessou alguma coisa aqui? Por exemplo, se você.
+
+56:13
+Douglas só aparece o link a, aliás, aparece a figurinha sinapse do meu lado esquerdo, sinapse em cima, seu nome, o meu nome lá pra cima, isso aí, isso só isso. Beleza, é isso mesmo, tá? Esse é o comportamento esperado, tá? Quando você não tem ainda perfil no cadastro, eu já vou fazer aqui, te mostro depois, amanhã eu vou estar explicando direitinho, nesse momento, não precisa se preocupar não, mas vou usar inserir aqui.
+
+56:40
+Que é um procedimento que vocês mesmos, no caso do tribunal, podem fazer em relação a outros membros da equipe, tá?
+
+56:49
+Deixa eu pegar aqui.
+
+56:54
+Qual que é o teu CPF?
+
+57:00
+465.
+
+57:03
+9786-7300.
+
+57:09
+Sério?
+
+57:10
+Eu vou encaminhar.
+
+57:14
+Felipe Aires Costa, correto?
+
+57:18
+É Filipe, né?
+
+57:21
+Exatamente, é, é, é isso mesmo, então isso aqui vai ser comum, está dentro do do, do ambiente de vocês. Esse é a Michael que você tem perfil? Não. Qualquer pessoa que tinha copiado de novo aqui, antes de de de.
+
+57:37
+Porque no caso, qualquer um desses usuários aqui que já estão No No no domínio, já tem perfil.
+
+57:44
+Por exemplo, o Wendel, o Daniel ranielson. Fernando Jonas é o Luís. O Rodrigo poderiam fazer esse processo te incluir agora, tá? Eles também têm esse mesmo perfil, só que só conseguem incluir daqui para baixo. Não vai conseguir incluir no TJ do Paraná nem no TRE, nem de Sergipe e do Acre. Nada. Mas quem está acima consegue incluir os usuais aqui abaixo, então.
+
+58:12
+Seu desse procedimento vem aqui buscar no SO, uma vez que você já se autenticou lá pelo SSO define aqui um perfil administrador de domínio, tá? Eu vou voltar nisso aqui depois, tá pessoal? Pode ficar tranquilos.
+
+58:25
+Vou explicar o que que significa cada um desses perfis aqui.
+
+58:29
+E adicione, se tu fizeres agora Oo logout e logar novamente, já vai aparecer para ti toda essa estrutura aqui.
+
+58:40
+Alguém só manda de novo a web de sinapses ali pra mim, porque eu acabei de entrar no grupo do WhatsApp ali, por favor.
+
+58:52
+Mandei aí.
+
+58:59
+Deu certo, Felipe.
+
+59:03
+Vou testar. Agora está joia, porque com certeza.
+
+59:09
+
+
+59:09
+Hoje, aqui é o Flávio, o meu nome não tá aparecendo aí na lista. Acho que foi meu. Foi feito um cadastro ontem, de última hora. Flávio Moreira de Oliveira, TRE do Ceará.
+
+59:20
+Mas é, você fala na lista do você está No No WhatsApp, na lista do eu estou. Eu estou na lista do mas você está aqui, não muda não.
+
+59:31
+Não estou, não.
+
+59:32
+Não está no show de eu já te vou lhe dar aqui já.
+
+59:37
+Tentou, já se cadastrou.
+
+59:40
+Não.
+
+59:42
+Então, lá no moodle te cadastro, tá certo? O link está aí no grupo também, é isso? Sim.
+
+59:50
+É esse que está em cima.
+
+59:53
+Eu fiz o logout, entrei pelo governo para testar e a tela é a mesma, tanto usando o certificado quanto o Gov ponto BR.
+
+1:00:03
+Ficou na daquele mesmo jeito que eu falei anteriormente, tá? Sai, dá um control f 5 e tenta certo lugar novamente.
+
+1:00:16
+No caso da gente que a gente vai estar num domínio diferente lá do sinapses, né? Do do, dos colegas do do Ceará, como é que a gente faria para pegar o perfil deles do Ceará? Como é a mesma coisa? Esse cadastro faz esse cadastro aqui com meus pequenininhos, vocês não estavam ainda, você está estão com uma autorização para utilizar esse domínio de treinamento aqui dentro do do container deles está, Hum, nós no ambiente de vocês.
+
+1:00:44
+Do TRE?
+
+1:00:45
+No Rio Grande do Sul, chamei aqui.
+
+1:00:49
+
+
+1:00:52
+Yes, teria que ser através de alguém do próprio tribunal. O Eduardo Garcia tem tem perfil para incluir vocês, tá? Eu falo.
+
+1:01:05
+Isso dessa forma, o que é que acontece? São cada cada tribunal. Acho que vocês devem conhecer aquela figura do do cadastrador regional, né? Então é a política. Agora é do CNJ, só faz o cadastro desse cadastro regional e todas as demais liberações ficam a cargo do próprio tribunal, né? Através dessa pessoa efetuar esse processo.
+
+1:01:25
+Não tem mais necessidade de ficar solicitando encaminhando ali para OCNJA não ser que tenha algum problema igual aconteceu do colega agora.
+
+1:01:34
+Tá, não beleza. Eu falo com, mas aí deveria aparecer pra mim esse ambiente de treinamento dentro do sinapses, é isso.
+
+1:01:43
+Não vai aparecer quando fizer esse mesmo processo que eu fiz agora aqui com o colega, né? Todo junto que está participando do treinamento vai ser incluído dentro desse domínio é porque eu eu comecei a estudar isso pra frente, eu vi só pra poder resolver o problema do Felipe. Ah, tá, mas aí amanhã eu explico certinho, como é que vai, tá certo, como é que acontece isso, processo que tá em qualquer tranquilo.
+
+1:02:05
+Ponto UFC, como é a situação? Permanece a mesma, tá, Felipe? Eu vou pegar o teu caso como exemplo aqui e vou caminhar para o suporte. Eu acho que isso aqui é um bug registrado por mim. Fale a memória que o colega me reportou, pessoal, daqui de desenvolvimento, eu já peço para poder utilizar como exemplo aqui. EEE avalie, tá?
+
+1:02:26
+Micaela 6 se tu puder tirar um print, é só um minutinho, é Felipe, tira um print e aí, se tu puder vir também aqui, ó, vai nesse inspect.
+
+1:02:38
+Man.
+
+1:02:39
+Força, procura, cadê aqui.
+
+1:02:56
+Fechou que a história de.
+
+1:03:17
+Aí tu tira uns prints, Felipe tá dessas aqui, do do, do, do token, o que está aparecendo para ti?
+
+1:03:26
+Société uns aqui, muito local quanto assassion.
+
+1:03:29
+Esses 4 elementos aqui.
+
+1:03:33
+Tudo bem.
+
+1:03:34
+Aí tu pode colar no meu privado lá.
+
+1:03:40
+Felipe, OK?
+
+1:03:43
+Okay, vou passar pro teu privado agora, beleza?
+
+1:03:48
+O outro colega, que se manifestou que eu não fiz, pode falar.
+
+1:03:51
+Pronto de casa, sou Carlos, é no sinapse. Aqui eu acessei pelo gol e aparece só OA imagem do cérebro no meio da tela, sem nenhuma informação.
+
+1:04:06
+Essa mesma situação que o colega Felipe tá acontecendo? Isso bem, vou tentar te inserir aqui. Se acontecer a mesma coisa, vocês aguardam um pouquinho que eu vou começar com um colega lá pra poder verificar isso.
+
+1:04:18
+E validar bem se é um bug que não está fazendo anão está recuperando.
+
+1:04:25
+O seu.
+
+1:04:29
+Marcel, está tudo certo, Marcelo está certinho, então pode mandar aqui. Aí tu me manda um print, qual que é o teu CPF, Carlos?
+
+1:04:37
+É 950.
+
+1:04:39
+9311-7315.
+
+1:04:49
+950.
+
+1:04:53
+9509-3173 9509 311 7315.
+
+1:04:59
+
+
+1:05:06
+Faz o logout a mesma coisa, né? E não completa assim para limpar o Cash, aí tenta acessar novamente.
+
+1:05:13
+Aqui também está no mesmo jeito.
+
+1:05:16
+
+
+1:05:20
+Tranquilo, tá? Pode ficar para você se não resolver isso até amanhã, tem uma solução de contorno, tá? Eu consigo.
+
+1:05:31
+
+
+1:05:35
+Mas eu não. Eu vou primeiro reportar isto aqui.
+
+1:05:40
+Continua do mesmo jeito, mesmo depois do contro f 5.
+
+1:05:46
+Então tu faz a mesma coisa que eu pedi para o colega, aí tira um print da tela inteira pegando o domínio, tá? Você pega daqui até aqui e onde pega o teu, o teu nome de usuário aqui também? Depois você vai lá em inspect.
+
+1:06:01
+Vai lá em.
+
+1:06:04
+Source, Willis.
+
+1:06:08
+Application, aplication.
+
+1:06:10
+Tire aqui 11 Paint também dessas telinhas aqui, tá?
+
+1:06:16
+Um local store e do acesso no stoge.
+
+1:06:23
+Como causou então?
+
+1:06:26
+
+
+1:06:43
+Eu acho que ficou bem funcionando.
+
+1:06:47
+Mas para hoje está para ficar tranquilo. Eu vou querer um retorno aqui só do pessoal do Rio Grande do Sul já conseguiu acesso lá No No WhatsApp.
+
+1:06:55
+O WhatsApp sim, o mudo ou ainda não tá o mudo eu vou dar 11 feedback pra vocês exatamente. São as 2 tendências que eu tenho aqui em relação a isso. O domínio de vocês EOOO ambiente, postar no fórum, tá?
+
+1:07:10
+Essas 2 eu vou dar um retorno daqui mais ou menos uns 3040 minutos.
+
+1:07:15
+Show?
+
+1:07:17
+Está?
+
+1:07:21
+Pessoal, é Carlos. É tanta gente esquecido, né? Quem tiver dúvida pode levantar a mãozinha, ainda bem.
+
+1:07:28
+OPA, posso falar, pode falar, é Michael só ficou. Ficou uma dúvida aqui que é o seguinte, é, eu acessei OOA, plataforma sinapses agora usando o golv VR, né? Quando entrei lá, apareceu lá como se eu tivesse permissão nenhuma lá, nem nada, né? Isso vai ser resolvido por você, ou é ou eu resolvo aqui com o Leandro?
+
+1:07:52
+Só aqui do TSE.
+
+1:07:54
+Não tenta mais, tá? Quem quem? Quem não tiver, ainda, não, não. Não tenta logar. A gente não vai usar de outra forma hoje. Hoje é que eu preciso de vocês. É só a questão do ambiente.
+
+1:08:03
+OK, com relação ao ambiente, eu vi que tinha você mostrou 111, alguma coisa aí que tinha lá uma configuração? Tinha lá um, eu vi a parte do docker, né, que já está configurado aqui no meu computador e eu vi que você pediu para configurar lá o pai embrio lá o ambiente virtual lá do do do pai, né? Alguma coisa e eu não já está aqui, está aqui no guincho.
+
+1:08:26
+A no geet, né? Pronto, eu acessei o guet o meu kit também não tem acesso a nada, assim, ó, eu entrei no gay lá no geet, criei minha conta agora e.
+
+1:08:35
+Eu entro e no como se fosse não, não aparece nenhum projeto. Pra mim aparece um projeto, não, não, não vai aparecer não, mas esse, esse aqui, ele é público. Se você acessar o link direto, tu vai conseguir.
+
+1:08:46
+O link é o que está aqui no isso, esse é que talvez possa estar eleito, vai ser for direto nele, você vai conseguir acessar.
+
+1:08:52
+Deixa eu ver aqui, deu certo, vou festa agora.
+
+1:08:59
+Ah, beleza, foi, foi foi né? Beleza.
+
+1:09:03
+Pronto, obrigado, era só isso, viu? Beleza, tranquilo, valeu.
+
+1:09:12
+Pessoal, alguém mais?
+
+1:09:15
+Só replicando hoje eu vou ter seria esse, tá? Quem tiver DOC, instala lá o documento.
+
+1:09:22
+Tanto no Windows quanto o Windows, procure, eu vou passar a referência pra vocês ali no grupo, daqui a pouquinho também.
+
+1:09:27
+E aí? Em relação ao payem, quem utiliza o ambiente é é esse aqui, o.
+
+1:09:33
+Tutorial, tá? Tem 11 venezinho quando você executa esse co aqui do bash, tá? Ele já vai fazer o processo todo automático.
+
+1:09:42
+E aí ele vai só pedir que você crie essa entrada aqui no best. RC eu não me recordo se essa essa aqui funciona também, mas dependendo da versão da que você estiver usando ali, do do, do script, ele vai printar na tela, então podem usar o print que vocês receberem na tela de vocês, tá?
+
+1:10:04
+No momento em que vocês executar esse script aqui nessa Câmera, o Michael. Oi, pode falar.
+
+1:10:10
+Cara, Oo geach e eu não consigo acessar nem esse teu link público aí em muito menos lugar lá.
+
+1:10:18
+Mas o que que está tendo com o programa? Nunca me mandou o e-mail de confirmação que não chega.
+
+1:10:25
+A mesma coisa meu. Eu fui fazer agora Oo coiso, o.
+
+1:10:31
+O login aqui deu mesmo vantagem. Ele não é público, é público. Pra quem tá logado, mas eu também. Isso é público, tem que logar, tem que tá logado.
+
+1:10:40
+Mas está usando OTRE ou do TJCR?
+
+1:10:44
+Eu. Eu estou usando OTRE.
+
+1:10:47
+E mesmo assim, não chega. O e-mail de confirmação.
+
+1:10:53
+Tenta pesquisar lá o colega que deu por mim mais tarde estava usando TRE também, né, então?
+
+1:11:01
+Verifica Léo No No, no spam, às vezes demora um pouquinho, às vezes tem um delay nesse servidor que ele utiliza lá, pode demorar um pouco, mas assim pode ficar tranquilo que o que está aqui eu vou também dar. Vou publicar aqui também no ambiente do do moodle, tá?
+
+1:11:17
+Ah, beleza.
+
+1:11:19
+
+
+1:11:23
+Carlos Michael.
+
+1:11:28
+É você? Tinha comentado que para eu bater o print de algumas coisas, eu não sei se você está compartilhando alguma tela, é porque para mim não está aparecendo o compartilhamento de tela para mim também não, não. Aí é assim. Quando você foi falando eu imaginei isso. Mas como os outros colegas estavam tendo dúvida, eu esperei terminar para poder, porque você tinha pedido para eu printar algumas situações que eu não consegui.
+
+1:11:58
+Identificar quais eras por causa da falta de sem problema. E eu estava aqui até deixa eu comentar, se vocês perceberem que eu estou falando a respeito de algo que não está, é aí e dá esse feedback aí.
+
+1:12:11
+Tá, beleza.
+
+1:12:12
+É, eu nem vi porque eu estava na tela do sinal.
+
+1:12:17
+E uma outra coisa no jit, né? No jitjit é jit lab, né? Quando eu acessei e chegou, não há na parte, né? De selecionar 11 rol para poder iniciar a gente selecionar algo ou não. Isso vai ser no momento posterior selecionar.
+
+1:12:42
+A Raul te pegou walcome to gifth Gift lab. Carlos. Aí tem role aí selection role aí tem software developher.
+
+1:12:54
+Tem várias situações que eram seriam para selecionar, para iniciar, pode colocar como é sua primeira lota.
+
+1:13:03
+
+
+1:13:08
+Que aí sim, agora ai OK, que aí agora apareceu o mesmo sistema.
+
+1:13:14
+Para mim?
+
+1:13:18
+Voltar a explicar. Acho que o pessoal não viu aqui quando eu logo tá, qual que é o passo? Se eu loguei ele vai aparecer aqui e aí eu vou colocar.
+
+1:13:30
+Aquela senha da autenticação, eu achei até que o colega tivesse vendo, entendeu? Eu apresentei uhum quando o Google autentique, tá?
+
+1:13:39
+
+
+1:13:44
+Deixa ele nem pediu no meu, ele não pediu.
+
+1:13:52
+Algum momento ele deve pedir para você, para poder fazer essa essa validação aí.
+
+1:13:59
+Aí, Léo, tu que não está conseguindo, teria que vir aqui. Realmente não foi agora, né? Peço hoje colocar o e-mail.
+
+1:14:07
+E aí, espera um pouquinho.
+
+1:14:09
+Ele, ele chega, demora um pouco, mas chega. Qual o nome do projeto?
+
+1:14:17
+Aqui no geat lab é week é o week do.
+
+1:14:22
+
+
+1:14:25
+Aí que ela é publicamente, deixa eu mudar de novo aqui.
+
+1:14:32
+Play aí no grupo.
+
+1:14:38
+A yadox week.
+
+1:14:41
+O projeto seria esse aqui. Dotes.
+
+1:15:28
+Tá certo, Leo.
+
+1:16:01
+E no caso do DOC, pessoal, tá já Windows.
+
+1:16:05
+Lino, perdão, esse é o procedimento, né?
+
+1:16:09
+E no caso de um ambiente, se.
+
+1:16:15
+Windows perdão é só fazer o download next next mesmo lá que a gente já faz o processo.
+
+1:16:23
+
+
+1:17:01
+Carlos, eu não dou, não pode falar.
+
+1:17:08
+Wayne.
+
+1:17:11
+OPA, que eu tenho te deixado, ela levantada? Jamais, mas eu já tinha falado com você. Obrigado, beleza.
+
+1:17:18
+Pessoal, então é isso. Eu vou pedir para vocês. É.
+
+1:17:22
+A gente, se não tiver mais nenhuma dúvida pontual, tá? Eu vou resolver essas Pendências que eu tenho em relação tanto a questão do fórum, tá? Quanto dos colegas do Rio Grande do Sul para poder incluí-los, aí a gente vai se comunicando ali pelo.
+
+1:17:37
+WhatsApp.
+
+1:17:38
+E aí, vocês passam esse processo não passa mais algum objetivo para quem, principalmente para quem não está com?
+
+1:17:45
+Com acesso aqui ao Ikea, motelzinho bem bem básico, mesmo simples, rapidinho, para poder fazer essa instalação ali no ambiente e amanhã a gente já retorna ambiente instalado eu vou reforçar essa instalação passo a passo. Hoje fica só com uma atividade para vocês e a gente começa já Na Na parte mesmo aqui institucional, criando o nosso primeiro modelo. Vou falar a respeito de cada uma dessas funcionalidades do sinapse.
+
+1:18:16
+Depois a gente entra em classificação, que vai ser o foco desse nosso módulo. Vai ser em classificadores.
+
+1:18:27
+O Tiago, o senhor conseguiu acessar?
+
+1:18:31
+Michael está dando o está dando um errinho na autenticação na no duplo fator.
+
+1:18:37
+Acessar o moodle. Sim, eu falo, você fala do sinapse.
+
+1:18:43
+Isso, isso aqui.
+
+1:18:45
+É o muro, está OK, só está só não está conseguindo, só não está liberando a questão da postagem No No no fórum.
+
+1:18:56
+Daqui a pouquinho agora já tinha dito, mas aí no sinapse está dando, está ficando aquele do mesmo jeito que o colega falou, aí está ficando só aquele cérebrozinho no.
+
+1:19:04
+Sem nenhuma outra?
+
+1:19:06
+Opção? Ah, não, não, não. Então gay conseguiu esse? Esse é o que eu, o que a gente gostaria mesmo consegui, porque eu nem acessar ali você logou, então é sinal que tá, tá? Tá autenticando só que aí é o mesmo problema que os colegas reportaram agora há pouco e eu vou passar pro pessoal da equipe lá de desenvolvimento.
+
+1:19:21
+Que era um bug que eles tinham identificado que quem autenticava que realmente pelo goff BR, em alguns casos, não estava conseguindo fazer AA vinculação do perfil. Mas é isso, aqui resolve por aqui, tá? Não vai ser impeditivo aí amanhã, se não, se eles não tiverem resolvido isso, tem um usuário que a equipe lá criou para situações como essa para treinamento, que é o disponibilizo para a equipe aqui e a gente utiliza esse usuário único, né? Até que seja resolvido esse problema aqui, que é um problema de buggy mesmo, não tem a ver com o perfil de vocês, não.
+
+1:19:52
+Está certinho.
+
+1:19:55
+Tranquilo, beleza.
+
+1:19:59
+Público?
+
+1:20:00
+Oi.
+
+1:20:04
+Olá.
+
+1:20:05
+Quando eu acesso aqui o sinal, ele não mostra todas as as opções que tem lá No No wic, certo? É alguma permissão.
+
+1:20:14
+Está parecendo só o cerebrozinho. É isso? Não, não, não está aparecendo, está aparecendo várias opções, mas não é igual o que tem no é Luiz Ayres.
+
+1:20:26
+Luís, porque os caras têm agora há pouco.
+
+1:20:29
+Ninguém foi. Não, não mudo, né?
+
+1:20:32
+Tá no mundo, mas aqui no domínio.
+
+1:20:36
+Ah, não é o Felipe, né? Não tá? Você deve tá aqui, Luís. O que acontece?
+
+1:20:41
+
+
+1:20:49
+Luiz Alves, né, Luís ares? É porque você tem acesso ao códex, cara.
+
+1:20:55
+Luís Aires é não, mas eu tenho bem menos opções do que eu. É exibido aí no na, no, no wiki eu sei, Luís, mas esse acesso ao que você solicitou ao CNJ, direto do codex, você tem acesso.
+
+1:21:07
+
+
+1:21:10
+Tu. Tu consegue acessar, mas porque meu filho vou mostrar amanhã é Renato, você está com o perfil, mas você não está é trazendo a credencial. Posso tentar chamar depois aqui, mas mas aí a gente faz agora mesmo, na situação que eu.
+
+1:21:26
+Entrei com o Gov. BR também está com menos opções, não é? No menu, acho que falta associar o perfil à ao projeto exato é eu também, colocado número.
+
+1:21:36
+Quem te vê na situação? Tira um print do que que aparece e manda pra mim, tá? Porque quem aparece só aqui, Oo cerebrozinho é uma situação. Quem aparece isso aqui, mais os menus não tem acesso, é outra, tá?
+
+1:21:52
+Esses aqui, Wendel e companhia, que é para estar com acesso ao full. Esse aqui não, não, não é para ter nenhum problema.
+
+1:22:01
+Me encaminhou agora há pouco aqui pelo.
+
+1:22:06
+Eu mando por aqui mesmo.
+
+1:22:08
+Pode mandar No No privado, ou podes mandar no duplo também tem que usar, não pode colocar lá no grupo.
+
+1:22:14
+Andam no grupo, está bloqueado, né? Não dá para incluir nada lá. Espera aí que eu já liguei só um minutinho.
+
+1:22:30
+Pronto, o grupo tá liberado, porque aí a situação pode colocar aqui.
+
+1:22:44
+Enviei no grupo já beleza, Carlos.
+
+1:22:49
+Micaela só aqui no consegui acessar o kit, só que estou emperrado na parte do duplo fator de autenticação. Tento fazer autenticação pelo pelo QR Code. Só que o celular.
+
+1:23:07
+Limita de alguma forma aqui?
+
+1:23:10
+AA forma de da dupla autenticação.
+
+1:23:16
+Ele puxa para o Samsung Pass.
+
+1:23:20
+Você com Google Authenticator, quando você abre, ele gera 6 dígitos, você coloca e você consegue logar, dá certo, isso aí, lento é porque é porque tu colocou o Samsung Pass para fazer todas todos os acessos desse de segurança. Tu tem que desmarcar o Samsung Pass lá nas configurações e colocar para ele perguntar sempre, né?
+
+1:23:43
+Entendi. Ele vai perguntar, qual o aplicativo tu quer utilizar? Aí tu seleciona o aplicativo do Google, OK, obrigado.
+
+1:23:53
+Show?
+
+1:23:56
+Tranquilo, pessoal, tudo certo.
+
+1:24:00
+Fora, fora as as questões que não estão, mas que estão mapeadas aqui já a gente vai trabalhar em cima.
+
+1:24:06
+
+
+1:24:12
+Então, tranquilo, o Tiago, então a gente pode encerrar.
+
+1:24:16
+Deixar o pessoal aí, vocês com essas atividades tá aí com Pendências, a gente tem, então beleza do fórum. Vou resolver aqui é o problema também dos colegas que estão logando lá pelo SSO, pelo blog BR.
+
+1:24:33
+E havia mais um, que é o pessoal do Rio Grande do Sul, colegas do Rio Grande do Sul.
+
+1:24:42
+Mas daí podem também. Eu reporto todos esses eu lá no grupo ao longo do dia, eu vou recortando a gente vai conversando aí com o pessoal.
+
+1:24:52
+E amanhã a gente retorna o link dos nossos encontros vai ser sempre este mesmo, tá? Vou colar ele aqui na no na tela do do próprio ambiente, vou colocar também lá No No ambiente do do moodle, tá? E ali, na descrição do grupo WhatsApp, eu vou deixar disponível também esse link aqui.
+
+1:25:11
+Tenho pra Posse acessar por lá o horário, o mesmo tá pessoal.
+
+1:25:15
+Permanece o celular de início, ou eu faço uma votação depois também para a gente poder vocês preferirem começar um pouco mais cedo, a gente pode iniciar também a.
+
+1:25:26
+E o que é que fica melhor para todos os? Aí está.
+
+1:25:32
+Beleza, Michael, vamos em frente.
+
+1:25:35
+Olha, pessoal, até mais brigadão.
+
+1:25:39
+Beleza. 11 abraço.
