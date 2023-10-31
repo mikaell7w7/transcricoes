@@ -1,0 +1,937 @@
+﻿[MODULO 01] - TREINAMENTO TRE-CE-20231018_083039-Gravação de Reunião
+
+0:05
+Certo? Gravando o pessoal é, a gente vai dar sequência está é baseado naquilo que a gente propôs. Ontem ontem do shay. É de forma aberta para que vocês pudessem instalar o curso. Ele não tem foco, né? A gente tem esse pré-requisito de que vocês tenham já um conhecimento.
+
+0:26
+Dessas, nessa parte de condenarização é.
+
+0:29
+Porque é uma equipe nesse primeiro momento aqui com foco, é em tecnologia mesmo. A equipe mais mais Hand zom não é impeditivo para quem não é da área, tá? É participar e acompanhar. É interessante, né? Esse acompanhamento, principalmente por quem faz a gestão e pra poder visualizar. Para isso, a gente tem algumas ferramentas, tá que são formas de contornar. Eu volta e meia gera uma imagem que seria aquela imagem que a gente disponibilizou. Vocês devem ter tido acesso na documentação.
+
+1:02
+Pra quem? Quem não tem esse conhecimento em controlização possa levantar imagem, fazer tudo o processo.
+
+1:07
+E a intenção do projeto, inclusive, é de que cada vez mais a gente consiga abstrair certos passos para que as pessoas possam utilizar a plataforma de forma é.
+
+1:18
+É intuitiva, sem se preocupar com tecnologias externas. Porém, quem é da área técnica mesmo, é interessante ter esse overview e esse aprofundamento nessas tecnologias para poder ir mais além, tá o ambiente mesmo. Você consegue fazer mais se você tiver o teu ambiente customizado, você faz ele do zero, porque esse é o é o foco.
+
+1:41
+É ATI. Ela tem.
+
+1:44
+Uma limitação, ela só funciona para ambientes Linux, então é possível instalar o pessoal. Geralmente pergunta, consigo usar o anaconda?
+
+1:53
+Consegue, só que você vai ter que fazer modificações No No. Em uma das Lips, para que seja possível, você é utilizar AA forma. Como o Windows trabalha com diretórios que é diferente do Linux? Só um minutinho, deixa eu ter uma aula aqui.
+
+2:09
+
+
+2:13
+Então, na verdade, acaba sendo um workahound ali, 111 gambiarra, que pode acontecer outros problemas e a gente acaba. Não, não, não possibilitando suporte dentro desse tipo de ambiente. Como é que a gente contorna isso? Utilizando virtualização, seria via doce ou via virtualbox? Certo? Só que aí nós vamos ter as limitações também em relação a esses ambientes. Quando a gente utiliza a virtualização com virtual box, se você precisar de GPU, você vai ter o conhecimento bem avançado ali em termos de utilização desses ambientes para poder conseguir disponibilizar.
+
+2:46
+GPU que está na tua máquina.
+
+2:48
+Principal, né? Por hospedeiro e aí a gente sabe quando você faz esse tipo de virtualização, você perde recurso, você perde eficiência.
+
+2:57
+Mas para modelos mais simples, modelos mais é, é tranquilo, tá? Não teria nenhum problema.
+
+3:04
+Em relação ao que o Cléber, né, colocou agora a gente está aqui nesse looping. É o que que acontece. Nós temos. Eu vou pegar até a documentação aqui. Já disponibilizei para vocês lá no ambiente está aqui esse docnaps está?
+
+3:18
+É aqui o que é que está acontecendo? A documentação que está no IC, então quem ainda não conseguiu acesso à weic, fica tranquilo, tá? Eu estou fazendo uma migração e eu estou colocando todo esse roteiro aqui, inclusive, é reformulado, corrigindo os erros, tá? O que é que está é disponibilizado aqui na documentação e não faz referência à versão atual da plataforma. Por exemplo, se vocês verificarem essa tela que.
+
+3:48
+Aqui de gestão de domínios de usuários, ela não existia.
+
+3:52
+Anteriormente, ela já é 111, atualização que não, não está ainda replicado aqui na documentação. Isso aqui é tem uma equipe que que mantém e vai sendo feito.
+
+4:02
+E conforme a gente vai avançando, eu vou colocando disponibilizando aqui, tá? Tem outros, é.
+
+4:11
+Aqui a gente chamei aqui de DOC sinaps, mas é como se fosse um livro, então vocês podem acompanhar por aqui, tá? Tem as considerações em relação ao ambiente em relação ao bit aqui, além dos passos escrito neste livro, vamos chamar isso aqui de livro, tá? É? Vocês podem utilizar essa documentação, mas sempre que você tiver alguma dúvida, me pergunte, fala tal coisa fulão, isso não está dessa maneira, mas aqui na nossa documentação, no nosso ambiente vai estar da forma correta.
+
+4:38
+Em relação aos ambientes, é Cléber, nós temos OHMLPRDE. Temos mais um também que é esse aqui que é o senado.br.
+
+4:51
+O que é que está acontecendo nesse momento aqui? Pode ver que ODEVEOA Danielle estão nesse loop infinito.
+
+4:58
+Porque é o ambiente do CNJ. Ele opera dentro da nuvem da WS, tá? E por questões de.
+
+5:10
+Economia você sabe que AWS, ela corre com disponibilidade, tanto ambiente que deve como um logação. Eles ficam em um cluster que é um cluster. A gente chama cluster estage deprimento do projeto ou homologação e eles são desligados entre um período, tá?
+
+5:28
+Da noite e da manhã, então entre meia-noite e 6 da manhã, qualquer ambiente que não seja de produção, você utilizar é dentro do CNJ. Aí fica até como 11. Dica é, se você utilizar ali APDPJE tiver lá STG significa que esse ambiente não é de produção. Então, entre meia-noite e 8 da manhã ele fica desligado e aí tem um período de religação que pode acontecer, demorar algumas vezes. Pode dar algum problema e aí quando o pessoal repórter a gente verifica esses ambientes, eles são utilizados para.
+
+6:01
+A stach de desenvolvimento dos projetos não tem foco.
+
+6:06
+É para uso produtivo?
+
+6:09
+No processo padrão de treinamento que acontece é naqueles cursos que são disponibilizados ali pela pela, pela seajude. Utiliza-se esse ambiente aqui? Tá que é um ambiente de homologação.
+
+6:24
+Então a gente sempre explica pro pessoal, falou ó, não utiliza esse ambiente é de forma a apresentar nenhum projeto ou fora desses horários porque eles são desligados e ocorre também uma limpeza nas bases. Então eles só efêmeros, então você não pode ter confiabilidade, tá nesses ambientes, diferente de vocês. Como é 11 atividade do TRE do Ceará e você, já possui um ambiente em produção? Então, a gente utiliza na produção, tá?
+
+6:53
+Para o treinamento e esta estaca aqui de a homologação em deve, ela é uma visão do CIA. Dos projetos, não é o processo que vocês precisem utilizar para desenvolver modelos de arte. Vocês têm que utilizar o ambiente de produção, né? Ainda que vocês vão fazer um modelo lá? Não. Esse modelo aqui de flash, vou utilizar na produção. Você faz o teste e aí eu vou explicar para vocês o porquê que eu posso fazer testes e utilizar a produção para isso, porque hoje eu vou dar 11 introdução nesse processo, porque a gente testa na inicialmente não.
+
+7:28
+Dentro da plataforma a gente testa localmente, né?
+
+7:31
+Fala.
+
+7:32
+
+
+7:35
+Não sei se ficou claro. É Cléber, Oo arquivo mesmo, tá?
+
+7:42
+Carlos, bom dia.
+
+7:46
+Micael, digamos assim. Bom dia, bom dia. Bom dia, Micael.
+
+7:53
+Digamos assim, Micael, eu entendi e não entendi, certo?
+
+7:59
+Tá, eu entendi muita coisa do que você falou, mas os detalhes é que matam.
+
+8:05
+Esses detalhes, eles vão ficar mais conforme a gente for avançando no curso, eles vão ficar mais mais, mais claros, tá? É, pode ficar tranquilo, mas nesse momento foca aqui, ó, tá embora, eu tenha colocado em Cláudio aberto.
+
+8:19
+Mais?
+
+8:21
+Isso não sou eu, não. Eu estou quieto, é o é o Carlos.
+
+8:27
+
+
+8:28
+É, embora a gente tenha aqui essas referências, tá? A gente vai estar utilizando esses ambientes aqui, tá? Foco em PRV para vocês aqui não tem é não tem foco em uma vogação o foco está lá Na Na produção, tá? A gente sempre vai utilizar a semente anunciada.
+
+8:50
+Eu entendi que eu estou usando produção para um treinamento para algo educacional, enfim. Mas assim, o que que eu?
+
+9:01
+Geralmente eu vou encontrar na produção. São os modelos de a valendo os modelos de a da da do tribunal, né? E dos outros tribunais? Pela que eu vi aqui.
+
+9:13
+Sim, só que que acontece, vou explicar para vocês o seguinte, você encontra os do seu ambiente, não necessariamente você vai ter acesso aos demais, tá? Ah, tá eu, eu, eu consigo usar?
+
+9:25
+No momento nem vi, tá? Mas vai ficar mais claro hoje. Eu vou chegar nessa parte. A gente focou no ambiente, mas assim, você utiliza o ambiente de produção porque é um ambiente de vocês. Imagina que você é porque dentro dos sinapses você não necessariamente tem ali 111 segmentação, uma validação visual tocada no que nesse conceito de produção, o que o que vai dizer? Se o teu modelo está em produção ou não, é mais uma prática interna, tá?
+
+9:56
+De disponibilização desse modelo e uma segmentação, uma governança interna do que o ambiente em si tá.
+
+10:01
+Quando eu falo de ambiente de produção, é porque esse ambiente OCNJ disponibiliza. Ele é confiável? Ele tem mais recursos, ele é, funciona e opera em 100% do tempo, anão ser que ocorra alguma, é parada pra é manutenção programada, tá? Então é, entenda-se, sobre essa forma, produção é um ambiente confiável e os demais ambientes HML deve. Eles são esteques do CI de desenvolvimento das plataformas e eles não são confiáveis do ponto de vista de uso para o cliente.
+
+10:33
+No caso, somos nós aqui, utilizando.
+
+10:35
+Pra poder colocar modelos e hospedar esses modelos e disponibilizar o consumo deles.
+
+10:41
+Mas aí fica mais claro, eu entendo essa confusão, ela acontece, é, é, é normal. E conforme a gente avança, vai ficando mais claro. Eu faço essa segmentação porque na documentação é acaba sendo apresentado isso, mas é algo que eu já pedi ao que eu pedindo também para ser eximido, tá? Para não ter essa essa essa confusão, mas nesse momento vou ficar aqui só no ambiente de produção eu ainda deixei aqui AHML que eu sei que está na documentação aqui para não esquecer essa explicação, eu acabei.
+
+11:13
+Trazendo isso, não é para o.
+
+11:14
+Nosso momento aqui.
+
+11:19
+Show. Vamos então, pessoal, é dito, isso é, está disponível, tá aqui para vocês. Tem essas considerações. Então aqui não precisa nesse momento, em relação ao ambiente, não precisa focar no que está aqui, na documentação, na bilhete, pode utilizar o que já está disponível aqui dentro do do ambiente aqui do do nosso treinamento que passo a base, porque vocês sabem que vocês vão fazer e eu vou fazer. Aqui está me falando antes.
+
+11:48
+Pessoal.
+
+11:50
+Eu diria assim, que sempre que vocês entrarem, tem uma opçãozinha lá que é pra poder fechar o áudio, tá? É o Rodrigo. Obrigado, Rodrigo.
+
+12:00
+E aí, como é que a gente vai fazer? A dinâmica é conforme eu vou explicando aqui podem tá, levanta a mão.
+
+12:07
+
+
+12:07
+Posso eleger alguém aqui que possa me auxiliar? Pode ser?
+
+12:11
+Cléber pode ser você acompanhar aqui na lateral, os colegas que levantarem mal.
+
+12:17
+Dúvidas?
+
+12:18
+Eu não sou muito bom nisso, mas eu posso tentar.
+
+12:22
+Tá tranquilo, tem problema, não é, só deixa aberto aqui onde tem pessoas, você consegue abrir aqui o deixa eu trazer pra cá minha tela?
+
+12:35
+Essa telinha aqui, ó, clica nela e aí você vai visualizar se alguém levantar a mão vai aparecer aqui a mão levantada aí é só me ficaria você no caso a pessoa, para poder fazer a intervenção. E aí eu faço a pausa e a gente abre para para a dúvida do colega, é bom? Beleza, obrigado.
+
+12:57
+A tua tela assumiu. Se você está compartilhando a tua tela porque assumiu aqui.
+
+13:04
+Sumiu até os compartilhamento a mim para mim, subiu para ti, está normal. O normal é assim.
+
+13:12
+Ah, eu estou apresentando aqui a tela do ambiente aqui do da documentação. Hum, eu vou ver o que, o que que eu fiz aqui de errado? Espera aí.
+
+13:21
+
+
+13:26
+Então, pessoal, o que que acontece, vocês vão chegar nesses passos aqui? Isso aqui para um ambiente.
+
+13:33
+Linux está executem todos esses espaços. Deixa eu ver aqui o meu.
+
+13:52
+Galera do menino.
+
+14:07
+Quem estiver utilizando o link eu vou. Eu vou pautar, é dentro dessa dessa prática. Aqui num instativo tá? Depois eu vou explicar as abstrações que a gente pode fazer, quais são os ambientes que a gente? Conforme para quem não conseguir instalar o DOC ou para quem não conseguir instalar ali a parte do do do da ova, também da virtualbox. A gente vai utilizar um ambiente que é do play with doker, tá e possibilita que a gente consiga.
+
+14:37
+Ter ali uma imagem que está pronta até teve um colega ontem que já finalizou, chegou nesse nessa parte lá. Mas assim sigo esses passos. Quem está utilizando o Linux? Instalem aqui o ambiente. Tá, façam ali um.
+
+14:50
+A Henry staal aqui 368, eu vou querer até aqui agora vou fazer esse passo aqui.
+
+15:09
+Só que vocês conseguem visualizar aqui a minha tela segmentada em 2.
+
+15:17
+Perfeitamente.
+
+15:19
+Bem fácil é o que é que a gente utiliza o paienzi, no caso, quem utiliza é Linux. É uma maneira que eu tenho de não precisar, é instalar na máquina, alterar as configurações do parque na minha máquina, então ele é. É uma forma de eu criar ambientes virtuais. Eu mesmo utilizo isso para poder programar EEE para cada projeto, dependendo com a versão do parto ou até mesmo das libras que eu utilizo, eu Gero um ambiente virtual e faço.
+
+15:50
+AA coplagem ali na minha, na minha ideia para aquele projeto específico.
+
+15:55
+De acordo com com o país. Tá? Então, o que que seria aqui? Vocês dentro do terminal de vocês, o ambiente qualquer, vocês podem.
+
+16:04
+Dar um estando acompanhando, instalado, está. Deixa eu abrir aqui.
+
+16:17
+Esse comando aqui eu instalo a versão do Python, tá?
+
+16:25
+368, se eu tentar instalar, eu já tenho aqui já existe, tá? Então não vou continuar.
+
+16:32
+É, qual que é? As perguntas mais comumente realizadas até um tempo atrás, cerca de 24 meses a gente tinha, né? A limitação de uso da aversão do Python dentro do Senado, mas isso foi corrigido com uma evolução tá que ocorreu?
+
+16:50
+Longo desse período e possibilita que vocês utilizem da 36 até a 36 até 3 11, que é a última versão, então você pode instalar isso e lá no momento em que a gente cria o nosso classificador.
+
+17:03
+A gente escolhe a versão, né, que a gente vai utilizar no nosso.
+
+17:10
+Aqui no treinamento vou utilizar ATV 68. Wendel tá com áudio aberto.
+
+17:22
+Mais?
+
+17:24
+É, nada impede que, Ah, vou fazer um outro modelo que utiliza 1 lb. É necessário, isso aí pode acontecer durante o processo. É de desenvolvimento de um modelo de você precisar evoluir uma lib e ela só está disponível de uma versão específica. Tá? Para o treinamento os modelos que a gente vai utilizar estão na 368, tá? Ah, mas isso não quer dizer que está que está defasado, não está muito dos modelos que estão operando hoje, eles estão a 368. Ah, porque é que não evoluir? Então a versão do país?
+
+17:54
+Não tem ganho algum, anão ser que eu modifica alguma técnica que tenha melhoria naquele processo do modelo ou uma outra técnica que não existia àquela época. Não tem razão de eu notificar. É essa versão.
+
+18:08
+Tá, então aqui, 368 está instalada.
+
+18:12
+Próximo passo, eu vou aqui criar.
+
+18:19
+O meio ambiente então o que que eu estou dizendo aqui, pai? Envie virtual, envie 368, use a versão 368 e aqui vai ser o nome do meu ambiente. Aqui está, crânio EE, mas eu posso utilizar outro nome qualquer que eu queira, eu vou utilizar aqui inclusive TRFC, tá? Vai ser o meio ambiente.
+
+18:40
+TSSE.
+
+18:43
+N. Um.
+
+18:48
+Ele vai gerar.
+
+18:53
+Que tá o meu cliente 15, um pouco a parte, deixa eu ver se deu certo.
+
+18:58
+E eu, estas mensagens aqui são só warnings, tá? Deixa eu liberar com o Sérgio.
+
+19:03
+Como é que eu entro nesse ambiente, pai? Entre, aproveite.
+
+19:09
+IECR1 nesse momento, quem tiver com a primeira para você com áudio aberto aí.
+
+19:16
+
+
+19:19
+Você pediu para eu te avisar quando alguém levantasse a mão, não é? Obrigado, obrigado, pode falar, Daniel.
+
+19:28
+É, já deu erro aqui na instalação do pai, vi eu posso mandar logo pro chat. Como é que é?
+
+19:33
+Não, não tá. Até pode colocar lá, mas eu não. Eu não vou. Eu não vou parar nesse momento, você está usando o teu.
+
+19:41
+Usando o umbunto é tá o que que acontece? Tu tens que ter feito todos aqueles privados, eu estou considerando aqui que foi tudo certo, estou fazendo aqui o processo que tu quiseste todo aquele processo ali de.
+
+19:58
+Instalação aqui pra chegou aqui No No final e você conseguiu.
+
+20:04
+Então, instalou. Se não chegou aqui, então é algum passo anterior. Precisa ser revisto, mas nesse momento assim a gente vai seguir e a gente vai ter um momento amanhã que é pra poder tirar dúvidas, tá? Amanhã a gente vai estar disponível, vai ser justamente com foco nesse apoio e ao longo do dia também. De repente, entre os colegas, a gente consegue solucionar, mas nesse momento aqui eu vou avançar. Se não tiver algo parecido com o que eu estou já estando aqui, que eu seguro aí AA dúvida, a gente tenta se consolar a depois, tá?
+
+20:31
+Tranquilo.
+
+20:37
+Ô beleza, estou aqui dentro desse ambiente vai parecer aqui que é indica que alguém Cláudio aberto aqui, pessoal.
+
+20:48
+Lago.
+
+20:52
+Que eu estou dentro do ambiente que eu quero é justamente isso aqui, tá?
+
+20:57
+Essa. Essa pega aqui, essa, essa colega aqui anteriormente, não cheguei nesse ponto, OK, está tudo certo já.
+
+21:06
+Se você fosse desenvolver de forma, é particular, sem precisar de expor, de utilizar a plataforma do sinapse tranquilo aqui você consegue dar um tempistal.
+
+21:21
+É?
+
+21:24
+Pixel, porque é o que a gente utiliza, menos, menos upgrade deixa eu atualizar a minha versão do PIB.
+
+21:31
+Se comunica de forma tranquila aqui com com os repositórios nesse caso.
+
+21:36
+Quem fez agora e tentar atualizar o PIB não vai aparecer aqui. Esse repositório next CNJ vai aparecer outro. Se alguém por Ventura, fez essa essa ação, vai verificar que puxou de outro local, tá? Porque? Isso porque quando a gente instala, a gente pode definir quais são os repositórios. Assim, quando a gente coloca lá os repositores No No Guto no débito para poder fazer atualização, a gente faz a mesma coisa em relação ao PIB, de onde a gente quer que as nossas vibs sejam executadas.
+
+22:04
+Como que eu configuro isso? Você vai criar um arquivo.
+
+22:09
+Tá? No caso do debian, se eu der aqui um LS.
+
+22:23
+Nesse diretório aqui?
+
+22:32
+O que é que pode acontecer? Algumas versões do humorto eu só vou ter.
+
+22:44
+Configue, mas eu não vou ter essa pasta Fipe. Então o que que vai fazer? Vai dar uma?
+
+22:51
+Consig.
+
+22:53
+E para criar a pasta, poder colocar essa informação ali, eu lembrei ela agora, que algumas versões acabam, não, não, não trazendo já essa essa pasta do PIB instalada em.
+
+23:05
+Eu não vou criar, vou criar porque ela já existe, tá? Tá entra e cria a pasta. Depois de criar a pasta.
+
+23:14
+Você vai?
+
+23:16
+Usar esse comando aqui, que é o touch, para poder criar o arquivo, tá que.com.
+
+23:24
+Vai é usar o editor que você quiser da sua preferência, tá? Eu uso aqui, eu vim, mas se você pode usar OG edit, pode usar o que você quiser, pode ser em modo gráfico, também não tem problema, tá? Eu vou abrir aqui.
+
+23:41
+E vai colar?
+
+23:42
+Aquele texto que está aqui que é esse aqui, global.
+
+23:47
+Tá dentro do do teu arquivo aqui do pib.com. Dessa forma você vai estar é possibilitando que o teu ambiente consiga bater dentro dos repositórios do nexus do CNJ, onde onde estão as libs que a gente precisa do projeto e são específicas do senabi o senapsi você não vai encontrar em repositórios externos, tá? Em outros repositórios, no caso, os repositórios padrões.
+
+24:16
+Então, muitas vezes o que acontece? Ah, o vertente está lá aqui, que é o próximo passo, que é o quarto passo, que está o sinapse NBA extension.
+
+24:25
+E a UTI os conquistar o snap's Klein cliente e essas 3 aqui, elas só vão ser encontradas dentro desse repositório aqui do CNJ, tá? Então é necessário que você configure.
+
+24:37
+Para que você consiga acessar dito isto, no caso meu já está instalado, eu vou fazer aqui, agora vou.
+
+24:45
+Instalar essas 3 extensões.
+
+24:48
+Deixa eu sair daqui.
+
+25:04
+Tá? Outra coisa que acontece muito também, você cria um ambiente, depois cria outro. Essa configuração aqui, imagine que ela é um container, está isolado, então se você criar um novo ambiente com outro nome, eu não vou ter as libs que eu tenho. Então eu consigo segmentar as minhas bibliotecas por por lib está OK, certinho, está ali essa aqui, a primeira.
+
+25:30
+Está lá, seguindo aqui aí a útil.
+
+25:38
+Falaram também.
+
+25:44
+Snap's guide.
+
+25:49
+E também, eu vou precisar para poder. É.
+
+25:53
+Fazer o ajuste do do meu algoritmo, o Júpiter notebook. Então eu dou um kit instala.
+
+26:03
+Instalando ainda.
+
+26:05
+
+
+26:08
+Já foi?
+
+26:16
+E quintal, Júpiter.
+
+26:33
+Pronto, tá? Nosso ambiente está configurado. A versão é essa aqui, como é que eu sei que eu tenho determinada linha pós lib, que eu posso tirar aqui um?
+
+26:50
+Triste pessoal. A visualização está boa, fez aumentar um pouquinho mais aqui.
+
+26:59
+Se houver um pequelístico, eu vou encontrar todas as libys está que eu tenho dentro desse meio ambiente, então aqui algumas são defull, já vem nativa, mas aqui eu tenho aí a última.
+
+27:12
+Estou com Júpiter instalado.
+
+27:15
+Eu tenho OEA, sinapse, clientes.
+
+27:20
+Sinapse, Andy extension e aqui, inclusive eu tenho quais são as versões.
+
+27:24
+Da dessas medidas específicas?
+
+27:29
+OK, como é que eu posso validar isso aqui? Também posso dar um tipo de lixo, barra, gripe, sinapses.
+
+27:35
+Vai trazer as ruas?
+
+27:38
+E a então, OK, essas são as direções. É importante que eu tenha, tá? Essa visibilidade da versão eu vou também fazer depois com vocês 111 s tck de erros simulados, tá? Podem acontecer. E aí é importante a gente ter essa visibilidade, porque no momento em que eu vou fazer o meu deploy, eu tenho que setar as libis, né? No caso que eu vou colocar dentro de um arquivo específico lá exatamente igual que eu tenho no meio ambiente, porque.
+
+28:12
+É, imagine que é como se fosse você mandasse um projeto quando você encaminha para o sinapse do seu depoy, está encaminhando um projeto que tenha ali alguns artefatos.
+
+28:22
+Tá, e tem ali algumas descrições do que ele deve fazer com que os artefatos, se você não é relaciona. Vamos chamar esse projeto, né? E ali as as regras dele, tal qual foi criado dentro do seu ambiente, você validou no momento em que ele for tentar executar e replicar o seu ambiente, vai dar erro, tá?
+
+28:44
+Pessoal, tranquilo até aqui.
+
+28:48
+Fora a questão dos erros, né? Que cada um teve ali em relação ao ambiente.
+
+28:55
+Okay, né? Tá nesse momento a gente vai ter uma outra parte, que é o que lá dentro do ambiente, e aí eu vou precisar que vocês, quem quiser acompanhar, pode logar aqui.
+
+29:07
+Falar em considerações.
+
+29:09
+Quem ainda não teve acesso ao usuário porque está com aquele pandemia? Mas eu creio que assim que o pessoal me der 11 privilégio necessário lá, eu consiga corrigir de todo mundo tá? Para utilizar esse usuário aqui 1111, tá?
+
+29:24
+É 111, 222, 333, 45, e a senha vai ser essa. Aqui está.
+
+29:30
+Bom.
+
+29:31
+Com esse usuário eu vou até sair aqui do ambiente.
+
+29:38
+12223-3345.
+
+29:42
+
+
+30:00
+Pedro, como é que tem conseguido logar fazendo uso aqui? A tela esperada é essa, tá?
+
+30:13
+Carlos.
+
+30:15
+Certo, está visualizando. Você quer ver o feedback?
+
+30:25
+OK, está, espera aí, Carlos é é referência a mim.
+
+30:30
+Tem 2 carros, perdão, é Cléber.
+
+30:34
+Você é Cléber.
+
+30:36
+Consegue visualizar? Não estou agora, eu estou. É eu que até vou te perguntar uma coisa, na no meu papel de quando a mão estiver levantada, a ver, eu estou naquela parte da tela do times que está focado no conteúdo.
+
+30:51
+Ainda assim, aparece aqui a mão levantada se.
+
+30:55
+Você é clicar ali No No ícone de pessoas. Ele vai criar 11 aba lateral aí e vai aparecer sim.
+
+31:02
+Ah, só tentar. Essa é, eu estou tentando acompanhar aqui também, mas é só para você me ter que eu te ter como 11 ponto de apoio mesmo aqui perfeito, deixa aproveitar o meu áudio aberto aqui para te fazer uns questionamentos de alguém.
+
+31:19
+Damien, certo? Ainda leigo, OK, é eu, eu. Eu estou num ambiente Windows certo? E eu segui a até um ponto, não fiz tudo ainda.
+
+31:36
+Que eu entendi que você disse que tem um tal do playground lá do do docker, né? E aí ele cria uma espécie de ambiente No No browser, cria um ambiente Linux lá que eu fico podendo executar aqueles comandos que você colocou lá também. Até aí tudo está tudo certo, né?
+
+31:56
+Ah, mas aí eu queria entender o seguinte, esses comandos de paien vipi, ele só é se eu não tivesse No No ambiente é Windows é, eu sei que, por exemplo, do meu ambiente, o Windows, eu instalei aquele WSL que.
+
+32:16
+Simula, eu tenho que fazer nele esse pai env todo o PIB para, se você for criar um, se você, qualquer um contêiner do zero, sim, se você for usar a imagem já pré configurada, não.
+
+32:29
+Porque ela já vem com ela, tá ali é justamente para você mostrar, quando você for criar um ambiente limpo, tá puro. Tem que fazer aquele aquele passo lá que eu que eu, que eu informei, eu vou voltar novamente nesse oi, Hum, mesmo no ambiente Windows, eu teria que fazer isso lá no WSL, né? No caso.
+
+32:49
+Se você estiver dentro de um contêiner, tá. Eu gostaria que você fala seria OAA imagem é porque ele levanta ali 111 t, né?
+
+33:00
+Um terminal que simula, na verdade, é um contêiner, é já préconfigurado ali do.
+
+33:07
+É do Linux, pode fazer lá qual que é a problemática? Eu não sei, eu não uso Windows como que ele se comporta em relação a ambientes, se ele simula realmente 100% ali ou ele é, trata os diretórios de maneira.
+
+33:25
+Efémera ali OOO dual tá?
+
+33:30
+Mas depois a gente pode. Você pode abrir uma tela? Eu não vou te afirmar com certeza, porque, como eu não utilizo o Windows, eu não sei como é que aí trata esse terminal ali, tá? Se esse terminal.
+
+33:40
+Ele tiver é 100%, like é like e únicos. No caso, tranquilo, se você executar e instalar, vai funcionar da mesma forma, tá? Vai instalar o pai envere as variáveis de ambiente vão funcionar da mesma forma? Vai funcionar sim.
+
+33:55
+Eu vou dizer de maneira na bagagem, nos erros, tentativas que eu tenho feito.
+
+34:02
+Ele diz que sim Na Na documentação e diz que sim, né? Mas.
+
+34:08
+Na prática, eu sinto que não, não, né? Então a melhor maneira, sim, é o segundo passo que a gente vai fazer agora é você utilizar um container. Tá aí você, assim você vai estar é usando ali OAWSEOL como se fosse 11, ideia de virtualização. E no container, quando você adentrar dentro dele, que é o que a gente faz ali no PlayStation ou eu faria também localmente aqui na minha máquina.
+
+34:33
+Você vai ter o ambiente da forma como você precisa, tá, mas eu vou voltar, eu vou trazer essa essa problemática depois, porque quando a gente utiliza lá o contêiner que está lá, que é até na no meu repositório, lá No No DOC, você.
+
+34:49
+Dentro do contêiner está dentro do ambiente Linux, independente do que está acontecendo lá fora, tá em relação AWSL, como você colocou, eu tenho minhas dúvidas justamente por conta disso, porque ele está emulando ali, mas ao mesmo tempo, ele não cria um.
+
+35:03
+Um padrão de diretório, você está, você está trabalhando com os diretórios do Windows? Você consegue navegar dentro do Windows e eu não sei como é que ele trata isso de forma Latina, eu vou procurar dar uma olhadinha, depois vou, vou tentar aqui, vou criar uma máquina Windows dentro da minha. Eu nem sei se se é possível dentro da minha virtualização do virtualbox e tentar acessar a partir dela WSLE aí eu de repente eu consigo trazer para você 11 retorno a respeito disso, tá, mas fica tranquilo, a gente vai conseguir executar todos os espaços.
+
+35:34
+É mesmo? Por isso que a gente tem esses vários ambientes, tá? E eu não sei se você olhou.
+
+35:41
+Aqui é para cada um desses. Eu coloquei aqui vídeos que já foram gravados, não é? Eu explico aqui, no caso, no caso do ambiente Windows, é da obra também.
+
+35:53
+Aqui é WSLE, aí você tem a virtualização seria para quem utiliza o Windows, mas não tem WSL está lá. O virtualbox, e tentar emular ali o através dessa dessa obra, fazer o esse processo e aí essa, essa aula tá? Eu vou revisar isso aqui amanhã. Quem não conseguiu na aula de suporte amanhã nosso momento vai ser focado nisso.
+
+36:17
+Eu vou. Vi até esses esses ambientes, embora tenha uns vídeos aqui, mas eu vou repetir esses passos e aí, se tiver algum erro, eu até peço que vocês tentem executar antes, para que amanhã a gente consiga tirar essas dúvidas, tá? E um terceiro passo aqui que é a nuvem da hora que eu cheguei a fazer. O uso dela também. Uma vez seria mais ou menos se você fosse utilizar ali o ambiente da WS ou da Microsoft, ou da ou da Google cloud para poder criar o teu ambiente, tá? Eu utilizei o do da Oracle porque eles disponibilizam ali alguns níveis de recursos.
+
+36:50
+Abrir, né? Porque esses demais ambientes não disponibilizam. Mas eu testei em todos eles e testei na Microsoft, né? Na Na, na azul e o egger, né? Como cada um queira chamar, testei também na WS, onde eu tenho mais mais prática.
+
+37:03
+E na Google cloud também já é. Criei ambientes lá mais.
+
+37:09
+Porque eu aconselho, é nativo.
+
+37:13
+E DOC tá, então, mas aí no caso do DOC, você pode utilizar o eplay de DOC, que seria esse playground aqui.
+
+37:20
+Ou acessar lá o repositório e localmente, você fazer esses passos, né? A tua máquina mesmo na WSL você conseguiria, tá? Não precisa ir para esse espaço que está na ativa aqui, você acessa a sua WSLE, executa os passos que estão dentro do DOC aqui, dessas informações aqui, ó, tá?
+
+37:50
+Você faria esses passos, executaria esses comandos aqui na tua WSRE aí você vai levantar um contêiner e vai funcionar, aí é certeza tá que eu sei que pelo menos isso AAWSL consegue fazer tranquilamente ela vai conseguir se tiver o DOC ele instalar.
+
+38:05
+Tá, mas aí você teria que instalar o docker também dentro do ambiente.
+
+38:12
+Mas vamos voltar aqui. Eu saí dessa parte de de de ambiente, mas eu vou voltar já, já tá OK? Eu preciso configurar o que a gente vai utilizar no ambiente agora seria lá no sinapses, tá encosto do usuário?
+
+38:26
+É a gente configurar o nosso primeiro classificador ali.
+
+38:31
+Como é que eu faço isso indo agora para uma parte? Em relação à interface, antes da gente entrar nessa questão dos classificadores, vou fazer um overview para vocês aqui do que a gente tem na plataforma, tá?
+
+38:44
+A intenção dos sinapse quando a gente desenvolveu era facilitar esse processo de criação de modelos que, na época bem artesanal. A gente não tinha segmento aqui, já teve prática. Aí como seja, maker com o ambiente da do do que face?
+
+38:59
+Ou do próprio kago é vai ver coisas muito parecidas do que a gente tem no Senado, só que de maneira ali, mais é linha de comando, tá no sinapse, a gente abstrai essas possibilidades. Traz ali para um ambiente de gráfico, mas a gente pode fazer isso para mim através da linha de comando.
+
+39:19
+A gente vai lá no segundo módulo abordar mais a questão da da PI, de algumas práticas via de comando. Nesse momento a gente vai focar dentro do ambiente. Aqui é visualmente.
+
+39:31
+Então, quais são as 3 modalidades de modelos que a gente geralmente costuma é criar? Quando a gente fala em em inteligência artificial, são classificadores. Seriam modelos de classificação, onde eu tenho um rótulo e eu tenho associado aquele rótulo.
+
+39:48
+Exemplos e ao treinar eu consigo, baseado em inputs, associar aquele meu input a um dos votos do meu modelo, então eu gera uma classificação.
+
+39:58
+Um outro tipo de modelo que eu tenho são anotadores, tá anotadores? Eles seriam modelos de reconhecimento, identidade nomeadas, né? Dado um documento, eu quero que o meu modelo reconheça determinadas entidades, as partes do direito e reconheça-lhe os pedidos e para que eu faça isso, eu preciso informar para o meu modelo, né? Treiná-lo para poder reconhecer isso, então eu consigo dentro do Senado criar modelos dessa forma.
+
+40:31
+E também fazer o treinamento, né?
+
+40:36
+Supervisionado, fazendo uso aí de pessoas do negócio para que o meu modelo, ao ser treinado, reconheça essas entidades, tá? A terceira forma seria um. É modelos de closerização. Se em legais, né ou modelos que não utilizam necessariamente é o treinamento supervisionado. Trabalhar com a duplânio e aí, dentro do sinapse, a gente agrega isso dentro de uma área chamada modelos genéricos, tá aonde? Eu não vou fazer uso de treinamentos provisionados e também eu não fico obrigado a utilizar a plataforma para.
+
+41:13
+Fazer a gestão do meu data. 7 eu posso fazer a carga do data, 7 já previamente até guiado, ou então.
+
+41:22
+Através de um outro repositório, só apontando para ele e gerar aqui quais são desse primeiro módulo o os modelos que a gente vai é atuar, vai ser esse aqui que são são classificadores, que é o que últimos anos inclusive utiliza, tá? Anotação e modelos genérico. A gente vai visualizar e vai trabalhar, vai fazer essa incursão entre o segundo e o terceiro módulo, tá? Então, o intuito é, vocês vão encontrar alguma coisa também em alguns vídeos que eu vou, vou disponibilizar para vocês.
+
+41:52
+Mas é o intuito mesmo. Primeiro modo é a gente ter esse entendimento, é amplo. Vocês podem verificar que muitas vezes eu faço uma menção mais genérica, tá? Não, não digo muita coisa a respeito, até por não criar confusão, mas no momento em que a gente está fazendo reedson eu retorno, tá? Àquele ponto, explico novamente, e a gente tem o entendimento daquele conceito. Se tiver dúvidas, a gente aprofunda, tá?
+
+42:19
+Então a gente vai seguindo dessa maneira.
+
+42:22
+Em relação?
+
+42:24
+Aos modelos de classificação eu tenho é aqui nessa área onde eu crio, tá? O meu classificador, eu tenho que um menu chamado predições e aqui ele vai ficar carregando porque eu não tenho nenhuma predição, eu vou sair aqui e logar o outro usuário.
+
+42:42
+Pra poder pegar mais exemplos como esse o nosso contêiner né? Ainda não tá que seria o nosso domínio? Com exemplos e modelos, eu não vou ter isso. Passo de visualização.
+
+43:03
+OK, eu tenho predição, predição é o quê? É uma das funcionalidades que eu tenho no senacs que há um modelo que eu tenha ser requisitado, eu posso fazer ali Oo log dele, vou fazer aqui uma similaridade. O que é que seria isso? Seria o que a gente está visualizando hoje ali, os prompts que a que a gente tem lá no. No ChatGPT, muita gente fica em dúvida se eles armazenam ou não, né? Essas informações eu tenho por mim que, embora o contrato, eles se coloquem que não, mas é passível de isto acontecer.
+
+43:36
+Que é o quê? Quando o modelo é requisitado, aquela requisição dele fica registrada. Então aqui ó, no dia 28 do 7, houve uma requisição. É para o modelo de classificação, verifica a petição, que teve uma convicção de 70%.
+
+43:52
+E aqui eu consigo ver, né? Qual foi o meu arquivo que foi que está? Então teve aqui e eu consigo ter também aqui um histórico dele, então esse mesmo, esse mesmo arquivo, esse mesmo input. Ele ocorreu em momentos distintos no dia 15 do 53 do 6 e no dia 28 do 7, às 9 e 5. Então eu estou registando a minha petição para que é que eu faço isso? 2 maneiras a auditabilidade governança daqui caso.
+
+44:23
+Assim como aconteça na união europeia.
+
+44:25
+Que existe legislação que informa que toda e qualquer pessoa que tenha é processos que é foram fruto, né? Ou tiberação de inteligência artificial na sua fase de decisão ou na sua fase de de perde uma corto a lenha. Aqui a gente não utiliza em fase decisória, mas utiliza em em fluxos, elas têm o direito de entender qual foi o processo, né? De saber o que é que aconteceu naquele processo. Então aqui a gente tem uma auditabilidade do modelo em relação ao que aconteceu, então.
+
+44:56
+Em determinado momento, é interessante que vocês e isso a gente configura para mostrar como é que a gente faz isso quando a gente estiver fazendo lá na frente.
+
+45:03
+É as requisições para o nosso modelo através do cliente. A gente vai ligar as as chavezinha para que as requisições sejam agitadas, então eu consigo ajudar. Então fica registrado. Se lá, num determinado momento, alguém perguntar, falou, pô, mas OOO? Modelo decidiu que determinada ação aconteceu dentro do meu processo e eu discordo. E aí você consegue fazer a rastreabilidade e identificar o que aconteceu segundo objetivo da gente fazer o registo dessas predições?
+
+45:33
+
+
+45:35
+
+
+45:37
+Esse recurso aqui como massa de exemplos. Então, se eu tenho, vamos imaginar quando eu trabalho com.
+
+45:47
+O treinamento do meu modelo eu faço ali um data, 7.
+
+45:51
+Apurado, seja através de treinamento advionado por pessoas ou através de uma inteligência artificial. Mas eu tenho aquele datasse ali é classificado.
+
+46:00
+E aí eu chego a por Ásia de 70% conforme eu vou melhorando. O meu processo é dia. É validação do na data 7. Se eu tiver novos exemplos nos quais eu tenha uma certeza maior acerca de que determinado exemplo de fato pertence a determinado rótulo, então eu posso utilizar esta carga de exemplos e retreinar o meu modelo, gerar uma versão nova e.
+
+46:27
+Em tese, atingir, né? Uma acurácia melhor. Então eu posso vir aqui e escolher classificador, tal o código dele, e eu quero só aqueles no qual o meu modelo teve uma convicção superior maior ou igual a vamos chegar aquilo.
+
+46:45
+80%. Eu vou colocar 70%.
+
+46:51
+Quando vi que tem aqui 1424940 e lutas é porque não existem muitos modelos que estão sendo monitorados. Aí a gente no nosso mesmo aqui, que é o que se verifica. A petição é o modelo que a gente utiliza, a gente desativou, então deixa eu pegar aqui, modifica a petição e vou fazer aqui. Quantos exemplos eu tenho acima de 70%.
+
+47:15
+Nem um erro.
+
+47:23
+Como deve ter muito ele ter colocado, mas aí vai demorar um pouquinho, mas feito isso, ó, tem 1149000.
+
+47:32
+Acabou trazendo todos.
+
+47:36
+Deixa eu aumentar.
+
+47:39
+80.
+
+47:41
+
+
+47:52
+Kleber, tranquilo, não tem nenhum, então assim eu não tive nenhuma convicção superior a 80%, então eu vou reduzindo esse score aqui. 74.
+
+48:11
+Também, não.
+
+48:13
+E 3.
+
+48:21
+Então, tem 859105 registros novos exemplos que eu posso utilizar então, aqui são exemplos novos que eu posso utilizar para retreinar o meu modelo, cuja curaça foi superior a 73%.
+
+48:36
+Tá? Então essa é uma das possibilidades de utilizar esse recurso aqui.
+
+48:41
+Cadastrar exemplos essa aqui é uma que não é utilizada até aqui. Ficou? É, mas é, você tem a possibilidade de cadastrar manualmente cada um dos exemplos que você quer é.
+
+48:53
+Funcionalmente não tem é é utilidade alguma. No meu ponto de vista atualmente, mas a gente mantém, pode ser que em algum momento você queira incluir um novo exemplo, algo ou até mesmo de repente incluir ali dentro do. Do total, 7 é uma rastreabilidade. Não vou incluir determinado exemplo no meu data, 7 que vai ter ali uma tag para que eu possa rastrear essa data. 7 caso ele venha a ser vazado, algo incentivo.
+
+49:19
+A função de reclassificar exemplos, eu vou, a gente vai utilizar ela daqui a pouco. Logo mais, quando a gente for fazer o nosso import, é para que justamente nesta área aqui, onde você escolhe pegar aqui? Micael, não.
+
+49:35
+O seu.
+
+49:39
+Modelo no caso ali o teu lata 7 que você importou e vai fazer ali a classificação dele tá tendo um deleyzinho aqui em relação AA esse processo, mas vai carregar. Eu já até reportei pra equipe também pode ser algum problema lá na no ambiente desse modo específico, então aquilo vai trazer para a gente.
+
+50:00
+O meu data, 7 que eu importei e eu vou ter a opção de.
+
+50:04
+É validar, invalidar.
+
+50:07
+Aceitar?
+
+50:09
+A classificação atual.
+
+50:12
+Tá ou reclassificar esse meu, tá certo? Deixa eu ver aqui. Ele não está trazendo, é? Ele não está a mesma classificação, deixa eu ver.
+
+50:24
+Atual. Talvez até seja isso, deixa eu pegar um outro exemplo aqui que vai ficar mais mais tranquilo.
+
+50:29
+
+
+50:39
+Fica.
+
+50:41
+Essencial?
+
+50:43
+Então, em relação às petições iniciais, que que acontece? Eu tenho essa possibilidade aqui, tá que é de.
+
+50:53
+E?
+
+50:54
+Isso aí. Quem faria esse processo? A gente faz a carga, tá? Quem não está entendendo? Vai entender. Daqui a pouco eu não falei, estou explicando de forma geral, mas depois a gente volta e a gente vai entender esse processo. Então fiz a carga do data, 7. Eu chamo a minha equipe de negócios, então vocês que vão, se as pessoas que vão trabalhar à frente dos projetos de inteligência artificial, quando houver um projeto que necessite de reclassificar exemplos de fazer curadoria, vocês irão disponibilizar esses exemplos para a equipe e eles vão utilizar essa interface aqui tá para poder.
+
+51:27
+No caso, verifico a petição. O que é que eu tenho?
+
+51:30
+Bem, o intuito de dado um input, eu dizer se aquele determinado documento é petição ou não, falso ou verdadeiro. Então eu vou classificar aqui como falso verdadeiro.
+
+51:43
+Petição em PDF é falso.
+
+51:46
+Certo, validei, como faço aqui? Está dando um errozinho também, entidade mais tranquilo esse data certinho. Ele já está apurado, tá? Ele já é utilizado no outro modelo.
+
+51:57
+Em anexo, a petição não petição inicial. Vou pegar exemplos aqui de petições verdadeiras.
+
+52:09
+Excelentíssimo senhor, tal competição verdadeira, então está com verdadeiro falso. O que é que acontece muito no PJE está em relação ao advogado, quando, quando ele peticiona, deixa eu pegar aqui, deixa eu ver se eu pego um exemplo bem clássico, que é de algo que parece petição, mas não é.
+
+52:30
+Aqui, ó ração, restituição de valores de risco para a construção em anexo. Então ele vai lá, coloca como se fosse petição, mas coloca em anexo.
+
+52:39
+Ou, em muitos casos, o aquilo pega faz todo 11 texto e diz em anexo, se você for é.
+
+52:48
+Fazer a tua carga, né? Tudo é para 7 baseado unicamente nos metadados que o usuário coloca. Você acaba incorrendo em um erro em tentar utilizar aquele data. Set no momento de fazer o modelo. Então, para isso, a gente criou um modelo que verifica se é petição, não é petição. E esse modelo, inclusive ele é utilizado hoje, lá pelo códex, para poder te guiar. Identificar dentro dos dos documentos que são é consolidados no código. Qual desses documentos?
+
+53:18
+A petição, então essa interface aqui, ela vai ser utilizada para NS. É aplicações diferentes e essa classe seriam os lótus. Somos nós que criaremos, de acordo com a concepção, né? E o objetivo do nosso modelo.
+
+53:37
+Vou pegar esse Michael no. No PJE tem um. Tem um documento denominado pedição inicial anexa, então a gente poderia de repente fazer essa vinculação a esse tipo de documento para identificar que essa é uma petição é inicial anexa e ela sempre vem no formato PDF, porque no campo de texto, onde é possível o advogado colocar o conteúdo, eles colocam assim, segue pedição e anexo, né?
+
+54:06
+Dificilmente, justamente o que a gente está pedindo.
+
+54:10
+Exatamente da forma como está aqui. Me segue em anexo, eles fazem, seguem em anexo e é por isso que a gente não dá, não pode confiar pelo metade, tá? Em relação à questão para fazer essa identificação, já existe modelo onde a gente for trabalhar com esses esses processos lá no mod(2), quando a gente estiver utilizando o corexículo 3, a gente no mod(2) 3, a gente não precisa ir no PJRA gente, vai justamente na base, né? Só esses usuais que vocês já possuem.
+
+54:40
+Para poder pegar tanto via extrator quanto via.
+
+54:46
+Integração lá do codex o documento para poder fazer essa atividade, tá?
+
+54:52
+Mas é isso mesmo, a gente criou esse modelo para poder tentar identificar a petição inicial, que é um dos primeiros passos para você fazer qualquer coisa no processo. É você saber qual que é a petição inicial e uma vez que você identificou a petição judicial, você vai trabalhar os demais. É modelos, né? Fazer uma estética de modelos ali para poder é tentar identificar outras situações, né? Dentro daquele processo.
+
+55:16
+Editor, esse editor, ele tem a única finalidade de simular ali 111 cliente rest, tá? É uma forma que a gente tem de validar o nosso modelo depois que ele já está lá em produção, a gente subiu ou não está em produção? Não vou deixar mais tempo, produção ele já foi feito deploy nativo, então vou pegar. Por exemplo. Aqui o classificador verifica a petição.
+
+55:39
+Vou dar para ele aqui um.
+
+55:42
+Documento pode ver aqui, ó, ver um documento qualquer, tudo bem que eu estou dando um que já foi da base de treinamento dele, mas se eu colocar qualquer coisa aqui, pegar uma petição.
+
+55:52
+Um texto de competição, ele vai lhe dar aqui 111 saída.
+
+55:57
+90, com 73%. Ele está me informando que isso aqui não é uma petição, não é? Está dando aqui 11.
+
+56:04
+Uma certeza de 26% de que a petição então eu vou me basear.
+
+56:11
+Pela pelo rótulo, que tá com maior, né? Certeza.
+
+56:14
+A certeza de convicção não é a mesma coisa que a curaça, tá?
+
+56:19
+Então, a função desse editor é essa, tá? O editor genérico, ele tem a mesma função.
+
+56:27
+
+
+56:35
+Só que aqui ele vai simular, tá? Um a chamada é do pay-load, então aqui você consegue identificar como que o pay load deve ser feito para o teu modelo? Seria a documentação do teu modelo? Então é aqui a maneira como você vai apresentar para o teu sistema.
+
+56:58
+Como ele deve fazer ali o envio da requisição e como é que ele vai receber? Ele vai enviar desta maneira, então é mensagem, tipo é texto, o conteúdo vai estar em base. 64.
+
+57:10
+E ao realizar a requisição, ele vai trazer desta maneira aqui o retorno vai ser um Jason também tá? E aí sim eu vou tratar esse Jason da forma que eu achar. Quando a gente dentro do meu sistema, deixa eu fazer, vieram novamente essa requisição, ó, acabei de fazer agora.
+
+57:27
+Ele teve uma convicção verdadeiro, registra. A pedição está nulo, então não estou registando essa petição. Então já comentei com vocês em relação à gente efetuar ou não o registo da petição? E eu tenho aqui os resultados verdadeiros, 73%. Falso ou 26, tá? Então, por trás dos panos, é dessa maneira que a gente tem?
+
+57:49
+De requisição, né? Para um modelo dentro dos lances.
+
+57:54
+Estatísticas é mais é no intuito de você ter ali uma visualização do que que está acontecendo dentro da da tua, do teu ambiente. Modelos genéricos a gente não vai abarcar agora, né? Vai mais lá, porque é mais avançado, a gente vai entrar dentro desse contexto lá no mod(3).
+
+58:11
+E essas demais funções equiparam ter recursos aqui é é mais administrativo. É num nível acima, tá reforço, reforço é. É uma função que foi criada no intuito de você. Ao mandar uma requisição do sistema cliente, esse sistema cliente, ele vai trazer.
+
+58:33
+A sugestão da IAE vai também pegar a escolha do do sistema, que foi executada pelo humano e vai comparar. Se houver divergência, não aí há que eu criei para poder identificar se aquele processo.
+
+58:47
+É, vai para o Ministério público ou não? Ela disse que era concluso com o Ministério público, mas OA pessoa que estava ali no sistema marcou como ou não concluso. Então houve divergência. Se eu quiser no meu sistema o retorno existe isso na PI para poder reportar. Vai vim virar, né? Aqui para o para o sinapses. O exemplo que foi utilizado no caso ali, qual foi o documento que teve a divergência?
+
+59:15
+Com a saída da IA e a escolha do humano.
+
+59:18
+E aqui eu vou ter a possibilidade.
+
+59:21
+Através de uma outra, no caso o através de uma pessoa de um terceiro validar e com isso eu consigo também gerar novos exemplos para que eu possa melhorar ali o meu data center, tá?
+
+59:35
+E aqui nessa parte de administração, eu vou voltar novamente lá no contêiner.
+
+59:40
+Pessoal, a gente pode dar 5 minutinhos só para antes para a gente entrar nesse exemplo, eu pauso aqui Oo vídeo até para ele não ficar muito longo e aí eu vou entrar nessa parte de.
+
+59:52
+É explicar os domínios e vou criar o nosso primeiro Shell Foods ali, tá? Então eu até acabei esquecendo, eu tenho aqui um marcador de combinar com vocês da gente fazer é blocos de 30 minutos, né? E pausar 5 para que a gente possa segmentar esse seguinte, porque esses vídeos, todos eles estão sendo gravados, fica mais fácil posteriormente da gente fazer AA rotulagem deles e colocá lo no ambiente para que vocês possam buscar. De acordo com o conteúdo.
+
+1:00:22
+Tá?
+
+1:00:25
+Leo está está, está online.
+
+1:00:31
+Tô, tô aqui.
